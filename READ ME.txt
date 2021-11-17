@@ -1,0 +1,7 @@
+Utilisation des fichiers :
+1- Tout d'abord exécuter le fichier  "Prétraitmenet des données.py" pour avoir le fichier Acide.txt des données dilimiter par des virgules
+2- Puis exécuter le fichier "EncodeForSPMF.py" pour encoder nos données. Tel que ce programme permet de chiffrer
+nos données et donné un chiffre pour chaque type d'attribut
+3- Ainsi ouvrir le fichier spmf avec JAVA et  choisir l'algorithme que vous voulez utiliser avec le fichier de l'entrée est le fichier encodé.
+4- LE fichier résultat du SPMF est encodé à cela il faudra le décodé. D'ou "DecodeForSPMF.py" permet de décoder le fichier et nous aurons à
+la fin nos résultat.

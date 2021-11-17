@@ -1,0 +1,34 @@
+Sinapic acid,In vitro,Inflammation,Inhibition,rat chondrocyte,IL-1 (10 ng/mL),MAPK,MMP,COX-2,PGE2
+Sinapic acid,In vitro,Inflammation,Inhibition,murine macrophage cell line (RAW264.7),LPS,NfkB,iNOS,IL-1b,TNFa,COX-2,PGE2
+Sinapic acid,In vitro,Inflammation,Inhibition,murine macrophage cell line (RAW264.7),LPS,p38,NfkB,NO,IL-6,TNFa
+Sinapic acid,In vivo,Inflammation,Inhibition,rat et ulcerative colitis,TNBS, DSS,p38,NfkB,NO,IL-6,TNFa,MCP-1,ICAM-1
+Sinapic acid,In vivo,Inflammation,Inhibition,mice et ulcerative colitis,TNBS,colonic weight,length,TNFa
+Sinapic acid,In vivo,Inflammation,Inhibition,rat et acute hepatite injury,carbon tetrachloride,NfkB,IL-1b,TNFa
+Sinapic acid,In vivo,Inflammation,Inhibition,rat et lung fibrosis,bleomycin,NfkB,oxydative stress,IL-1b,TNFa,IL-6,TGFb,HO-1
+Sinapic acid,In vivo,Inflammation,Prevention,rat,cardiac dysfunction,HMG-CoA reductase,NO
+nan,In vivo,Inflammation,Prevention,rat,kidney fibrosis,nan
+nan,In vivo,Inflammation,Prevention,rat,lipid metabolic alteractions,nan
+Sinapic acid,In vivo,Inflammation,Prevention,rat et hypertensive,L-NAME,NO,oxydative stress
+Sinapic acid,In vivo,Inflammation,Prevention,rat et hyperuricemic,potassium oxonate,creatinine,urea,xanthine oxidase (XOD)
+Sinapic acid,In vivo,Inflammation,Prevention,high fat-diet rat,high fat-diet,oxydative stress,gut microbiota
+Sinapic acid,In vitro,Inflammation,Inhibition,Human chondrocytes,IL-1 (10 ng/mL),NO,iNOS,MMP9,MMP13,NfkB,IL-1b,TNFa,IL-6,COX-2,PGE2
+Sinapic acid,In vivo,Inflammation,Inhibition,macrophages from diabetic atherosclerosis rats,high-cholesterol,high-fat and high-carbohydrate diet for 4 weeks and followed by intraperitoneal injection of low dose STZ,Caspase-1 (apoptosis marker),IL-1b,ET-1
+Sinapic acid,In vivo,Inflammation,Inhibition,rat et nephrotoxicity,cisplatin,NfkB,oxydative stress,NO,IL-1b,TNFa,IL-6,apoptotic markers,HO-1
+Sinapic acid,In vivo,Inflammation,Inhibition,rat et nephrotoxicity,cadmium,NfkB,oxydative stress,NO,IL-1b,TNFa,IL-6,apoptotic markers
+Sinapic acid,In vivo,Inflammation,Inhibition,rat et nephrotoxicity,gentamicin,NfkB,oxydative stress,NO,IL-1b,TNFa,IL-6,apoptotic markers
+Sinapic acid,Acellular tests,Lipid Peroxidation,Inhibition,membrane,copper,lipid,oxydative stress
+Sinapic acid,In vitro,Inflammation,Inhibition,human bronchial epithelial cells (BEAS-2B),TNFa (10 ng/mL),NfkB,IL-6,IL-8
+Sinapic Acid Phenethyl Ester, has analogy to caffeic acid phenethyl ester from a chemical point of view,In vitro,Inflammation,Inhibition,neutrophiles (= globules blancs humains),thapsigargin,5-lipoxygenase (5-LO) responsible for the generation of leukotrienes,major lipidic proinflammatory mediators
+Caffeic acid phenethyl ester,In vitro,Inflammation,Inhibition,Neutrophiles (= globules blancs humains),thapsigargin,leukotriene,5-LO,arachidonic acid,free radicals,oxydative stress 
+Caffeic acid phenethyl ester,In vitro,radical scavenger et Inflammation,Inhibition,Neutrophiles (= globules blancs humains),thapsigargin,leukotriene,5-LO,arachidonic acid,free radicals,oxydative stress 
+Caffeic acid phenethyl ester,In vitro,radical scavenger et Inflammation,Inhibition,Neutrophiles (= globules blancs humains) et sang et hepatocytes (HepaRG),thapsigargin pour neutros,arachidonic acid,leukotriene,5-LO,Glucoronation
+dihydroxycinnamic acid phenethyl ester,In vitro,radical scavenger,Inflammation,Inhibition,neutrophiles (= globules blancs humains),thapsigargin pour neutros,leukotriene,5-LO,autophagy,cell death
+Sinapic acid,Acellular tests,oxydative stress,Inhibition,nan,nan,nan
+Sinapic acid,Acellular tests,oxydative stress et radical scavenger,Inhibition,nan,nan,nan
+Sinapic acid,Acellular tests,oxydative stress et radical scavenger,Inhibition,nan,nan,nan
+sinapic acid derivative,In vitro,radical scavenger et Inflammation et oxydative stress,nan,vascular endothelial cell,TNFa (10 ng/mL),NfkB,TNFa,adhesion molecule,ROS
+Sinapic acid,In vivo,Neuroinflammation,Attenuation,rat et cerebral ischemia,vessel occlusion,GABA receptor,free radicals,NO,Neuronal cell death
+Sinapic acid,In vivo,Neurodegeneration,Attenuation,mice et hippocampal neuronal damage,Kaininc acid,GABA receptor,free radicals,NO,Neuronal cell death
+Sinapic acid,In vitro,Inflammation,Inhibition,murine macrophage cell line (RAW264.7),LPS,Nitric oxide production
+Sinapic acid,Acellular tests,oxydative stress,Inhibition,nan,nan,protection of DNA from oxydative stress
+Sinapine,Acellular tests,oxydative stress,Inhibition,nan,nan,acetylcholinesterase,protection of DNA from oxydative stress

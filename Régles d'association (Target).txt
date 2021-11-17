@@ -1,0 +1,340 @@
+T-NfkB T-IL-1b ==> T-TNFa SUP:6 CONF:1.0
+T-NO T-IL-6 ==> T-TNFa SUP:6 CONF:1.0
+T-TNFa T-NO ==> T-IL-6 SUP:6 CONF:1.0
+T-IL-1b T-IL-6 ==> T-TNFa SUP:5 CONF:1.0
+T-NfkB T-NO T-IL-6 ==> T-TNFa SUP:5 CONF:1.0
+T-TNFa T-NfkB T-NO ==> T-IL-6 SUP:5 CONF:1.0
+T-NfkB T-NO ==> T-TNFa T-IL-6 SUP:5 CONF:1.0
+T-leukotriene ==> T-major lipidic proinflammatory mediators. SUP:4 CONF:1.0
+T-major lipidic proinflammatory mediators. ==> T-leukotriene SUP:4 CONF:1.0
+T-NO T-IL-1b T-IL-6 ==> T-TNFa SUP:4 CONF:1.0
+T-TNFa T-NO T-IL-1b ==> T-IL-6 SUP:4 CONF:1.0
+T-NO T-IL-1b ==> T-TNFa T-IL-6 SUP:4 CONF:1.0
+T-TNFa T-oxydative stress T-IL-1b T-IL-6 ==> T-NfkB SUP:4 CONF:1.0
+T-TNFa T-NfkB T-oxydative stress T-IL-6 ==> T-IL-1b SUP:4 CONF:1.0
+T-NfkB T-oxydative stress T-IL-1b T-IL-6 ==> T-TNFa SUP:4 CONF:1.0
+T-TNFa T-NfkB T-oxydative stress T-IL-1b ==> T-IL-6 SUP:4 CONF:1.0
+T-TNFa T-NfkB T-IL-1b T-IL-6 ==> T-oxydative stress SUP:4 CONF:1.0
+T-TNFa T-oxydative stress T-IL-6 ==> T-NfkB T-IL-1b SUP:4 CONF:1.0
+T-oxydative stress T-IL-1b T-IL-6 ==> T-NfkB T-TNFa SUP:4 CONF:1.0
+T-TNFa T-oxydative stress T-IL-1b ==> T-NfkB T-IL-6 SUP:4 CONF:1.0
+T-NfkB T-oxydative stress T-IL-6 ==> T-IL-1b T-TNFa SUP:4 CONF:1.0
+T-TNFa T-NfkB T-oxydative stress ==> T-IL-1b T-IL-6 SUP:4 CONF:1.0
+T-NfkB T-oxydative stress T-IL-1b ==> T-TNFa T-IL-6 SUP:4 CONF:1.0
+T-NfkB T-IL-1b T-IL-6 ==> T-TNFa T-oxydative stress SUP:4 CONF:1.0
+T-oxydative stress T-IL-6 ==> T-NfkB T-IL-1b T-TNFa SUP:4 CONF:1.0
+T-TNFa T-oxydative stress ==> T-NfkB T-IL-1b T-IL-6 SUP:4 CONF:1.0
+T-oxydative stress T-IL-1b ==> T-NfkB T-TNFa T-IL-6 SUP:4 CONF:1.0
+T-NfkB T-oxydative stress ==> T-IL-1b T-TNFa T-IL-6 SUP:4 CONF:1.0
+T-PGE2 ==> T-COX-2 SUP:3 CONF:1.0
+T-COX-2 ==> T-PGE2 SUP:3 CONF:1.0
+T-leukotriene T-5-LO ==> T-major lipidic proinflammatory mediators. SUP:3 CONF:1.0
+T-major lipidic proinflammatory mediators. T-5-LO ==> T-leukotriene SUP:3 CONF:1.0
+T-5-LO ==> T-major lipidic proinflammatory mediators. T-leukotriene SUP:3 CONF:1.0
+T-TNFa T-NO T-oxydative stress T-IL-1b T-IL-6 T-ET-1 ==> T-NfkB SUP:3 CONF:1.0
+T-TNFa T-NfkB T-NO T-oxydative stress T-IL-6 T-ET-1 ==> T-IL-1b SUP:3 CONF:1.0
+T-NfkB T-NO T-oxydative stress T-IL-1b T-IL-6 T-ET-1 ==> T-TNFa SUP:3 CONF:1.0
+T-TNFa T-NfkB T-oxydative stress T-IL-1b T-IL-6 T-ET-1 ==> T-NO SUP:3 CONF:1.0
+T-TNFa T-NfkB T-NO T-oxydative stress T-IL-1b T-ET-1 ==> T-IL-6 SUP:3 CONF:1.0
+T-TNFa T-NfkB T-NO T-IL-1b T-IL-6 T-ET-1 ==> T-oxydative stress SUP:3 CONF:1.0
+T-TNFa T-NfkB T-NO T-oxydative stress T-IL-1b T-IL-6 ==> T-ET-1 SUP:3 CONF:1.0
+T-TNFa T-NO T-oxydative stress T-IL-6 T-ET-1 ==> T-NfkB T-IL-1b SUP:3 CONF:1.0
+T-NO T-oxydative stress T-IL-1b T-IL-6 T-ET-1 ==> T-NfkB T-TNFa SUP:3 CONF:1.0
+T-TNFa T-oxydative stress T-IL-1b T-IL-6 T-ET-1 ==> T-NfkB T-NO SUP:3 CONF:1.0
+T-TNFa T-NO T-oxydative stress T-IL-1b T-ET-1 ==> T-NfkB T-IL-6 SUP:3 CONF:1.0
+T-TNFa T-NO T-IL-1b T-IL-6 T-ET-1 ==> T-NfkB T-oxydative stress SUP:3 CONF:1.0
+T-TNFa T-NO T-oxydative stress T-IL-1b T-IL-6 ==> T-NfkB T-ET-1 SUP:3 CONF:1.0
+T-NfkB T-NO T-oxydative stress T-IL-6 T-ET-1 ==> T-IL-1b T-TNFa SUP:3 CONF:1.0
+T-TNFa T-NfkB T-oxydative stress T-IL-6 T-ET-1 ==> T-IL-1b T-NO SUP:3 CONF:1.0
+T-TNFa T-NfkB T-NO T-oxydative stress T-ET-1 ==> T-IL-1b T-IL-6 SUP:3 CONF:1.0
+T-TNFa T-NfkB T-NO T-IL-6 T-ET-1 ==> T-IL-1b T-oxydative stress SUP:3 CONF:1.0
+T-TNFa T-NfkB T-NO T-oxydative stress T-IL-6 ==> T-IL-1b T-ET-1 SUP:3 CONF:1.0
+T-NfkB T-oxydative stress T-IL-1b T-IL-6 T-ET-1 ==> T-TNFa T-NO SUP:3 CONF:1.0
+T-NfkB T-NO T-oxydative stress T-IL-1b T-ET-1 ==> T-TNFa T-IL-6 SUP:3 CONF:1.0
+T-NfkB T-NO T-IL-1b T-IL-6 T-ET-1 ==> T-TNFa T-oxydative stress SUP:3 CONF:1.0
+T-NfkB T-NO T-oxydative stress T-IL-1b T-IL-6 ==> T-TNFa T-ET-1 SUP:3 CONF:1.0
+T-TNFa T-NfkB T-oxydative stress T-IL-1b T-ET-1 ==> T-NO T-IL-6 SUP:3 CONF:1.0
+T-TNFa T-NfkB T-IL-1b T-IL-6 T-ET-1 ==> T-NO T-oxydative stress SUP:3 CONF:1.0
+T-TNFa T-NfkB T-NO T-IL-1b T-ET-1 ==> T-IL-6 T-oxydative stress SUP:3 CONF:1.0
+T-TNFa T-NfkB T-NO T-oxydative stress T-IL-1b ==> T-IL-6 T-ET-1 SUP:3 CONF:1.0
+T-TNFa T-NfkB T-NO T-IL-1b T-IL-6 ==> T-oxydative stress T-ET-1 SUP:3 CONF:1.0
+T-NO T-oxydative stress T-IL-6 T-ET-1 ==> T-NfkB T-IL-1b T-TNFa SUP:3 CONF:1.0
+T-TNFa T-oxydative stress T-IL-6 T-ET-1 ==> T-NfkB T-IL-1b T-NO SUP:3 CONF:1.0
+T-TNFa T-NO T-oxydative stress T-ET-1 ==> T-NfkB T-IL-1b T-IL-6 SUP:3 CONF:1.0
+T-TNFa T-NO T-IL-6 T-ET-1 ==> T-NfkB T-IL-1b T-oxydative stress SUP:3 CONF:1.0
+T-TNFa T-NO T-oxydative stress T-IL-6 ==> T-NfkB T-IL-1b T-ET-1 SUP:3 CONF:1.0
+T-oxydative stress T-IL-1b T-IL-6 T-ET-1 ==> T-NfkB T-TNFa T-NO SUP:3 CONF:1.0
+T-NO T-oxydative stress T-IL-1b T-ET-1 ==> T-NfkB T-TNFa T-IL-6 SUP:3 CONF:1.0
+T-NO T-IL-1b T-IL-6 T-ET-1 ==> T-NfkB T-TNFa T-oxydative stress SUP:3 CONF:1.0
+T-NO T-oxydative stress T-IL-1b T-IL-6 ==> T-NfkB T-TNFa T-ET-1 SUP:3 CONF:1.0
+T-TNFa T-oxydative stress T-IL-1b T-ET-1 ==> T-NfkB T-NO T-IL-6 SUP:3 CONF:1.0
+T-TNFa T-IL-1b T-IL-6 T-ET-1 ==> T-NfkB T-NO T-oxydative stress SUP:3 CONF:1.0
+T-TNFa T-NO T-IL-1b T-ET-1 ==> T-NfkB T-IL-6 T-oxydative stress SUP:3 CONF:1.0
+T-TNFa T-NO T-oxydative stress T-IL-1b ==> T-NfkB T-IL-6 T-ET-1 SUP:3 CONF:1.0
+T-NfkB T-oxydative stress T-IL-6 T-ET-1 ==> T-IL-1b T-TNFa T-NO SUP:3 CONF:1.0
+T-NfkB T-NO T-oxydative stress T-ET-1 ==> T-IL-1b T-TNFa T-IL-6 SUP:3 CONF:1.0
+T-NfkB T-NO T-IL-6 T-ET-1 ==> T-IL-1b T-TNFa T-oxydative stress SUP:3 CONF:1.0
+T-NfkB T-NO T-oxydative stress T-IL-6 ==> T-IL-1b T-TNFa T-ET-1 SUP:3 CONF:1.0
+T-TNFa T-NfkB T-oxydative stress T-ET-1 ==> T-IL-1b T-NO T-IL-6 SUP:3 CONF:1.0
+T-TNFa T-NfkB T-IL-6 T-ET-1 ==> T-IL-1b T-NO T-oxydative stress SUP:3 CONF:1.0
+T-TNFa T-NfkB T-NO T-ET-1 ==> T-IL-1b T-IL-6 T-oxydative stress SUP:3 CONF:1.0
+T-TNFa T-NfkB T-NO T-oxydative stress ==> T-IL-1b T-IL-6 T-ET-1 SUP:3 CONF:1.0
+T-NfkB T-oxydative stress T-IL-1b T-ET-1 ==> T-TNFa T-NO T-IL-6 SUP:3 CONF:1.0
+T-NfkB T-IL-1b T-IL-6 T-ET-1 ==> T-TNFa T-NO T-oxydative stress SUP:3 CONF:1.0
+T-NfkB T-NO T-IL-1b T-ET-1 ==> T-TNFa T-IL-6 T-oxydative stress SUP:3 CONF:1.0
+T-NfkB T-NO T-oxydative stress T-IL-1b ==> T-TNFa T-IL-6 T-ET-1 SUP:3 CONF:1.0
+T-NfkB T-NO T-IL-1b T-IL-6 ==> T-TNFa T-oxydative stress T-ET-1 SUP:3 CONF:1.0
+T-TNFa T-NfkB T-IL-1b T-ET-1 ==> T-NO T-IL-6 T-oxydative stress SUP:3 CONF:1.0
+T-TNFa T-NfkB T-NO T-IL-1b ==> T-IL-6 T-oxydative stress T-ET-1 SUP:3 CONF:1.0
+T-oxydative stress T-IL-6 T-ET-1 ==> T-NfkB T-IL-1b T-TNFa T-NO SUP:3 CONF:1.0
+T-NO T-oxydative stress T-ET-1 ==> T-NfkB T-IL-1b T-TNFa T-IL-6 SUP:3 CONF:1.0
+T-NO T-IL-6 T-ET-1 ==> T-NfkB T-IL-1b T-TNFa T-oxydative stress SUP:3 CONF:1.0
+T-NO T-oxydative stress T-IL-6 ==> T-NfkB T-IL-1b T-TNFa T-ET-1 SUP:3 CONF:1.0
+T-TNFa T-oxydative stress T-ET-1 ==> T-NfkB T-IL-1b T-NO T-IL-6 SUP:3 CONF:1.0
+T-TNFa T-IL-6 T-ET-1 ==> T-NfkB T-IL-1b T-NO T-oxydative stress SUP:3 CONF:1.0
+T-TNFa T-NO T-ET-1 ==> T-NfkB T-IL-1b T-IL-6 T-oxydative stress SUP:3 CONF:1.0
+T-TNFa T-NO T-oxydative stress ==> T-NfkB T-IL-1b T-IL-6 T-ET-1 SUP:3 CONF:1.0
+T-oxydative stress T-IL-1b T-ET-1 ==> T-NfkB T-TNFa T-NO T-IL-6 SUP:3 CONF:1.0
+T-IL-1b T-IL-6 T-ET-1 ==> T-NfkB T-TNFa T-NO T-oxydative stress SUP:3 CONF:1.0
+T-NO T-IL-1b T-ET-1 ==> T-NfkB T-TNFa T-IL-6 T-oxydative stress SUP:3 CONF:1.0
+T-NO T-oxydative stress T-IL-1b ==> T-NfkB T-TNFa T-IL-6 T-ET-1 SUP:3 CONF:1.0
+T-TNFa T-IL-1b T-ET-1 ==> T-NfkB T-NO T-IL-6 T-oxydative stress SUP:3 CONF:1.0
+T-NfkB T-oxydative stress T-ET-1 ==> T-IL-1b T-TNFa T-NO T-IL-6 SUP:3 CONF:1.0
+T-NfkB T-IL-6 T-ET-1 ==> T-IL-1b T-TNFa T-NO T-oxydative stress SUP:3 CONF:1.0
+T-NfkB T-NO T-ET-1 ==> T-IL-1b T-TNFa T-IL-6 T-oxydative stress SUP:3 CONF:1.0
+T-NfkB T-NO T-oxydative stress ==> T-IL-1b T-TNFa T-IL-6 T-ET-1 SUP:3 CONF:1.0
+T-TNFa T-NfkB T-ET-1 ==> T-IL-1b T-NO T-IL-6 T-oxydative stress SUP:3 CONF:1.0
+T-NfkB T-IL-1b T-ET-1 ==> T-TNFa T-NO T-IL-6 T-oxydative stress SUP:3 CONF:1.0
+T-NfkB T-NO T-IL-1b ==> T-TNFa T-IL-6 T-oxydative stress T-ET-1 SUP:3 CONF:1.0
+T-oxydative stress T-ET-1 ==> T-NfkB T-IL-1b T-TNFa T-NO T-IL-6 SUP:3 CONF:1.0
+T-IL-6 T-ET-1 ==> T-NfkB T-IL-1b T-TNFa T-NO T-oxydative stress SUP:3 CONF:1.0
+T-NO T-ET-1 ==> T-NfkB T-IL-1b T-TNFa T-IL-6 T-oxydative stress SUP:3 CONF:1.0
+T-TNFa T-ET-1 ==> T-NfkB T-IL-1b T-NO T-IL-6 T-oxydative stress SUP:3 CONF:1.0
+T-IL-1b T-ET-1 ==> T-NfkB T-TNFa T-NO T-IL-6 T-oxydative stress SUP:3 CONF:1.0
+T-NfkB T-ET-1 ==> T-IL-1b T-TNFa T-NO T-IL-6 T-oxydative stress SUP:3 CONF:1.0
+T-ET-1 ==> T-NfkB T-IL-1b T-TNFa T-NO T-IL-6 T-oxydative stress SUP:3 CONF:1.0
+T-arachidonic acid T-ROS T-GABA receptor ==> T-NO SUP:2 CONF:1.0
+T-NO T-ROS T-GABA receptor ==> T-arachidonic acid SUP:2 CONF:1.0
+T-NO T-arachidonic acid T-GABA receptor ==> T-ROS SUP:2 CONF:1.0
+T-NO T-arachidonic acid T-ROS ==> T-GABA receptor SUP:2 CONF:1.0
+T-ROS T-GABA receptor ==> T-NO T-arachidonic acid SUP:2 CONF:1.0
+T-arachidonic acid T-GABA receptor ==> T-NO T-ROS SUP:2 CONF:1.0
+T-arachidonic acid T-ROS ==> T-NO T-GABA receptor SUP:2 CONF:1.0
+T-NO T-GABA receptor ==> T-arachidonic acid T-ROS SUP:2 CONF:1.0
+T-NO T-ROS ==> T-arachidonic acid T-GABA receptor SUP:2 CONF:1.0
+T-NO T-arachidonic acid ==> T-ROS T-GABA receptor SUP:2 CONF:1.0
+T-GABA receptor ==> T-NO T-arachidonic acid T-ROS SUP:2 CONF:1.0
+T-ROS ==> T-NO T-arachidonic acid T-GABA receptor SUP:2 CONF:1.0
+T-TNFa T-IL-1b T-PGE2 T-iNOS ==> T-COX-2 SUP:2 CONF:1.0
+T-TNFa T-IL-1b T-COX-2 T-iNOS ==> T-PGE2 SUP:2 CONF:1.0
+T-TNFa T-IL-1b T-COX-2 T-PGE2 ==> T-iNOS SUP:2 CONF:1.0
+T-TNFa T-COX-2 T-PGE2 T-iNOS ==> T-IL-1b SUP:2 CONF:1.0
+T-IL-1b T-COX-2 T-PGE2 T-iNOS ==> T-TNFa SUP:2 CONF:1.0
+T-TNFa T-IL-1b T-iNOS ==> T-COX-2 T-PGE2 SUP:2 CONF:1.0
+T-TNFa T-IL-1b T-PGE2 ==> T-COX-2 T-iNOS SUP:2 CONF:1.0
+T-TNFa T-PGE2 T-iNOS ==> T-COX-2 T-IL-1b SUP:2 CONF:1.0
+T-IL-1b T-PGE2 T-iNOS ==> T-COX-2 T-TNFa SUP:2 CONF:1.0
+T-TNFa T-IL-1b T-COX-2 ==> T-PGE2 T-iNOS SUP:2 CONF:1.0
+T-TNFa T-COX-2 T-iNOS ==> T-PGE2 T-IL-1b SUP:2 CONF:1.0
+T-IL-1b T-COX-2 T-iNOS ==> T-PGE2 T-TNFa SUP:2 CONF:1.0
+T-TNFa T-COX-2 T-PGE2 ==> T-iNOS T-IL-1b SUP:2 CONF:1.0
+T-IL-1b T-COX-2 T-PGE2 ==> T-iNOS T-TNFa SUP:2 CONF:1.0
+T-COX-2 T-PGE2 T-iNOS ==> T-IL-1b T-TNFa SUP:2 CONF:1.0
+T-TNFa T-iNOS ==> T-COX-2 T-PGE2 T-IL-1b SUP:2 CONF:1.0
+T-IL-1b T-iNOS ==> T-COX-2 T-PGE2 T-TNFa SUP:2 CONF:1.0
+T-TNFa T-PGE2 ==> T-COX-2 T-iNOS T-IL-1b SUP:2 CONF:1.0
+T-IL-1b T-PGE2 ==> T-COX-2 T-iNOS T-TNFa SUP:2 CONF:1.0
+T-PGE2 T-iNOS ==> T-COX-2 T-IL-1b T-TNFa SUP:2 CONF:1.0
+T-TNFa T-COX-2 ==> T-PGE2 T-iNOS T-IL-1b SUP:2 CONF:1.0
+T-IL-1b T-COX-2 ==> T-PGE2 T-iNOS T-TNFa SUP:2 CONF:1.0
+T-COX-2 T-iNOS ==> T-PGE2 T-IL-1b T-TNFa SUP:2 CONF:1.0
+T-iNOS ==> T-COX-2 T-PGE2 T-IL-1b T-TNFa SUP:2 CONF:1.0
+T-TNFa T-NO T-IL-6 T-p38 ==> T-NfkB SUP:2 CONF:1.0
+T-NfkB T-NO T-IL-6 T-p38 ==> T-TNFa SUP:2 CONF:1.0
+T-TNFa T-NfkB T-IL-6 T-p38 ==> T-NO SUP:2 CONF:1.0
+T-TNFa T-NfkB T-NO T-p38 ==> T-IL-6 SUP:2 CONF:1.0
+T-NO T-IL-6 T-p38 ==> T-NfkB T-TNFa SUP:2 CONF:1.0
+T-TNFa T-IL-6 T-p38 ==> T-NfkB T-NO SUP:2 CONF:1.0
+T-TNFa T-NO T-p38 ==> T-NfkB T-IL-6 SUP:2 CONF:1.0
+T-NfkB T-IL-6 T-p38 ==> T-TNFa T-NO SUP:2 CONF:1.0
+T-NfkB T-NO T-p38 ==> T-TNFa T-IL-6 SUP:2 CONF:1.0
+T-TNFa T-NfkB T-p38 ==> T-NO T-IL-6 SUP:2 CONF:1.0
+T-IL-6 T-p38 ==> T-NfkB T-TNFa T-NO SUP:2 CONF:1.0
+T-NO T-p38 ==> T-NfkB T-TNFa T-IL-6 SUP:2 CONF:1.0
+T-TNFa T-p38 ==> T-NfkB T-NO T-IL-6 SUP:2 CONF:1.0
+T-NfkB T-p38 ==> T-TNFa T-NO T-IL-6 SUP:2 CONF:1.0
+T-p38 ==> T-NfkB T-TNFa T-NO T-IL-6 SUP:2 CONF:1.0
+T-major lipidic proinflammatory mediators. T-leukotriene T-arachidonic acid T-5-LO ==> T-oxydative stress SUP:2 CONF:1.0
+T-oxydative stress T-leukotriene T-arachidonic acid T-5-LO ==> T-major lipidic proinflammatory mediators. SUP:2 CONF:1.0
+T-oxydative stress T-major lipidic proinflammatory mediators. T-arachidonic acid T-5-LO ==> T-leukotriene SUP:2 CONF:1.0
+T-oxydative stress T-major lipidic proinflammatory mediators. T-leukotriene T-arachidonic acid ==> T-5-LO SUP:2 CONF:1.0
+T-oxydative stress T-major lipidic proinflammatory mediators. T-leukotriene T-5-LO ==> T-arachidonic acid SUP:2 CONF:1.0
+T-leukotriene T-arachidonic acid T-5-LO ==> T-oxydative stress T-major lipidic proinflammatory mediators. SUP:2 CONF:1.0
+T-major lipidic proinflammatory mediators. T-arachidonic acid T-5-LO ==> T-oxydative stress T-leukotriene SUP:2 CONF:1.0
+T-major lipidic proinflammatory mediators. T-leukotriene T-arachidonic acid ==> T-oxydative stress T-5-LO SUP:2 CONF:1.0
+T-oxydative stress T-arachidonic acid T-5-LO ==> T-major lipidic proinflammatory mediators. T-leukotriene SUP:2 CONF:1.0
+T-oxydative stress T-leukotriene T-arachidonic acid ==> T-major lipidic proinflammatory mediators. T-5-LO SUP:2 CONF:1.0
+T-oxydative stress T-leukotriene T-5-LO ==> T-major lipidic proinflammatory mediators. T-arachidonic acid SUP:2 CONF:1.0
+T-oxydative stress T-major lipidic proinflammatory mediators. T-arachidonic acid ==> T-leukotriene T-5-LO SUP:2 CONF:1.0
+T-oxydative stress T-major lipidic proinflammatory mediators. T-5-LO ==> T-leukotriene T-arachidonic acid SUP:2 CONF:1.0
+T-oxydative stress T-major lipidic proinflammatory mediators. T-leukotriene ==> T-5-LO T-arachidonic acid SUP:2 CONF:1.0
+T-arachidonic acid T-5-LO ==> T-oxydative stress T-major lipidic proinflammatory mediators. T-leukotriene SUP:2 CONF:1.0
+T-leukotriene T-arachidonic acid ==> T-oxydative stress T-major lipidic proinflammatory mediators. T-5-LO SUP:2 CONF:1.0
+T-major lipidic proinflammatory mediators. T-arachidonic acid ==> T-oxydative stress T-leukotriene T-5-LO SUP:2 CONF:1.0
+T-oxydative stress T-arachidonic acid ==> T-major lipidic proinflammatory mediators. T-leukotriene T-5-LO SUP:2 CONF:1.0
+T-oxydative stress T-5-LO ==> T-major lipidic proinflammatory mediators. T-leukotriene T-arachidonic acid SUP:2 CONF:1.0
+T-oxydative stress T-leukotriene ==> T-major lipidic proinflammatory mediators. T-5-LO T-arachidonic acid SUP:2 CONF:1.0
+T-oxydative stress T-major lipidic proinflammatory mediators. ==> T-leukotriene T-5-LO T-arachidonic acid SUP:2 CONF:1.0
+T-TNFa T-oxydative stress T-IL-1b T-IL-6 T-HO-1 ==> T-NfkB SUP:2 CONF:1.0
+T-TNFa T-NfkB T-oxydative stress T-IL-6 T-HO-1 ==> T-IL-1b SUP:2 CONF:1.0
+T-NfkB T-oxydative stress T-IL-1b T-IL-6 T-HO-1 ==> T-TNFa SUP:2 CONF:1.0
+T-TNFa T-NfkB T-oxydative stress T-IL-1b T-HO-1 ==> T-IL-6 SUP:2 CONF:1.0
+T-TNFa T-NfkB T-IL-1b T-IL-6 T-HO-1 ==> T-oxydative stress SUP:2 CONF:1.0
+T-TNFa T-oxydative stress T-IL-6 T-HO-1 ==> T-NfkB T-IL-1b SUP:2 CONF:1.0
+T-oxydative stress T-IL-1b T-IL-6 T-HO-1 ==> T-NfkB T-TNFa SUP:2 CONF:1.0
+T-TNFa T-oxydative stress T-IL-1b T-HO-1 ==> T-NfkB T-IL-6 SUP:2 CONF:1.0
+T-TNFa T-IL-1b T-IL-6 T-HO-1 ==> T-NfkB T-oxydative stress SUP:2 CONF:1.0
+T-NfkB T-oxydative stress T-IL-6 T-HO-1 ==> T-IL-1b T-TNFa SUP:2 CONF:1.0
+T-TNFa T-NfkB T-oxydative stress T-HO-1 ==> T-IL-1b T-IL-6 SUP:2 CONF:1.0
+T-TNFa T-NfkB T-IL-6 T-HO-1 ==> T-IL-1b T-oxydative stress SUP:2 CONF:1.0
+T-NfkB T-oxydative stress T-IL-1b T-HO-1 ==> T-TNFa T-IL-6 SUP:2 CONF:1.0
+T-NfkB T-IL-1b T-IL-6 T-HO-1 ==> T-TNFa T-oxydative stress SUP:2 CONF:1.0
+T-TNFa T-NfkB T-IL-1b T-HO-1 ==> T-IL-6 T-oxydative stress SUP:2 CONF:1.0
+T-oxydative stress T-IL-6 T-HO-1 ==> T-NfkB T-IL-1b T-TNFa SUP:2 CONF:1.0
+T-TNFa T-oxydative stress T-HO-1 ==> T-NfkB T-IL-1b T-IL-6 SUP:2 CONF:1.0
+T-TNFa T-IL-6 T-HO-1 ==> T-NfkB T-IL-1b T-oxydative stress SUP:2 CONF:1.0
+T-oxydative stress T-IL-1b T-HO-1 ==> T-NfkB T-TNFa T-IL-6 SUP:2 CONF:1.0
+T-IL-1b T-IL-6 T-HO-1 ==> T-NfkB T-TNFa T-oxydative stress SUP:2 CONF:1.0
+T-TNFa T-IL-1b T-HO-1 ==> T-NfkB T-IL-6 T-oxydative stress SUP:2 CONF:1.0
+T-NfkB T-oxydative stress T-HO-1 ==> T-IL-1b T-TNFa T-IL-6 SUP:2 CONF:1.0
+T-NfkB T-IL-6 T-HO-1 ==> T-IL-1b T-TNFa T-oxydative stress SUP:2 CONF:1.0
+T-TNFa T-NfkB T-HO-1 ==> T-IL-1b T-IL-6 T-oxydative stress SUP:2 CONF:1.0
+T-NfkB T-IL-1b T-HO-1 ==> T-TNFa T-IL-6 T-oxydative stress SUP:2 CONF:1.0
+T-oxydative stress T-HO-1 ==> T-NfkB T-IL-1b T-TNFa T-IL-6 SUP:2 CONF:1.0
+T-IL-6 T-HO-1 ==> T-NfkB T-IL-1b T-TNFa T-oxydative stress SUP:2 CONF:1.0
+T-TNFa T-HO-1 ==> T-NfkB T-IL-1b T-IL-6 T-oxydative stress SUP:2 CONF:1.0
+T-IL-1b T-HO-1 ==> T-NfkB T-TNFa T-IL-6 T-oxydative stress SUP:2 CONF:1.0
+T-NfkB T-HO-1 ==> T-IL-1b T-TNFa T-IL-6 T-oxydative stress SUP:2 CONF:1.0
+T-HO-1 ==> T-NfkB T-IL-1b T-TNFa T-IL-6 T-oxydative stress SUP:2 CONF:1.0
+T-NfkB ==> T-TNFa SUP:9 CONF:0.9
+T-IL-6 ==> T-NfkB SUP:7 CONF:0.875
+T-IL-1b ==> T-TNFa SUP:7 CONF:0.875
+T-IL-6 ==> T-TNFa SUP:7 CONF:0.875
+T-TNFa T-IL-1b ==> T-NfkB SUP:6 CONF:0.8571428571428571
+T-TNFa T-IL-6 ==> T-NfkB SUP:6 CONF:0.8571428571428571
+T-NfkB T-IL-6 ==> T-TNFa SUP:6 CONF:0.8571428571428571
+T-TNFa T-IL-6 ==> T-NO SUP:6 CONF:0.8571428571428571
+T-TNFa T-NO T-IL-6 ==> T-NfkB SUP:5 CONF:0.8333333333333334
+T-TNFa T-NfkB T-IL-6 ==> T-NO SUP:5 CONF:0.8333333333333334
+T-NO T-IL-6 ==> T-NfkB T-TNFa SUP:5 CONF:0.8333333333333334
+T-TNFa T-NO ==> T-NfkB T-IL-6 SUP:5 CONF:0.8333333333333334
+T-TNFa ==> T-NfkB SUP:9 CONF:0.8181818181818182
+T-TNFa T-IL-1b T-IL-6 ==> T-NO SUP:4 CONF:0.8
+T-IL-1b T-IL-6 ==> T-TNFa T-NO SUP:4 CONF:0.8
+T-TNFa T-IL-1b T-IL-6 ==> T-NfkB T-oxydative stress SUP:4 CONF:0.8
+T-IL-1b T-IL-6 ==> T-NfkB T-TNFa T-oxydative stress SUP:4 CONF:0.8
+T-IL-1b ==> T-NfkB T-TNFa SUP:6 CONF:0.75
+T-IL-6 ==> T-NfkB T-TNFa SUP:6 CONF:0.75
+T-IL-6 ==> T-TNFa T-NO SUP:6 CONF:0.75
+T-major lipidic proinflammatory mediators. T-leukotriene ==> T-5-LO SUP:3 CONF:0.75
+T-leukotriene ==> T-major lipidic proinflammatory mediators. T-5-LO SUP:3 CONF:0.75
+T-major lipidic proinflammatory mediators. ==> T-leukotriene T-5-LO SUP:3 CONF:0.75
+T-TNFa T-NfkB T-oxydative stress T-IL-1b T-IL-6 ==> T-NO T-ET-1 SUP:3 CONF:0.75
+T-TNFa T-oxydative stress T-IL-1b T-IL-6 ==> T-NfkB T-NO T-ET-1 SUP:3 CONF:0.75
+T-TNFa T-NO T-IL-1b T-IL-6 ==> T-NfkB T-oxydative stress T-ET-1 SUP:3 CONF:0.75
+T-TNFa T-NfkB T-oxydative stress T-IL-6 ==> T-IL-1b T-NO T-ET-1 SUP:3 CONF:0.75
+T-NfkB T-oxydative stress T-IL-1b T-IL-6 ==> T-TNFa T-NO T-ET-1 SUP:3 CONF:0.75
+T-TNFa T-NfkB T-oxydative stress T-IL-1b ==> T-NO T-IL-6 T-ET-1 SUP:3 CONF:0.75
+T-TNFa T-NfkB T-IL-1b T-IL-6 ==> T-NO T-oxydative stress T-ET-1 SUP:3 CONF:0.75
+T-TNFa T-oxydative stress T-IL-6 ==> T-NfkB T-IL-1b T-NO T-ET-1 SUP:3 CONF:0.75
+T-oxydative stress T-IL-1b T-IL-6 ==> T-NfkB T-TNFa T-NO T-ET-1 SUP:3 CONF:0.75
+T-NO T-IL-1b T-IL-6 ==> T-NfkB T-TNFa T-oxydative stress T-ET-1 SUP:3 CONF:0.75
+T-TNFa T-oxydative stress T-IL-1b ==> T-NfkB T-NO T-IL-6 T-ET-1 SUP:3 CONF:0.75
+T-TNFa T-NO T-IL-1b ==> T-NfkB T-IL-6 T-oxydative stress T-ET-1 SUP:3 CONF:0.75
+T-NfkB T-oxydative stress T-IL-6 ==> T-IL-1b T-TNFa T-NO T-ET-1 SUP:3 CONF:0.75
+T-TNFa T-NfkB T-oxydative stress ==> T-IL-1b T-NO T-IL-6 T-ET-1 SUP:3 CONF:0.75
+T-NfkB T-oxydative stress T-IL-1b ==> T-TNFa T-NO T-IL-6 T-ET-1 SUP:3 CONF:0.75
+T-NfkB T-IL-1b T-IL-6 ==> T-TNFa T-NO T-oxydative stress T-ET-1 SUP:3 CONF:0.75
+T-oxydative stress T-IL-6 ==> T-NfkB T-IL-1b T-TNFa T-NO T-ET-1 SUP:3 CONF:0.75
+T-NO T-oxydative stress ==> T-NfkB T-IL-1b T-TNFa T-IL-6 T-ET-1 SUP:3 CONF:0.75
+T-TNFa T-oxydative stress ==> T-NfkB T-IL-1b T-NO T-IL-6 T-ET-1 SUP:3 CONF:0.75
+T-oxydative stress T-IL-1b ==> T-NfkB T-TNFa T-NO T-IL-6 T-ET-1 SUP:3 CONF:0.75
+T-NO T-IL-1b ==> T-NfkB T-TNFa T-IL-6 T-oxydative stress T-ET-1 SUP:3 CONF:0.75
+T-NfkB T-oxydative stress ==> T-IL-1b T-TNFa T-NO T-IL-6 T-ET-1 SUP:3 CONF:0.75
+T-TNFa T-IL-6 ==> T-IL-1b SUP:5 CONF:0.7142857142857143
+T-TNFa T-IL-1b ==> T-IL-6 SUP:5 CONF:0.7142857142857143
+T-TNFa T-IL-6 ==> T-NfkB T-NO SUP:5 CONF:0.7142857142857143
+T-NfkB T-IL-6 ==> T-TNFa T-NO SUP:5 CONF:0.7142857142857143
+T-NfkB ==> T-IL-6 SUP:7 CONF:0.7
+T-TNFa T-NfkB ==> T-IL-1b SUP:6 CONF:0.6666666666666666
+T-TNFa T-NfkB ==> T-IL-6 SUP:6 CONF:0.6666666666666666
+T-TNFa T-NO T-IL-6 ==> T-IL-1b SUP:4 CONF:0.6666666666666666
+T-NO T-IL-6 ==> T-IL-1b T-TNFa SUP:4 CONF:0.6666666666666666
+T-TNFa T-NO ==> T-IL-1b T-IL-6 SUP:4 CONF:0.6666666666666666
+T-TNFa T-NfkB T-IL-6 ==> T-IL-1b T-oxydative stress SUP:4 CONF:0.6666666666666666
+T-TNFa T-NfkB T-IL-1b ==> T-IL-6 T-oxydative stress SUP:4 CONF:0.6666666666666666
+T-NfkB T-IL-1b ==> T-TNFa T-IL-6 T-oxydative stress SUP:4 CONF:0.6666666666666666
+T-COX-2 T-PGE2 ==> T-iNOS T-IL-1b T-TNFa SUP:2 CONF:0.6666666666666666
+T-PGE2 ==> T-COX-2 T-iNOS T-IL-1b T-TNFa SUP:2 CONF:0.6666666666666666
+T-COX-2 ==> T-PGE2 T-iNOS T-IL-1b T-TNFa SUP:2 CONF:0.6666666666666666
+T-major lipidic proinflammatory mediators. T-leukotriene T-5-LO ==> T-oxydative stress T-arachidonic acid SUP:2 CONF:0.6666666666666666
+T-leukotriene T-5-LO ==> T-oxydative stress T-major lipidic proinflammatory mediators. T-arachidonic acid SUP:2 CONF:0.6666666666666666
+T-major lipidic proinflammatory mediators. T-5-LO ==> T-oxydative stress T-leukotriene T-arachidonic acid SUP:2 CONF:0.6666666666666666
+T-5-LO ==> T-oxydative stress T-major lipidic proinflammatory mediators. T-leukotriene T-arachidonic acid SUP:2 CONF:0.6666666666666666
+T-TNFa ==> T-IL-1b SUP:7 CONF:0.6363636363636364
+T-TNFa ==> T-IL-6 SUP:7 CONF:0.6363636363636364
+T-IL-6 ==> T-IL-1b T-TNFa SUP:5 CONF:0.625
+T-IL-1b ==> T-TNFa T-IL-6 SUP:5 CONF:0.625
+T-IL-6 ==> T-NfkB T-TNFa T-NO SUP:5 CONF:0.625
+T-NfkB ==> T-IL-1b T-TNFa SUP:6 CONF:0.6
+T-NfkB ==> T-TNFa T-IL-6 SUP:6 CONF:0.6
+T-NO ==> T-TNFa T-IL-6 SUP:6 CONF:0.6
+T-TNFa T-NfkB T-NO T-IL-6 ==> T-IL-1b T-oxydative stress T-ET-1 SUP:3 CONF:0.6
+T-TNFa T-IL-1b T-IL-6 ==> T-NfkB T-NO T-oxydative stress T-ET-1 SUP:3 CONF:0.6
+T-NfkB T-NO T-IL-6 ==> T-IL-1b T-TNFa T-oxydative stress T-ET-1 SUP:3 CONF:0.6
+T-TNFa T-NfkB T-NO ==> T-IL-1b T-IL-6 T-oxydative stress T-ET-1 SUP:3 CONF:0.6
+T-IL-1b T-IL-6 ==> T-NfkB T-TNFa T-NO T-oxydative stress T-ET-1 SUP:3 CONF:0.6
+T-NfkB T-NO ==> T-IL-1b T-TNFa T-IL-6 T-oxydative stress T-ET-1 SUP:3 CONF:0.6
+T-TNFa T-IL-6 ==> T-IL-1b T-NO SUP:4 CONF:0.5714285714285714
+T-TNFa T-IL-1b ==> T-NO T-IL-6 SUP:4 CONF:0.5714285714285714
+T-TNFa T-IL-6 ==> T-NfkB T-IL-1b T-oxydative stress SUP:4 CONF:0.5714285714285714
+T-TNFa T-IL-1b ==> T-NfkB T-IL-6 T-oxydative stress SUP:4 CONF:0.5714285714285714
+T-NfkB T-IL-6 ==> T-IL-1b T-TNFa T-oxydative stress SUP:4 CONF:0.5714285714285714
+T-TNFa T-NfkB ==> T-NO T-IL-6 SUP:5 CONF:0.5555555555555556
+T-TNFa ==> T-NfkB T-IL-1b SUP:6 CONF:0.5454545454545454
+T-TNFa ==> T-NfkB T-IL-6 SUP:6 CONF:0.5454545454545454
+T-TNFa ==> T-NO T-IL-6 SUP:6 CONF:0.5454545454545454
+T-NO ==> T-NfkB T-TNFa T-IL-6 SUP:5 CONF:0.5
+T-NfkB ==> T-TNFa T-NO T-IL-6 SUP:5 CONF:0.5
+T-IL-6 ==> T-IL-1b T-TNFa T-NO SUP:4 CONF:0.5
+T-IL-1b ==> T-TNFa T-NO T-IL-6 SUP:4 CONF:0.5
+T-IL-6 ==> T-NfkB T-IL-1b T-TNFa T-oxydative stress SUP:4 CONF:0.5
+T-IL-1b ==> T-NfkB T-TNFa T-IL-6 T-oxydative stress SUP:4 CONF:0.5
+T-TNFa T-NO T-IL-6 ==> T-NfkB T-IL-1b T-oxydative stress T-ET-1 SUP:3 CONF:0.5
+T-TNFa T-NfkB T-IL-6 ==> T-IL-1b T-NO T-oxydative stress T-ET-1 SUP:3 CONF:0.5
+T-TNFa T-NfkB T-IL-1b ==> T-NO T-IL-6 T-oxydative stress T-ET-1 SUP:3 CONF:0.5
+T-NO T-IL-6 ==> T-NfkB T-IL-1b T-TNFa T-oxydative stress T-ET-1 SUP:3 CONF:0.5
+T-TNFa T-NO ==> T-NfkB T-IL-1b T-IL-6 T-oxydative stress T-ET-1 SUP:3 CONF:0.5
+T-NfkB T-IL-1b ==> T-TNFa T-NO T-IL-6 T-oxydative stress T-ET-1 SUP:3 CONF:0.5
+T-arachidonic acid ==> T-NO T-ROS T-GABA receptor SUP:2 CONF:0.5
+T-major lipidic proinflammatory mediators. T-leukotriene ==> T-oxydative stress T-5-LO T-arachidonic acid SUP:2 CONF:0.5
+T-arachidonic acid ==> T-oxydative stress T-major lipidic proinflammatory mediators. T-leukotriene T-5-LO SUP:2 CONF:0.5
+T-leukotriene ==> T-oxydative stress T-major lipidic proinflammatory mediators. T-5-LO T-arachidonic acid SUP:2 CONF:0.5
+T-major lipidic proinflammatory mediators. ==> T-oxydative stress T-leukotriene T-5-LO T-arachidonic acid SUP:2 CONF:0.5
+T-TNFa T-NfkB T-oxydative stress T-IL-1b T-IL-6 ==> T-HO-1 SUP:2 CONF:0.5
+T-TNFa T-oxydative stress T-IL-1b T-IL-6 ==> T-NfkB T-HO-1 SUP:2 CONF:0.5
+T-TNFa T-NfkB T-oxydative stress T-IL-6 ==> T-IL-1b T-HO-1 SUP:2 CONF:0.5
+T-NfkB T-oxydative stress T-IL-1b T-IL-6 ==> T-TNFa T-HO-1 SUP:2 CONF:0.5
+T-TNFa T-NfkB T-oxydative stress T-IL-1b ==> T-IL-6 T-HO-1 SUP:2 CONF:0.5
+T-TNFa T-NfkB T-IL-1b T-IL-6 ==> T-oxydative stress T-HO-1 SUP:2 CONF:0.5
+T-TNFa T-oxydative stress T-IL-6 ==> T-NfkB T-IL-1b T-HO-1 SUP:2 CONF:0.5
+T-oxydative stress T-IL-1b T-IL-6 ==> T-NfkB T-TNFa T-HO-1 SUP:2 CONF:0.5
+T-TNFa T-oxydative stress T-IL-1b ==> T-NfkB T-IL-6 T-HO-1 SUP:2 CONF:0.5
+T-NfkB T-oxydative stress T-IL-6 ==> T-IL-1b T-TNFa T-HO-1 SUP:2 CONF:0.5
+T-TNFa T-NfkB T-oxydative stress ==> T-IL-1b T-IL-6 T-HO-1 SUP:2 CONF:0.5
+T-NfkB T-oxydative stress T-IL-1b ==> T-TNFa T-IL-6 T-HO-1 SUP:2 CONF:0.5
+T-NfkB T-IL-1b T-IL-6 ==> T-TNFa T-oxydative stress T-HO-1 SUP:2 CONF:0.5
+T-oxydative stress T-IL-6 ==> T-NfkB T-IL-1b T-TNFa T-HO-1 SUP:2 CONF:0.5
+T-TNFa T-oxydative stress ==> T-NfkB T-IL-1b T-IL-6 T-HO-1 SUP:2 CONF:0.5
+T-oxydative stress T-IL-1b ==> T-NfkB T-TNFa T-IL-6 T-HO-1 SUP:2 CONF:0.5
+T-NfkB T-oxydative stress ==> T-IL-1b T-TNFa T-IL-6 T-HO-1 SUP:2 CONF:0.5

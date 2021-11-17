@@ -1,0 +1,90 @@
+A-Sinapic acid  SUP:27
+E-Inhibition  SUP:23
+S-Inflammation  SUP:22
+A-Sinapic acid S-Inflammation  SUP:20
+A-Sinapic acid E-Inhibition  SUP:17
+A-Sinapic acid Ty-In vivo  SUP:16
+E-Inhibition S-Inflammation  SUP:16
+A-Sinapic acid S-Inflammation Ty-In vivo  SUP:14
+A-Sinapic acid E-Inhibition S-Inflammation  SUP:14
+Ty-In vitro  SUP:12
+E-Inhibition Ty-In vitro  SUP:11
+A-Sinapic acid T-NO  SUP:10
+A-Sinapic acid E-Inhibition S-Inflammation T-TNFa  SUP:10
+T-NfkB  SUP:10
+T-oxydative stress  SUP:9
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB  SUP:9
+A-Sinapic acid E-Inhibition S-Inflammation T-IL-6  SUP:8
+A-Sinapic acid E-Inhibition S-Inflammation T-IL-1b  SUP:8
+A-Sinapic acid Ty-In vivo T-NO  SUP:8
+A-Sinapic acid S-Inflammation T-NO  SUP:8
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB T-TNFa  SUP:8
+E-Inhibition S-Inflammation Ty-In vitro  SUP:8
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo  SUP:8
+A-Sinapic acid T-nan  SUP:7
+A-Sinapic acid E-Inhibition S-Inflammation T-TNFa T-IL-6  SUP:7
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB T-IL-6  SUP:7
+A-Sinapic acid E-Inhibition S-Inflammation T-TNFa T-IL-1b  SUP:7
+S-Inflammation T-oxydative stress  SUP:7
+E-Inhibition T-oxydative stress  SUP:7
+A-Sinapic acid T-oxydative stress  SUP:7
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-TNFa  SUP:7
+Ty-Acellular tests  SUP:6
+A-Sinapic acid S-Inflammation Ty-In vivo E-Prevention  SUP:6
+A-Sinapic acid E-Inhibition S-Inflammation T-TNFa T-NO T-IL-6  SUP:6
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB T-TNFa T-IL-6  SUP:6
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB T-TNFa T-IL-1b  SUP:6
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-IL-1b  SUP:6
+A-Sinapic acid S-Inflammation Ty-In vivo T-oxydative stress  SUP:6
+A-Sinapic acid S-Inflammation Ty-In vivo T-NO  SUP:6
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-TNFa  SUP:6
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vitro  SUP:6
+A-Sinapic acid T-nan Ty-Acellular tests S-oxydative stress I-nan  SUP:5
+A-Sinapic acid E-Inhibition S-Inflammation T-TNFa T-IL-1b T-IL-6  SUP:5
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB T-TNFa T-NO T-IL-6  SUP:5
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-TNFa T-IL-6  SUP:5
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-TNFa T-IL-1b  SUP:5
+E-Inhibition S-Inflammation T-oxydative stress  SUP:5
+A-Sinapic acid E-Inhibition T-oxydative stress  SUP:5
+T-free radicals  SUP:4
+E-Inhibition Ty-In vitro T-leukotriene T-5-LO  SUP:4
+A-Sinapic acid Ty-Acellular tests S-oxydative stress I-nan  SUP:4
+E-Inhibition Ty-Acellular tests  SUP:4
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-TNFa T-oxydative stress T-IL-1b T-IL-6  SUP:4
+A-Sinapic acid E-Inhibition S-Inflammation T-TNFa T-NO T-IL-1b T-IL-6  SUP:4
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-TNFa T-NO T-IL-6  SUP:4
+A-Sinapic acid S-Inflammation Ty-In vivo T-NO T-oxydative stress  SUP:4
+Ty-In vitro T-NfkB  SUP:4
+E-Inhibition Ty-Acellular tests S-oxydative stress I-nan B-nan  SUP:3
+E-Inhibition Ty-In vitro T-leukotriene T-5-LO S-radical scavenger et Inflammation  SUP:3
+E-Inhibition Ty-In vitro T-leukotriene T-5-LO A-Caffeic acid phenethyl ester T-arachidonic acid  SUP:3
+E-Inhibition Ty-In vitro I-thapsigargin  SUP:3
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-TNFa T-NO T-oxydative stress T-IL-1b T-IL-6 B-rat et nephrotoxicity T-apoptotic markers  SUP:3
+A-Sinapic acid S-Inflammation Ty-In vivo E-Prevention B-rat  SUP:3
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vitro B-murine macrophage cell line (RAW264.7) I-LPS  SUP:3
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vitro T-COX-2 T-PGE2  SUP:3
+A-Sinapic acid E-Inhibition Ty-Acellular tests  SUP:3
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vitro T-IL-6  SUP:3
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vitro T-TNFa  SUP:3
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vitro T-NfkB  SUP:3
+E-Inhibition Ty-Acellular tests S-oxydative stress I-nan B-nan T-protection of DNA from oxydative stress  SUP:2
+A-Sinapic acid Ty-In vivo T-NO T-free radicals E-Attenuation T-GABA receptor T-Neuronal cell death  SUP:2
+A-Sinapic acid T-nan T-nan Ty-Acellular tests S-oxydative stress I-nan E-radical scavenger B-Inhibition  SUP:2
+E-Inhibition Ty-In vitro T-leukotriene T-5-LO S-radical scavenger et Inflammation I-thapsigargin pour neutros  SUP:2
+E-Inhibition Ty-In vitro T-oxydative stress T-leukotriene T-5-LO T-free radicals I-thapsigargin A-Caffeic acid phenethyl ester T-arachidonic acid B-Neutrophiles (= globules blancs humains)  SUP:2
+E-Inhibition Ty-In vitro B-neutrophiles (= globules blancs humains)  SUP:2
+Ty-In vitro T-NfkB I-TNFa (10 ng/mL)  SUP:2
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-TNFa T-oxydative stress T-IL-1b T-IL-6 T-HO-1  SUP:2
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-TNFa I-TNBS  SUP:2
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB T-TNFa T-NO T-IL-6 T-p38  SUP:2
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vitro T-TNFa T-IL-1b T-COX-2 T-PGE2 T-iNOS  SUP:2
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vitro T-COX-2 T-PGE2 I-IL-1 (10 ng/mL)  SUP:2
+A-Sinapic acid E-Inhibition Ty-Acellular tests S-oxydative stress I-nan B-nan  SUP:2
+E-Inhibition Ty-In vitro T-leukotriene T-5-LO A-Caffeic acid phenethyl ester T-arachidonic acid S-radical scavenger et Inflammation  SUP:2
+E-Inhibition S-Inflammation Ty-In vitro I-thapsigargin  SUP:2
+A-Sinapic acid S-Inflammation Ty-In vivo T-nan E-Prevention B-rat  SUP:2
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vitro T-NfkB T-TNFa B-murine macrophage cell line (RAW264.7) I-LPS  SUP:2
+A-Sinapic acid S-Inflammation Ty-In vivo T-oxydative stress E-Prevention  SUP:2
+A-Sinapic acid S-Inflammation Ty-In vivo T-NO E-Prevention  SUP:2
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vitro T-TNFa T-NO T-IL-6  SUP:2
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vitro T-NfkB T-IL-6  SUP:2

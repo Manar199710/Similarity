@@ -1,0 +1,1768 @@
+Ty-In vivo ==> A-Sinapic acid SUP:16 CONF:1.0
+S-Inflammation Ty-In vivo ==> A-Sinapic acid SUP:14 CONF:1.0
+T-NO ==> A-Sinapic acid SUP:10 CONF:1.0
+E-Inhibition S-Inflammation T-TNFa ==> A-Sinapic acid SUP:10 CONF:1.0
+A-Sinapic acid E-Inhibition T-TNFa ==> S-Inflammation SUP:10 CONF:1.0
+A-Sinapic acid S-Inflammation T-TNFa ==> E-Inhibition SUP:10 CONF:1.0
+E-Inhibition T-TNFa ==> A-Sinapic acid S-Inflammation SUP:10 CONF:1.0
+S-Inflammation T-TNFa ==> A-Sinapic acid E-Inhibition SUP:10 CONF:1.0
+A-Sinapic acid T-TNFa ==> S-Inflammation E-Inhibition SUP:10 CONF:1.0
+T-TNFa ==> A-Sinapic acid S-Inflammation E-Inhibition SUP:10 CONF:1.0
+E-Inhibition S-Inflammation T-NfkB ==> A-Sinapic acid SUP:9 CONF:1.0
+A-Sinapic acid E-Inhibition T-NfkB ==> S-Inflammation SUP:9 CONF:1.0
+A-Sinapic acid S-Inflammation T-NfkB ==> E-Inhibition SUP:9 CONF:1.0
+E-Inhibition T-NfkB ==> A-Sinapic acid S-Inflammation SUP:9 CONF:1.0
+S-Inflammation T-NfkB ==> A-Sinapic acid E-Inhibition SUP:9 CONF:1.0
+A-Sinapic acid T-NfkB ==> S-Inflammation E-Inhibition SUP:9 CONF:1.0
+S-Inflammation T-NO ==> A-Sinapic acid SUP:8 CONF:1.0
+Ty-In vivo T-NO ==> A-Sinapic acid SUP:8 CONF:1.0
+S-Inflammation Ty-In vitro ==> E-Inhibition SUP:8 CONF:1.0
+E-Inhibition S-Inflammation T-IL-1b ==> A-Sinapic acid SUP:8 CONF:1.0
+A-Sinapic acid E-Inhibition T-IL-1b ==> S-Inflammation SUP:8 CONF:1.0
+A-Sinapic acid S-Inflammation T-IL-1b ==> E-Inhibition SUP:8 CONF:1.0
+E-Inhibition T-IL-1b ==> A-Sinapic acid S-Inflammation SUP:8 CONF:1.0
+S-Inflammation T-IL-1b ==> A-Sinapic acid E-Inhibition SUP:8 CONF:1.0
+A-Sinapic acid T-IL-1b ==> S-Inflammation E-Inhibition SUP:8 CONF:1.0
+T-IL-1b ==> A-Sinapic acid S-Inflammation E-Inhibition SUP:8 CONF:1.0
+E-Inhibition S-Inflammation T-IL-6 ==> A-Sinapic acid SUP:8 CONF:1.0
+A-Sinapic acid E-Inhibition T-IL-6 ==> S-Inflammation SUP:8 CONF:1.0
+A-Sinapic acid S-Inflammation T-IL-6 ==> E-Inhibition SUP:8 CONF:1.0
+E-Inhibition T-IL-6 ==> A-Sinapic acid S-Inflammation SUP:8 CONF:1.0
+S-Inflammation T-IL-6 ==> A-Sinapic acid E-Inhibition SUP:8 CONF:1.0
+A-Sinapic acid T-IL-6 ==> S-Inflammation E-Inhibition SUP:8 CONF:1.0
+T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition SUP:8 CONF:1.0
+E-Inhibition S-Inflammation Ty-In vivo ==> A-Sinapic acid SUP:8 CONF:1.0
+A-Sinapic acid E-Inhibition Ty-In vivo ==> S-Inflammation SUP:8 CONF:1.0
+E-Inhibition Ty-In vivo ==> A-Sinapic acid S-Inflammation SUP:8 CONF:1.0
+E-Inhibition S-Inflammation T-NfkB T-TNFa ==> A-Sinapic acid SUP:8 CONF:1.0
+A-Sinapic acid E-Inhibition T-NfkB T-TNFa ==> S-Inflammation SUP:8 CONF:1.0
+A-Sinapic acid S-Inflammation T-NfkB T-TNFa ==> E-Inhibition SUP:8 CONF:1.0
+E-Inhibition T-NfkB T-TNFa ==> A-Sinapic acid S-Inflammation SUP:8 CONF:1.0
+S-Inflammation T-NfkB T-TNFa ==> A-Sinapic acid E-Inhibition SUP:8 CONF:1.0
+A-Sinapic acid T-NfkB T-TNFa ==> S-Inflammation E-Inhibition SUP:8 CONF:1.0
+T-NfkB T-TNFa ==> A-Sinapic acid S-Inflammation E-Inhibition SUP:8 CONF:1.0
+T-nan ==> A-Sinapic acid SUP:7 CONF:1.0
+E-Inhibition S-Inflammation T-NfkB T-IL-6 ==> A-Sinapic acid SUP:7 CONF:1.0
+A-Sinapic acid E-Inhibition T-NfkB T-IL-6 ==> S-Inflammation SUP:7 CONF:1.0
+A-Sinapic acid S-Inflammation T-NfkB T-IL-6 ==> E-Inhibition SUP:7 CONF:1.0
+E-Inhibition T-NfkB T-IL-6 ==> A-Sinapic acid S-Inflammation SUP:7 CONF:1.0
+S-Inflammation T-NfkB T-IL-6 ==> A-Sinapic acid E-Inhibition SUP:7 CONF:1.0
+A-Sinapic acid T-NfkB T-IL-6 ==> S-Inflammation E-Inhibition SUP:7 CONF:1.0
+T-NfkB T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition SUP:7 CONF:1.0
+E-Inhibition S-Inflammation T-TNFa T-IL-1b ==> A-Sinapic acid SUP:7 CONF:1.0
+A-Sinapic acid E-Inhibition T-TNFa T-IL-1b ==> S-Inflammation SUP:7 CONF:1.0
+A-Sinapic acid S-Inflammation T-TNFa T-IL-1b ==> E-Inhibition SUP:7 CONF:1.0
+E-Inhibition T-TNFa T-IL-1b ==> A-Sinapic acid S-Inflammation SUP:7 CONF:1.0
+S-Inflammation T-TNFa T-IL-1b ==> A-Sinapic acid E-Inhibition SUP:7 CONF:1.0
+A-Sinapic acid T-TNFa T-IL-1b ==> S-Inflammation E-Inhibition SUP:7 CONF:1.0
+T-TNFa T-IL-1b ==> A-Sinapic acid S-Inflammation E-Inhibition SUP:7 CONF:1.0
+E-Inhibition S-Inflammation T-TNFa T-IL-6 ==> A-Sinapic acid SUP:7 CONF:1.0
+A-Sinapic acid E-Inhibition T-TNFa T-IL-6 ==> S-Inflammation SUP:7 CONF:1.0
+A-Sinapic acid S-Inflammation T-TNFa T-IL-6 ==> E-Inhibition SUP:7 CONF:1.0
+E-Inhibition T-TNFa T-IL-6 ==> A-Sinapic acid S-Inflammation SUP:7 CONF:1.0
+S-Inflammation T-TNFa T-IL-6 ==> A-Sinapic acid E-Inhibition SUP:7 CONF:1.0
+A-Sinapic acid T-TNFa T-IL-6 ==> S-Inflammation E-Inhibition SUP:7 CONF:1.0
+T-TNFa T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition SUP:7 CONF:1.0
+E-Inhibition S-Inflammation Ty-In vivo T-TNFa ==> A-Sinapic acid SUP:7 CONF:1.0
+A-Sinapic acid E-Inhibition Ty-In vivo T-TNFa ==> S-Inflammation SUP:7 CONF:1.0
+A-Sinapic acid S-Inflammation Ty-In vivo T-TNFa ==> E-Inhibition SUP:7 CONF:1.0
+E-Inhibition Ty-In vivo T-TNFa ==> A-Sinapic acid S-Inflammation SUP:7 CONF:1.0
+S-Inflammation Ty-In vivo T-TNFa ==> A-Sinapic acid E-Inhibition SUP:7 CONF:1.0
+A-Sinapic acid Ty-In vivo T-TNFa ==> S-Inflammation E-Inhibition SUP:7 CONF:1.0
+Ty-In vivo T-TNFa ==> A-Sinapic acid S-Inflammation E-Inhibition SUP:7 CONF:1.0
+A-Sinapic acid E-Inhibition Ty-In vitro ==> S-Inflammation SUP:6 CONF:1.0
+A-Sinapic acid S-Inflammation Ty-In vitro ==> E-Inhibition SUP:6 CONF:1.0
+A-Sinapic acid Ty-In vitro ==> S-Inflammation E-Inhibition SUP:6 CONF:1.0
+S-Inflammation Ty-In vivo T-NO ==> A-Sinapic acid SUP:6 CONF:1.0
+S-Inflammation Ty-In vivo T-oxydative stress ==> A-Sinapic acid SUP:6 CONF:1.0
+A-Sinapic acid Ty-In vivo T-oxydative stress ==> S-Inflammation SUP:6 CONF:1.0
+A-Sinapic acid S-Inflammation T-oxydative stress ==> Ty-In vivo SUP:6 CONF:1.0
+Ty-In vivo T-oxydative stress ==> A-Sinapic acid S-Inflammation SUP:6 CONF:1.0
+S-Inflammation Ty-In vivo E-Prevention ==> A-Sinapic acid SUP:6 CONF:1.0
+A-Sinapic acid Ty-In vivo E-Prevention ==> S-Inflammation SUP:6 CONF:1.0
+A-Sinapic acid S-Inflammation E-Prevention ==> Ty-In vivo SUP:6 CONF:1.0
+Ty-In vivo E-Prevention ==> A-Sinapic acid S-Inflammation SUP:6 CONF:1.0
+S-Inflammation E-Prevention ==> A-Sinapic acid Ty-In vivo SUP:6 CONF:1.0
+A-Sinapic acid E-Prevention ==> S-Inflammation Ty-In vivo SUP:6 CONF:1.0
+E-Prevention ==> A-Sinapic acid S-Inflammation Ty-In vivo SUP:6 CONF:1.0
+E-Inhibition S-Inflammation Ty-In vivo T-IL-1b ==> A-Sinapic acid SUP:6 CONF:1.0
+A-Sinapic acid E-Inhibition Ty-In vivo T-IL-1b ==> S-Inflammation SUP:6 CONF:1.0
+A-Sinapic acid S-Inflammation Ty-In vivo T-IL-1b ==> E-Inhibition SUP:6 CONF:1.0
+E-Inhibition Ty-In vivo T-IL-1b ==> A-Sinapic acid S-Inflammation SUP:6 CONF:1.0
+S-Inflammation Ty-In vivo T-IL-1b ==> A-Sinapic acid E-Inhibition SUP:6 CONF:1.0
+A-Sinapic acid Ty-In vivo T-IL-1b ==> S-Inflammation E-Inhibition SUP:6 CONF:1.0
+Ty-In vivo T-IL-1b ==> A-Sinapic acid S-Inflammation E-Inhibition SUP:6 CONF:1.0
+E-Inhibition S-Inflammation T-NfkB T-TNFa T-IL-1b ==> A-Sinapic acid SUP:6 CONF:1.0
+A-Sinapic acid E-Inhibition T-NfkB T-TNFa T-IL-1b ==> S-Inflammation SUP:6 CONF:1.0
+A-Sinapic acid S-Inflammation T-NfkB T-TNFa T-IL-1b ==> E-Inhibition SUP:6 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB T-IL-1b ==> T-TNFa SUP:6 CONF:1.0
+E-Inhibition T-NfkB T-TNFa T-IL-1b ==> A-Sinapic acid S-Inflammation SUP:6 CONF:1.0
+S-Inflammation T-NfkB T-TNFa T-IL-1b ==> A-Sinapic acid E-Inhibition SUP:6 CONF:1.0
+E-Inhibition S-Inflammation T-NfkB T-IL-1b ==> A-Sinapic acid T-TNFa SUP:6 CONF:1.0
+A-Sinapic acid T-NfkB T-TNFa T-IL-1b ==> S-Inflammation E-Inhibition SUP:6 CONF:1.0
+A-Sinapic acid E-Inhibition T-NfkB T-IL-1b ==> S-Inflammation T-TNFa SUP:6 CONF:1.0
+A-Sinapic acid S-Inflammation T-NfkB T-IL-1b ==> E-Inhibition T-TNFa SUP:6 CONF:1.0
+T-NfkB T-TNFa T-IL-1b ==> A-Sinapic acid S-Inflammation E-Inhibition SUP:6 CONF:1.0
+E-Inhibition T-NfkB T-IL-1b ==> A-Sinapic acid S-Inflammation T-TNFa SUP:6 CONF:1.0
+S-Inflammation T-NfkB T-IL-1b ==> A-Sinapic acid E-Inhibition T-TNFa SUP:6 CONF:1.0
+A-Sinapic acid T-NfkB T-IL-1b ==> S-Inflammation E-Inhibition T-TNFa SUP:6 CONF:1.0
+T-NfkB T-IL-1b ==> A-Sinapic acid S-Inflammation E-Inhibition T-TNFa SUP:6 CONF:1.0
+E-Inhibition S-Inflammation T-NfkB T-TNFa T-IL-6 ==> A-Sinapic acid SUP:6 CONF:1.0
+A-Sinapic acid E-Inhibition T-NfkB T-TNFa T-IL-6 ==> S-Inflammation SUP:6 CONF:1.0
+A-Sinapic acid S-Inflammation T-NfkB T-TNFa T-IL-6 ==> E-Inhibition SUP:6 CONF:1.0
+E-Inhibition T-NfkB T-TNFa T-IL-6 ==> A-Sinapic acid S-Inflammation SUP:6 CONF:1.0
+S-Inflammation T-NfkB T-TNFa T-IL-6 ==> A-Sinapic acid E-Inhibition SUP:6 CONF:1.0
+A-Sinapic acid T-NfkB T-TNFa T-IL-6 ==> S-Inflammation E-Inhibition SUP:6 CONF:1.0
+T-NfkB T-TNFa T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition SUP:6 CONF:1.0
+E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-TNFa ==> A-Sinapic acid SUP:6 CONF:1.0
+A-Sinapic acid E-Inhibition Ty-In vivo T-NfkB T-TNFa ==> S-Inflammation SUP:6 CONF:1.0
+A-Sinapic acid S-Inflammation Ty-In vivo T-NfkB T-TNFa ==> E-Inhibition SUP:6 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-NfkB ==> T-TNFa SUP:6 CONF:1.0
+E-Inhibition Ty-In vivo T-NfkB T-TNFa ==> A-Sinapic acid S-Inflammation SUP:6 CONF:1.0
+S-Inflammation Ty-In vivo T-NfkB T-TNFa ==> A-Sinapic acid E-Inhibition SUP:6 CONF:1.0
+E-Inhibition S-Inflammation Ty-In vivo T-NfkB ==> A-Sinapic acid T-TNFa SUP:6 CONF:1.0
+A-Sinapic acid Ty-In vivo T-NfkB T-TNFa ==> S-Inflammation E-Inhibition SUP:6 CONF:1.0
+A-Sinapic acid E-Inhibition Ty-In vivo T-NfkB ==> S-Inflammation T-TNFa SUP:6 CONF:1.0
+A-Sinapic acid S-Inflammation Ty-In vivo T-NfkB ==> E-Inhibition T-TNFa SUP:6 CONF:1.0
+Ty-In vivo T-NfkB T-TNFa ==> A-Sinapic acid S-Inflammation E-Inhibition SUP:6 CONF:1.0
+E-Inhibition Ty-In vivo T-NfkB ==> A-Sinapic acid S-Inflammation T-TNFa SUP:6 CONF:1.0
+S-Inflammation Ty-In vivo T-NfkB ==> A-Sinapic acid E-Inhibition T-TNFa SUP:6 CONF:1.0
+A-Sinapic acid Ty-In vivo T-NfkB ==> S-Inflammation E-Inhibition T-TNFa SUP:6 CONF:1.0
+Ty-In vivo T-NfkB ==> A-Sinapic acid S-Inflammation E-Inhibition T-TNFa SUP:6 CONF:1.0
+E-Inhibition S-Inflammation T-TNFa T-NO T-IL-6 ==> A-Sinapic acid SUP:6 CONF:1.0
+A-Sinapic acid E-Inhibition T-TNFa T-NO T-IL-6 ==> S-Inflammation SUP:6 CONF:1.0
+A-Sinapic acid S-Inflammation T-TNFa T-NO T-IL-6 ==> E-Inhibition SUP:6 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation T-NO T-IL-6 ==> T-TNFa SUP:6 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation T-TNFa T-NO ==> T-IL-6 SUP:6 CONF:1.0
+E-Inhibition T-TNFa T-NO T-IL-6 ==> A-Sinapic acid S-Inflammation SUP:6 CONF:1.0
+S-Inflammation T-TNFa T-NO T-IL-6 ==> A-Sinapic acid E-Inhibition SUP:6 CONF:1.0
+E-Inhibition S-Inflammation T-NO T-IL-6 ==> A-Sinapic acid T-TNFa SUP:6 CONF:1.0
+E-Inhibition S-Inflammation T-TNFa T-NO ==> A-Sinapic acid T-IL-6 SUP:6 CONF:1.0
+A-Sinapic acid T-TNFa T-NO T-IL-6 ==> S-Inflammation E-Inhibition SUP:6 CONF:1.0
+A-Sinapic acid E-Inhibition T-NO T-IL-6 ==> S-Inflammation T-TNFa SUP:6 CONF:1.0
+A-Sinapic acid E-Inhibition T-TNFa T-NO ==> S-Inflammation T-IL-6 SUP:6 CONF:1.0
+A-Sinapic acid S-Inflammation T-NO T-IL-6 ==> E-Inhibition T-TNFa SUP:6 CONF:1.0
+A-Sinapic acid S-Inflammation T-TNFa T-NO ==> E-Inhibition T-IL-6 SUP:6 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation T-NO ==> T-TNFa T-IL-6 SUP:6 CONF:1.0
+T-TNFa T-NO T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition SUP:6 CONF:1.0
+E-Inhibition T-NO T-IL-6 ==> A-Sinapic acid S-Inflammation T-TNFa SUP:6 CONF:1.0
+E-Inhibition T-TNFa T-NO ==> A-Sinapic acid S-Inflammation T-IL-6 SUP:6 CONF:1.0
+S-Inflammation T-NO T-IL-6 ==> A-Sinapic acid E-Inhibition T-TNFa SUP:6 CONF:1.0
+S-Inflammation T-TNFa T-NO ==> A-Sinapic acid E-Inhibition T-IL-6 SUP:6 CONF:1.0
+E-Inhibition S-Inflammation T-NO ==> A-Sinapic acid T-TNFa T-IL-6 SUP:6 CONF:1.0
+A-Sinapic acid T-NO T-IL-6 ==> S-Inflammation E-Inhibition T-TNFa SUP:6 CONF:1.0
+A-Sinapic acid T-TNFa T-NO ==> S-Inflammation E-Inhibition T-IL-6 SUP:6 CONF:1.0
+A-Sinapic acid E-Inhibition T-NO ==> S-Inflammation T-TNFa T-IL-6 SUP:6 CONF:1.0
+T-NO T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-TNFa SUP:6 CONF:1.0
+T-TNFa T-NO ==> A-Sinapic acid S-Inflammation E-Inhibition T-IL-6 SUP:6 CONF:1.0
+E-Inhibition T-NO ==> A-Sinapic acid S-Inflammation T-TNFa T-IL-6 SUP:6 CONF:1.0
+T-nan I-gentamicin T-cell death B-nan ==> A-Sinapic acid SUP:5 CONF:1.0
+A-Sinapic acid I-gentamicin T-cell death B-nan ==> T-nan SUP:5 CONF:1.0
+A-Sinapic acid T-nan T-cell death B-nan ==> I-gentamicin SUP:5 CONF:1.0
+A-Sinapic acid T-nan I-gentamicin B-nan ==> T-cell death SUP:5 CONF:1.0
+A-Sinapic acid T-nan I-gentamicin T-cell death ==> B-nan SUP:5 CONF:1.0
+I-gentamicin T-cell death B-nan ==> A-Sinapic acid T-nan SUP:5 CONF:1.0
+T-nan T-cell death B-nan ==> A-Sinapic acid I-gentamicin SUP:5 CONF:1.0
+T-nan I-gentamicin B-nan ==> A-Sinapic acid T-cell death SUP:5 CONF:1.0
+T-nan I-gentamicin T-cell death ==> A-Sinapic acid B-nan SUP:5 CONF:1.0
+A-Sinapic acid T-cell death B-nan ==> T-nan I-gentamicin SUP:5 CONF:1.0
+A-Sinapic acid I-gentamicin B-nan ==> T-nan T-cell death SUP:5 CONF:1.0
+A-Sinapic acid I-gentamicin T-cell death ==> T-nan B-nan SUP:5 CONF:1.0
+A-Sinapic acid T-nan B-nan ==> I-gentamicin T-cell death SUP:5 CONF:1.0
+A-Sinapic acid T-nan T-cell death ==> I-gentamicin B-nan SUP:5 CONF:1.0
+A-Sinapic acid T-nan I-gentamicin ==> T-cell death B-nan SUP:5 CONF:1.0
+T-cell death B-nan ==> A-Sinapic acid T-nan I-gentamicin SUP:5 CONF:1.0
+I-gentamicin B-nan ==> A-Sinapic acid T-nan T-cell death SUP:5 CONF:1.0
+I-gentamicin T-cell death ==> A-Sinapic acid T-nan B-nan SUP:5 CONF:1.0
+T-nan B-nan ==> A-Sinapic acid I-gentamicin T-cell death SUP:5 CONF:1.0
+T-nan T-cell death ==> A-Sinapic acid I-gentamicin B-nan SUP:5 CONF:1.0
+T-nan I-gentamicin ==> A-Sinapic acid T-cell death B-nan SUP:5 CONF:1.0
+A-Sinapic acid B-nan ==> T-nan I-gentamicin T-cell death SUP:5 CONF:1.0
+A-Sinapic acid T-cell death ==> T-nan I-gentamicin B-nan SUP:5 CONF:1.0
+A-Sinapic acid I-gentamicin ==> T-nan T-cell death B-nan SUP:5 CONF:1.0
+B-nan ==> A-Sinapic acid T-nan I-gentamicin T-cell death SUP:5 CONF:1.0
+T-cell death ==> A-Sinapic acid T-nan I-gentamicin B-nan SUP:5 CONF:1.0
+E-Inhibition S-Inflammation T-TNFa T-IL-1b T-IL-6 ==> A-Sinapic acid SUP:5 CONF:1.0
+A-Sinapic acid E-Inhibition T-TNFa T-IL-1b T-IL-6 ==> S-Inflammation SUP:5 CONF:1.0
+A-Sinapic acid S-Inflammation T-TNFa T-IL-1b T-IL-6 ==> E-Inhibition SUP:5 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation T-IL-1b T-IL-6 ==> T-TNFa SUP:5 CONF:1.0
+E-Inhibition T-TNFa T-IL-1b T-IL-6 ==> A-Sinapic acid S-Inflammation SUP:5 CONF:1.0
+S-Inflammation T-TNFa T-IL-1b T-IL-6 ==> A-Sinapic acid E-Inhibition SUP:5 CONF:1.0
+E-Inhibition S-Inflammation T-IL-1b T-IL-6 ==> A-Sinapic acid T-TNFa SUP:5 CONF:1.0
+A-Sinapic acid T-TNFa T-IL-1b T-IL-6 ==> S-Inflammation E-Inhibition SUP:5 CONF:1.0
+A-Sinapic acid E-Inhibition T-IL-1b T-IL-6 ==> S-Inflammation T-TNFa SUP:5 CONF:1.0
+A-Sinapic acid S-Inflammation T-IL-1b T-IL-6 ==> E-Inhibition T-TNFa SUP:5 CONF:1.0
+T-TNFa T-IL-1b T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition SUP:5 CONF:1.0
+E-Inhibition T-IL-1b T-IL-6 ==> A-Sinapic acid S-Inflammation T-TNFa SUP:5 CONF:1.0
+S-Inflammation T-IL-1b T-IL-6 ==> A-Sinapic acid E-Inhibition T-TNFa SUP:5 CONF:1.0
+A-Sinapic acid T-IL-1b T-IL-6 ==> S-Inflammation E-Inhibition T-TNFa SUP:5 CONF:1.0
+T-IL-1b T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-TNFa SUP:5 CONF:1.0
+E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-TNFa T-IL-1b ==> A-Sinapic acid SUP:5 CONF:1.0
+A-Sinapic acid E-Inhibition Ty-In vivo T-NfkB T-TNFa T-IL-1b ==> S-Inflammation SUP:5 CONF:1.0
+A-Sinapic acid S-Inflammation Ty-In vivo T-NfkB T-TNFa T-IL-1b ==> E-Inhibition SUP:5 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-TNFa T-IL-1b ==> T-NfkB SUP:5 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-IL-1b ==> T-TNFa SUP:5 CONF:1.0
+E-Inhibition Ty-In vivo T-NfkB T-TNFa T-IL-1b ==> A-Sinapic acid S-Inflammation SUP:5 CONF:1.0
+S-Inflammation Ty-In vivo T-NfkB T-TNFa T-IL-1b ==> A-Sinapic acid E-Inhibition SUP:5 CONF:1.0
+E-Inhibition S-Inflammation Ty-In vivo T-TNFa T-IL-1b ==> A-Sinapic acid T-NfkB SUP:5 CONF:1.0
+E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-IL-1b ==> A-Sinapic acid T-TNFa SUP:5 CONF:1.0
+A-Sinapic acid Ty-In vivo T-NfkB T-TNFa T-IL-1b ==> S-Inflammation E-Inhibition SUP:5 CONF:1.0
+A-Sinapic acid E-Inhibition Ty-In vivo T-TNFa T-IL-1b ==> S-Inflammation T-NfkB SUP:5 CONF:1.0
+A-Sinapic acid E-Inhibition Ty-In vivo T-NfkB T-IL-1b ==> S-Inflammation T-TNFa SUP:5 CONF:1.0
+A-Sinapic acid S-Inflammation Ty-In vivo T-TNFa T-IL-1b ==> E-Inhibition T-NfkB SUP:5 CONF:1.0
+A-Sinapic acid S-Inflammation Ty-In vivo T-NfkB T-IL-1b ==> E-Inhibition T-TNFa SUP:5 CONF:1.0
+Ty-In vivo T-NfkB T-TNFa T-IL-1b ==> A-Sinapic acid S-Inflammation E-Inhibition SUP:5 CONF:1.0
+E-Inhibition Ty-In vivo T-TNFa T-IL-1b ==> A-Sinapic acid S-Inflammation T-NfkB SUP:5 CONF:1.0
+E-Inhibition Ty-In vivo T-NfkB T-IL-1b ==> A-Sinapic acid S-Inflammation T-TNFa SUP:5 CONF:1.0
+S-Inflammation Ty-In vivo T-TNFa T-IL-1b ==> A-Sinapic acid E-Inhibition T-NfkB SUP:5 CONF:1.0
+S-Inflammation Ty-In vivo T-NfkB T-IL-1b ==> A-Sinapic acid E-Inhibition T-TNFa SUP:5 CONF:1.0
+A-Sinapic acid Ty-In vivo T-TNFa T-IL-1b ==> S-Inflammation E-Inhibition T-NfkB SUP:5 CONF:1.0
+A-Sinapic acid Ty-In vivo T-NfkB T-IL-1b ==> S-Inflammation E-Inhibition T-TNFa SUP:5 CONF:1.0
+Ty-In vivo T-TNFa T-IL-1b ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB SUP:5 CONF:1.0
+Ty-In vivo T-NfkB T-IL-1b ==> A-Sinapic acid S-Inflammation E-Inhibition T-TNFa SUP:5 CONF:1.0
+E-Inhibition S-Inflammation T-NfkB T-TNFa T-NO T-IL-6 ==> A-Sinapic acid SUP:5 CONF:1.0
+A-Sinapic acid E-Inhibition T-NfkB T-TNFa T-NO T-IL-6 ==> S-Inflammation SUP:5 CONF:1.0
+A-Sinapic acid S-Inflammation T-NfkB T-TNFa T-NO T-IL-6 ==> E-Inhibition SUP:5 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB T-NO T-IL-6 ==> T-TNFa SUP:5 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB T-TNFa T-NO ==> T-IL-6 SUP:5 CONF:1.0
+E-Inhibition T-NfkB T-TNFa T-NO T-IL-6 ==> A-Sinapic acid S-Inflammation SUP:5 CONF:1.0
+S-Inflammation T-NfkB T-TNFa T-NO T-IL-6 ==> A-Sinapic acid E-Inhibition SUP:5 CONF:1.0
+E-Inhibition S-Inflammation T-NfkB T-NO T-IL-6 ==> A-Sinapic acid T-TNFa SUP:5 CONF:1.0
+E-Inhibition S-Inflammation T-NfkB T-TNFa T-NO ==> A-Sinapic acid T-IL-6 SUP:5 CONF:1.0
+A-Sinapic acid T-NfkB T-TNFa T-NO T-IL-6 ==> S-Inflammation E-Inhibition SUP:5 CONF:1.0
+A-Sinapic acid E-Inhibition T-NfkB T-NO T-IL-6 ==> S-Inflammation T-TNFa SUP:5 CONF:1.0
+A-Sinapic acid E-Inhibition T-NfkB T-TNFa T-NO ==> S-Inflammation T-IL-6 SUP:5 CONF:1.0
+A-Sinapic acid S-Inflammation T-NfkB T-NO T-IL-6 ==> E-Inhibition T-TNFa SUP:5 CONF:1.0
+A-Sinapic acid S-Inflammation T-NfkB T-TNFa T-NO ==> E-Inhibition T-IL-6 SUP:5 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB T-NO ==> T-TNFa T-IL-6 SUP:5 CONF:1.0
+T-NfkB T-TNFa T-NO T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition SUP:5 CONF:1.0
+E-Inhibition T-NfkB T-NO T-IL-6 ==> A-Sinapic acid S-Inflammation T-TNFa SUP:5 CONF:1.0
+E-Inhibition T-NfkB T-TNFa T-NO ==> A-Sinapic acid S-Inflammation T-IL-6 SUP:5 CONF:1.0
+S-Inflammation T-NfkB T-NO T-IL-6 ==> A-Sinapic acid E-Inhibition T-TNFa SUP:5 CONF:1.0
+S-Inflammation T-NfkB T-TNFa T-NO ==> A-Sinapic acid E-Inhibition T-IL-6 SUP:5 CONF:1.0
+E-Inhibition S-Inflammation T-NfkB T-NO ==> A-Sinapic acid T-TNFa T-IL-6 SUP:5 CONF:1.0
+A-Sinapic acid T-NfkB T-NO T-IL-6 ==> S-Inflammation E-Inhibition T-TNFa SUP:5 CONF:1.0
+A-Sinapic acid T-NfkB T-TNFa T-NO ==> S-Inflammation E-Inhibition T-IL-6 SUP:5 CONF:1.0
+A-Sinapic acid E-Inhibition T-NfkB T-NO ==> S-Inflammation T-TNFa T-IL-6 SUP:5 CONF:1.0
+A-Sinapic acid S-Inflammation T-NfkB T-NO ==> E-Inhibition T-TNFa T-IL-6 SUP:5 CONF:1.0
+T-NfkB T-NO T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-TNFa SUP:5 CONF:1.0
+T-NfkB T-TNFa T-NO ==> A-Sinapic acid S-Inflammation E-Inhibition T-IL-6 SUP:5 CONF:1.0
+E-Inhibition T-NfkB T-NO ==> A-Sinapic acid S-Inflammation T-TNFa T-IL-6 SUP:5 CONF:1.0
+S-Inflammation T-NfkB T-NO ==> A-Sinapic acid E-Inhibition T-TNFa T-IL-6 SUP:5 CONF:1.0
+A-Sinapic acid T-NfkB T-NO ==> S-Inflammation E-Inhibition T-TNFa T-IL-6 SUP:5 CONF:1.0
+T-NfkB T-NO ==> A-Sinapic acid S-Inflammation E-Inhibition T-TNFa T-IL-6 SUP:5 CONF:1.0
+E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-TNFa T-IL-6 ==> A-Sinapic acid SUP:5 CONF:1.0
+A-Sinapic acid E-Inhibition Ty-In vivo T-NfkB T-TNFa T-IL-6 ==> S-Inflammation SUP:5 CONF:1.0
+A-Sinapic acid S-Inflammation Ty-In vivo T-NfkB T-TNFa T-IL-6 ==> E-Inhibition SUP:5 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-TNFa T-IL-6 ==> T-NfkB SUP:5 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-IL-6 ==> T-TNFa SUP:5 CONF:1.0
+E-Inhibition Ty-In vivo T-NfkB T-TNFa T-IL-6 ==> A-Sinapic acid S-Inflammation SUP:5 CONF:1.0
+S-Inflammation Ty-In vivo T-NfkB T-TNFa T-IL-6 ==> A-Sinapic acid E-Inhibition SUP:5 CONF:1.0
+E-Inhibition S-Inflammation Ty-In vivo T-TNFa T-IL-6 ==> A-Sinapic acid T-NfkB SUP:5 CONF:1.0
+E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-IL-6 ==> A-Sinapic acid T-TNFa SUP:5 CONF:1.0
+A-Sinapic acid Ty-In vivo T-NfkB T-TNFa T-IL-6 ==> S-Inflammation E-Inhibition SUP:5 CONF:1.0
+A-Sinapic acid E-Inhibition Ty-In vivo T-TNFa T-IL-6 ==> S-Inflammation T-NfkB SUP:5 CONF:1.0
+A-Sinapic acid E-Inhibition Ty-In vivo T-NfkB T-IL-6 ==> S-Inflammation T-TNFa SUP:5 CONF:1.0
+A-Sinapic acid S-Inflammation Ty-In vivo T-TNFa T-IL-6 ==> E-Inhibition T-NfkB SUP:5 CONF:1.0
+A-Sinapic acid S-Inflammation Ty-In vivo T-NfkB T-IL-6 ==> E-Inhibition T-TNFa SUP:5 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-IL-6 ==> T-NfkB T-TNFa SUP:5 CONF:1.0
+Ty-In vivo T-NfkB T-TNFa T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition SUP:5 CONF:1.0
+E-Inhibition Ty-In vivo T-TNFa T-IL-6 ==> A-Sinapic acid S-Inflammation T-NfkB SUP:5 CONF:1.0
+E-Inhibition Ty-In vivo T-NfkB T-IL-6 ==> A-Sinapic acid S-Inflammation T-TNFa SUP:5 CONF:1.0
+S-Inflammation Ty-In vivo T-TNFa T-IL-6 ==> A-Sinapic acid E-Inhibition T-NfkB SUP:5 CONF:1.0
+S-Inflammation Ty-In vivo T-NfkB T-IL-6 ==> A-Sinapic acid E-Inhibition T-TNFa SUP:5 CONF:1.0
+E-Inhibition S-Inflammation Ty-In vivo T-IL-6 ==> A-Sinapic acid T-NfkB T-TNFa SUP:5 CONF:1.0
+A-Sinapic acid Ty-In vivo T-TNFa T-IL-6 ==> S-Inflammation E-Inhibition T-NfkB SUP:5 CONF:1.0
+A-Sinapic acid Ty-In vivo T-NfkB T-IL-6 ==> S-Inflammation E-Inhibition T-TNFa SUP:5 CONF:1.0
+A-Sinapic acid E-Inhibition Ty-In vivo T-IL-6 ==> S-Inflammation T-NfkB T-TNFa SUP:5 CONF:1.0
+A-Sinapic acid S-Inflammation Ty-In vivo T-IL-6 ==> E-Inhibition T-NfkB T-TNFa SUP:5 CONF:1.0
+Ty-In vivo T-TNFa T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB SUP:5 CONF:1.0
+Ty-In vivo T-NfkB T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-TNFa SUP:5 CONF:1.0
+E-Inhibition Ty-In vivo T-IL-6 ==> A-Sinapic acid S-Inflammation T-NfkB T-TNFa SUP:5 CONF:1.0
+S-Inflammation Ty-In vivo T-IL-6 ==> A-Sinapic acid E-Inhibition T-NfkB T-TNFa SUP:5 CONF:1.0
+A-Sinapic acid Ty-In vivo T-IL-6 ==> S-Inflammation E-Inhibition T-NfkB T-TNFa SUP:5 CONF:1.0
+Ty-In vivo T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB T-TNFa SUP:5 CONF:1.0
+E-Inhibition B-Neutrophiles (= globules blancs humains) T-leukotriene ==> Ty-In vitro SUP:4 CONF:1.0
+Ty-In vitro B-Neutrophiles (= globules blancs humains) T-leukotriene ==> E-Inhibition SUP:4 CONF:1.0
+E-Inhibition Ty-In vitro T-leukotriene ==> B-Neutrophiles (= globules blancs humains) SUP:4 CONF:1.0
+E-Inhibition Ty-In vitro B-Neutrophiles (= globules blancs humains) ==> T-leukotriene SUP:4 CONF:1.0
+B-Neutrophiles (= globules blancs humains) T-leukotriene ==> Ty-In vitro E-Inhibition SUP:4 CONF:1.0
+E-Inhibition T-leukotriene ==> Ty-In vitro B-Neutrophiles (= globules blancs humains) SUP:4 CONF:1.0
+E-Inhibition B-Neutrophiles (= globules blancs humains) ==> Ty-In vitro T-leukotriene SUP:4 CONF:1.0
+Ty-In vitro T-leukotriene ==> E-Inhibition B-Neutrophiles (= globules blancs humains) SUP:4 CONF:1.0
+Ty-In vitro B-Neutrophiles (= globules blancs humains) ==> E-Inhibition T-leukotriene SUP:4 CONF:1.0
+T-leukotriene ==> Ty-In vitro E-Inhibition B-Neutrophiles (= globules blancs humains) SUP:4 CONF:1.0
+B-Neutrophiles (= globules blancs humains) ==> Ty-In vitro E-Inhibition T-leukotriene SUP:4 CONF:1.0
+S-Inflammation Ty-In vivo T-NO T-oxydative stress ==> A-Sinapic acid SUP:4 CONF:1.0
+A-Sinapic acid Ty-In vivo T-NO T-oxydative stress ==> S-Inflammation SUP:4 CONF:1.0
+A-Sinapic acid S-Inflammation T-NO T-oxydative stress ==> Ty-In vivo SUP:4 CONF:1.0
+Ty-In vivo T-NO T-oxydative stress ==> A-Sinapic acid S-Inflammation SUP:4 CONF:1.0
+S-Inflammation T-NO T-oxydative stress ==> A-Sinapic acid Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid T-NO T-oxydative stress ==> S-Inflammation Ty-In vivo SUP:4 CONF:1.0
+T-NO T-oxydative stress ==> A-Sinapic acid S-Inflammation Ty-In vivo SUP:4 CONF:1.0
+E-Inhibition S-Inflammation T-TNFa T-NO T-IL-1b T-IL-6 ==> A-Sinapic acid SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition T-TNFa T-NO T-IL-1b T-IL-6 ==> S-Inflammation SUP:4 CONF:1.0
+A-Sinapic acid S-Inflammation T-TNFa T-NO T-IL-1b T-IL-6 ==> E-Inhibition SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation T-NO T-IL-1b T-IL-6 ==> T-TNFa SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation T-TNFa T-NO T-IL-1b ==> T-IL-6 SUP:4 CONF:1.0
+E-Inhibition T-TNFa T-NO T-IL-1b T-IL-6 ==> A-Sinapic acid S-Inflammation SUP:4 CONF:1.0
+S-Inflammation T-TNFa T-NO T-IL-1b T-IL-6 ==> A-Sinapic acid E-Inhibition SUP:4 CONF:1.0
+E-Inhibition S-Inflammation T-NO T-IL-1b T-IL-6 ==> A-Sinapic acid T-TNFa SUP:4 CONF:1.0
+E-Inhibition S-Inflammation T-TNFa T-NO T-IL-1b ==> A-Sinapic acid T-IL-6 SUP:4 CONF:1.0
+A-Sinapic acid T-TNFa T-NO T-IL-1b T-IL-6 ==> S-Inflammation E-Inhibition SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition T-NO T-IL-1b T-IL-6 ==> S-Inflammation T-TNFa SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition T-TNFa T-NO T-IL-1b ==> S-Inflammation T-IL-6 SUP:4 CONF:1.0
+A-Sinapic acid S-Inflammation T-NO T-IL-1b T-IL-6 ==> E-Inhibition T-TNFa SUP:4 CONF:1.0
+A-Sinapic acid S-Inflammation T-TNFa T-NO T-IL-1b ==> E-Inhibition T-IL-6 SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation T-NO T-IL-1b ==> T-TNFa T-IL-6 SUP:4 CONF:1.0
+T-TNFa T-NO T-IL-1b T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition SUP:4 CONF:1.0
+E-Inhibition T-NO T-IL-1b T-IL-6 ==> A-Sinapic acid S-Inflammation T-TNFa SUP:4 CONF:1.0
+E-Inhibition T-TNFa T-NO T-IL-1b ==> A-Sinapic acid S-Inflammation T-IL-6 SUP:4 CONF:1.0
+S-Inflammation T-NO T-IL-1b T-IL-6 ==> A-Sinapic acid E-Inhibition T-TNFa SUP:4 CONF:1.0
+S-Inflammation T-TNFa T-NO T-IL-1b ==> A-Sinapic acid E-Inhibition T-IL-6 SUP:4 CONF:1.0
+E-Inhibition S-Inflammation T-NO T-IL-1b ==> A-Sinapic acid T-TNFa T-IL-6 SUP:4 CONF:1.0
+A-Sinapic acid T-NO T-IL-1b T-IL-6 ==> S-Inflammation E-Inhibition T-TNFa SUP:4 CONF:1.0
+A-Sinapic acid T-TNFa T-NO T-IL-1b ==> S-Inflammation E-Inhibition T-IL-6 SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition T-NO T-IL-1b ==> S-Inflammation T-TNFa T-IL-6 SUP:4 CONF:1.0
+A-Sinapic acid S-Inflammation T-NO T-IL-1b ==> E-Inhibition T-TNFa T-IL-6 SUP:4 CONF:1.0
+T-NO T-IL-1b T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-TNFa SUP:4 CONF:1.0
+T-TNFa T-NO T-IL-1b ==> A-Sinapic acid S-Inflammation E-Inhibition T-IL-6 SUP:4 CONF:1.0
+E-Inhibition T-NO T-IL-1b ==> A-Sinapic acid S-Inflammation T-TNFa T-IL-6 SUP:4 CONF:1.0
+S-Inflammation T-NO T-IL-1b ==> A-Sinapic acid E-Inhibition T-TNFa T-IL-6 SUP:4 CONF:1.0
+A-Sinapic acid T-NO T-IL-1b ==> S-Inflammation E-Inhibition T-TNFa T-IL-6 SUP:4 CONF:1.0
+T-NO T-IL-1b ==> A-Sinapic acid S-Inflammation E-Inhibition T-TNFa T-IL-6 SUP:4 CONF:1.0
+E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-TNFa T-NO T-IL-6 ==> A-Sinapic acid SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition Ty-In vivo T-NfkB T-TNFa T-NO T-IL-6 ==> S-Inflammation SUP:4 CONF:1.0
+A-Sinapic acid S-Inflammation Ty-In vivo T-NfkB T-TNFa T-NO T-IL-6 ==> E-Inhibition SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-TNFa T-NO T-IL-6 ==> T-NfkB SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-NO T-IL-6 ==> T-TNFa SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-TNFa T-NO ==> T-IL-6 SUP:4 CONF:1.0
+E-Inhibition Ty-In vivo T-NfkB T-TNFa T-NO T-IL-6 ==> A-Sinapic acid S-Inflammation SUP:4 CONF:1.0
+S-Inflammation Ty-In vivo T-NfkB T-TNFa T-NO T-IL-6 ==> A-Sinapic acid E-Inhibition SUP:4 CONF:1.0
+E-Inhibition S-Inflammation Ty-In vivo T-TNFa T-NO T-IL-6 ==> A-Sinapic acid T-NfkB SUP:4 CONF:1.0
+E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-NO T-IL-6 ==> A-Sinapic acid T-TNFa SUP:4 CONF:1.0
+E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-TNFa T-NO ==> A-Sinapic acid T-IL-6 SUP:4 CONF:1.0
+A-Sinapic acid Ty-In vivo T-NfkB T-TNFa T-NO T-IL-6 ==> S-Inflammation E-Inhibition SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition Ty-In vivo T-TNFa T-NO T-IL-6 ==> S-Inflammation T-NfkB SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition Ty-In vivo T-NfkB T-NO T-IL-6 ==> S-Inflammation T-TNFa SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition Ty-In vivo T-NfkB T-TNFa T-NO ==> S-Inflammation T-IL-6 SUP:4 CONF:1.0
+A-Sinapic acid S-Inflammation Ty-In vivo T-TNFa T-NO T-IL-6 ==> E-Inhibition T-NfkB SUP:4 CONF:1.0
+A-Sinapic acid S-Inflammation Ty-In vivo T-NfkB T-NO T-IL-6 ==> E-Inhibition T-TNFa SUP:4 CONF:1.0
+A-Sinapic acid S-Inflammation Ty-In vivo T-NfkB T-TNFa T-NO ==> E-Inhibition T-IL-6 SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-NO T-IL-6 ==> T-NfkB T-TNFa SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-TNFa T-NO ==> T-NfkB T-IL-6 SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-NO ==> T-TNFa T-IL-6 SUP:4 CONF:1.0
+Ty-In vivo T-NfkB T-TNFa T-NO T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition SUP:4 CONF:1.0
+E-Inhibition Ty-In vivo T-TNFa T-NO T-IL-6 ==> A-Sinapic acid S-Inflammation T-NfkB SUP:4 CONF:1.0
+E-Inhibition Ty-In vivo T-NfkB T-NO T-IL-6 ==> A-Sinapic acid S-Inflammation T-TNFa SUP:4 CONF:1.0
+E-Inhibition Ty-In vivo T-NfkB T-TNFa T-NO ==> A-Sinapic acid S-Inflammation T-IL-6 SUP:4 CONF:1.0
+S-Inflammation Ty-In vivo T-TNFa T-NO T-IL-6 ==> A-Sinapic acid E-Inhibition T-NfkB SUP:4 CONF:1.0
+S-Inflammation Ty-In vivo T-NfkB T-NO T-IL-6 ==> A-Sinapic acid E-Inhibition T-TNFa SUP:4 CONF:1.0
+S-Inflammation Ty-In vivo T-NfkB T-TNFa T-NO ==> A-Sinapic acid E-Inhibition T-IL-6 SUP:4 CONF:1.0
+E-Inhibition S-Inflammation Ty-In vivo T-NO T-IL-6 ==> A-Sinapic acid T-NfkB T-TNFa SUP:4 CONF:1.0
+E-Inhibition S-Inflammation Ty-In vivo T-TNFa T-NO ==> A-Sinapic acid T-NfkB T-IL-6 SUP:4 CONF:1.0
+E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-NO ==> A-Sinapic acid T-TNFa T-IL-6 SUP:4 CONF:1.0
+A-Sinapic acid Ty-In vivo T-TNFa T-NO T-IL-6 ==> S-Inflammation E-Inhibition T-NfkB SUP:4 CONF:1.0
+A-Sinapic acid Ty-In vivo T-NfkB T-NO T-IL-6 ==> S-Inflammation E-Inhibition T-TNFa SUP:4 CONF:1.0
+A-Sinapic acid Ty-In vivo T-NfkB T-TNFa T-NO ==> S-Inflammation E-Inhibition T-IL-6 SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition Ty-In vivo T-NO T-IL-6 ==> S-Inflammation T-NfkB T-TNFa SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition Ty-In vivo T-TNFa T-NO ==> S-Inflammation T-NfkB T-IL-6 SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition Ty-In vivo T-NfkB T-NO ==> S-Inflammation T-TNFa T-IL-6 SUP:4 CONF:1.0
+A-Sinapic acid S-Inflammation Ty-In vivo T-NO T-IL-6 ==> E-Inhibition T-NfkB T-TNFa SUP:4 CONF:1.0
+A-Sinapic acid S-Inflammation Ty-In vivo T-TNFa T-NO ==> E-Inhibition T-NfkB T-IL-6 SUP:4 CONF:1.0
+A-Sinapic acid S-Inflammation Ty-In vivo T-NfkB T-NO ==> E-Inhibition T-TNFa T-IL-6 SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-NO ==> T-NfkB T-TNFa T-IL-6 SUP:4 CONF:1.0
+Ty-In vivo T-TNFa T-NO T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB SUP:4 CONF:1.0
+Ty-In vivo T-NfkB T-NO T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-TNFa SUP:4 CONF:1.0
+Ty-In vivo T-NfkB T-TNFa T-NO ==> A-Sinapic acid S-Inflammation E-Inhibition T-IL-6 SUP:4 CONF:1.0
+E-Inhibition Ty-In vivo T-NO T-IL-6 ==> A-Sinapic acid S-Inflammation T-NfkB T-TNFa SUP:4 CONF:1.0
+E-Inhibition Ty-In vivo T-TNFa T-NO ==> A-Sinapic acid S-Inflammation T-NfkB T-IL-6 SUP:4 CONF:1.0
+E-Inhibition Ty-In vivo T-NfkB T-NO ==> A-Sinapic acid S-Inflammation T-TNFa T-IL-6 SUP:4 CONF:1.0
+S-Inflammation Ty-In vivo T-NO T-IL-6 ==> A-Sinapic acid E-Inhibition T-NfkB T-TNFa SUP:4 CONF:1.0
+S-Inflammation Ty-In vivo T-TNFa T-NO ==> A-Sinapic acid E-Inhibition T-NfkB T-IL-6 SUP:4 CONF:1.0
+S-Inflammation Ty-In vivo T-NfkB T-NO ==> A-Sinapic acid E-Inhibition T-TNFa T-IL-6 SUP:4 CONF:1.0
+E-Inhibition S-Inflammation Ty-In vivo T-NO ==> A-Sinapic acid T-NfkB T-TNFa T-IL-6 SUP:4 CONF:1.0
+A-Sinapic acid Ty-In vivo T-NO T-IL-6 ==> S-Inflammation E-Inhibition T-NfkB T-TNFa SUP:4 CONF:1.0
+A-Sinapic acid Ty-In vivo T-TNFa T-NO ==> S-Inflammation E-Inhibition T-NfkB T-IL-6 SUP:4 CONF:1.0
+A-Sinapic acid Ty-In vivo T-NfkB T-NO ==> S-Inflammation E-Inhibition T-TNFa T-IL-6 SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition Ty-In vivo T-NO ==> S-Inflammation T-NfkB T-TNFa T-IL-6 SUP:4 CONF:1.0
+Ty-In vivo T-NO T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB T-TNFa SUP:4 CONF:1.0
+Ty-In vivo T-TNFa T-NO ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB T-IL-6 SUP:4 CONF:1.0
+Ty-In vivo T-NfkB T-NO ==> A-Sinapic acid S-Inflammation E-Inhibition T-TNFa T-IL-6 SUP:4 CONF:1.0
+E-Inhibition Ty-In vivo T-NO ==> A-Sinapic acid S-Inflammation T-NfkB T-TNFa T-IL-6 SUP:4 CONF:1.0
+E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-TNFa T-oxydative stress T-IL-1b T-IL-6 ==> A-Sinapic acid SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition Ty-In vivo T-NfkB T-TNFa T-oxydative stress T-IL-1b T-IL-6 ==> S-Inflammation SUP:4 CONF:1.0
+A-Sinapic acid S-Inflammation Ty-In vivo T-NfkB T-TNFa T-oxydative stress T-IL-1b T-IL-6 ==> E-Inhibition SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-TNFa T-oxydative stress T-IL-1b T-IL-6 ==> T-NfkB SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-TNFa T-oxydative stress T-IL-6 ==> T-IL-1b SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-oxydative stress T-IL-1b T-IL-6 ==> T-TNFa SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-TNFa T-oxydative stress T-IL-1b ==> T-IL-6 SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB T-TNFa T-oxydative stress T-IL-1b T-IL-6 ==> Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-TNFa T-IL-1b T-IL-6 ==> T-oxydative stress SUP:4 CONF:1.0
+E-Inhibition Ty-In vivo T-NfkB T-TNFa T-oxydative stress T-IL-1b T-IL-6 ==> A-Sinapic acid S-Inflammation SUP:4 CONF:1.0
+S-Inflammation Ty-In vivo T-NfkB T-TNFa T-oxydative stress T-IL-1b T-IL-6 ==> A-Sinapic acid E-Inhibition SUP:4 CONF:1.0
+E-Inhibition S-Inflammation Ty-In vivo T-TNFa T-oxydative stress T-IL-1b T-IL-6 ==> A-Sinapic acid T-NfkB SUP:4 CONF:1.0
+E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-TNFa T-oxydative stress T-IL-6 ==> A-Sinapic acid T-IL-1b SUP:4 CONF:1.0
+E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-oxydative stress T-IL-1b T-IL-6 ==> A-Sinapic acid T-TNFa SUP:4 CONF:1.0
+E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-TNFa T-oxydative stress T-IL-1b ==> A-Sinapic acid T-IL-6 SUP:4 CONF:1.0
+E-Inhibition S-Inflammation T-NfkB T-TNFa T-oxydative stress T-IL-1b T-IL-6 ==> A-Sinapic acid Ty-In vivo SUP:4 CONF:1.0
+E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-TNFa T-IL-1b T-IL-6 ==> A-Sinapic acid T-oxydative stress SUP:4 CONF:1.0
+A-Sinapic acid Ty-In vivo T-NfkB T-TNFa T-oxydative stress T-IL-1b T-IL-6 ==> S-Inflammation E-Inhibition SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition Ty-In vivo T-TNFa T-oxydative stress T-IL-1b T-IL-6 ==> S-Inflammation T-NfkB SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition Ty-In vivo T-NfkB T-TNFa T-oxydative stress T-IL-6 ==> S-Inflammation T-IL-1b SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition Ty-In vivo T-NfkB T-oxydative stress T-IL-1b T-IL-6 ==> S-Inflammation T-TNFa SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition Ty-In vivo T-NfkB T-TNFa T-oxydative stress T-IL-1b ==> S-Inflammation T-IL-6 SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition T-NfkB T-TNFa T-oxydative stress T-IL-1b T-IL-6 ==> S-Inflammation Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition Ty-In vivo T-NfkB T-TNFa T-IL-1b T-IL-6 ==> S-Inflammation T-oxydative stress SUP:4 CONF:1.0
+A-Sinapic acid S-Inflammation Ty-In vivo T-TNFa T-oxydative stress T-IL-1b T-IL-6 ==> E-Inhibition T-NfkB SUP:4 CONF:1.0
+A-Sinapic acid S-Inflammation Ty-In vivo T-NfkB T-TNFa T-oxydative stress T-IL-6 ==> E-Inhibition T-IL-1b SUP:4 CONF:1.0
+A-Sinapic acid S-Inflammation Ty-In vivo T-NfkB T-oxydative stress T-IL-1b T-IL-6 ==> E-Inhibition T-TNFa SUP:4 CONF:1.0
+A-Sinapic acid S-Inflammation Ty-In vivo T-NfkB T-TNFa T-oxydative stress T-IL-1b ==> E-Inhibition T-IL-6 SUP:4 CONF:1.0
+A-Sinapic acid S-Inflammation T-NfkB T-TNFa T-oxydative stress T-IL-1b T-IL-6 ==> E-Inhibition Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid S-Inflammation Ty-In vivo T-NfkB T-TNFa T-IL-1b T-IL-6 ==> E-Inhibition T-oxydative stress SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-TNFa T-oxydative stress T-IL-6 ==> T-NfkB T-IL-1b SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-oxydative stress T-IL-1b T-IL-6 ==> T-NfkB T-TNFa SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-TNFa T-oxydative stress T-IL-1b ==> T-NfkB T-IL-6 SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation T-TNFa T-oxydative stress T-IL-1b T-IL-6 ==> T-NfkB Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-TNFa T-IL-1b T-IL-6 ==> T-NfkB T-oxydative stress SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-oxydative stress T-IL-6 ==> T-IL-1b T-TNFa SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-TNFa T-oxydative stress ==> T-IL-1b T-IL-6 SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB T-TNFa T-oxydative stress T-IL-6 ==> T-IL-1b Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-oxydative stress T-IL-1b ==> T-TNFa T-IL-6 SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB T-oxydative stress T-IL-1b T-IL-6 ==> T-TNFa Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-IL-1b T-IL-6 ==> T-TNFa T-oxydative stress SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB T-TNFa T-oxydative stress T-IL-1b ==> T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB T-TNFa T-IL-1b T-IL-6 ==> Ty-In vivo T-oxydative stress SUP:4 CONF:1.0
+Ty-In vivo T-NfkB T-TNFa T-oxydative stress T-IL-1b T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition SUP:4 CONF:1.0
+E-Inhibition Ty-In vivo T-TNFa T-oxydative stress T-IL-1b T-IL-6 ==> A-Sinapic acid S-Inflammation T-NfkB SUP:4 CONF:1.0
+E-Inhibition Ty-In vivo T-NfkB T-TNFa T-oxydative stress T-IL-6 ==> A-Sinapic acid S-Inflammation T-IL-1b SUP:4 CONF:1.0
+E-Inhibition Ty-In vivo T-NfkB T-oxydative stress T-IL-1b T-IL-6 ==> A-Sinapic acid S-Inflammation T-TNFa SUP:4 CONF:1.0
+E-Inhibition Ty-In vivo T-NfkB T-TNFa T-oxydative stress T-IL-1b ==> A-Sinapic acid S-Inflammation T-IL-6 SUP:4 CONF:1.0
+E-Inhibition T-NfkB T-TNFa T-oxydative stress T-IL-1b T-IL-6 ==> A-Sinapic acid S-Inflammation Ty-In vivo SUP:4 CONF:1.0
+E-Inhibition Ty-In vivo T-NfkB T-TNFa T-IL-1b T-IL-6 ==> A-Sinapic acid S-Inflammation T-oxydative stress SUP:4 CONF:1.0
+S-Inflammation Ty-In vivo T-TNFa T-oxydative stress T-IL-1b T-IL-6 ==> A-Sinapic acid E-Inhibition T-NfkB SUP:4 CONF:1.0
+S-Inflammation Ty-In vivo T-NfkB T-TNFa T-oxydative stress T-IL-6 ==> A-Sinapic acid E-Inhibition T-IL-1b SUP:4 CONF:1.0
+S-Inflammation Ty-In vivo T-NfkB T-oxydative stress T-IL-1b T-IL-6 ==> A-Sinapic acid E-Inhibition T-TNFa SUP:4 CONF:1.0
+S-Inflammation Ty-In vivo T-NfkB T-TNFa T-oxydative stress T-IL-1b ==> A-Sinapic acid E-Inhibition T-IL-6 SUP:4 CONF:1.0
+S-Inflammation T-NfkB T-TNFa T-oxydative stress T-IL-1b T-IL-6 ==> A-Sinapic acid E-Inhibition Ty-In vivo SUP:4 CONF:1.0
+S-Inflammation Ty-In vivo T-NfkB T-TNFa T-IL-1b T-IL-6 ==> A-Sinapic acid E-Inhibition T-oxydative stress SUP:4 CONF:1.0
+E-Inhibition S-Inflammation Ty-In vivo T-TNFa T-oxydative stress T-IL-6 ==> A-Sinapic acid T-NfkB T-IL-1b SUP:4 CONF:1.0
+E-Inhibition S-Inflammation Ty-In vivo T-oxydative stress T-IL-1b T-IL-6 ==> A-Sinapic acid T-NfkB T-TNFa SUP:4 CONF:1.0
+E-Inhibition S-Inflammation Ty-In vivo T-TNFa T-oxydative stress T-IL-1b ==> A-Sinapic acid T-NfkB T-IL-6 SUP:4 CONF:1.0
+E-Inhibition S-Inflammation T-TNFa T-oxydative stress T-IL-1b T-IL-6 ==> A-Sinapic acid T-NfkB Ty-In vivo SUP:4 CONF:1.0
+E-Inhibition S-Inflammation Ty-In vivo T-TNFa T-IL-1b T-IL-6 ==> A-Sinapic acid T-NfkB T-oxydative stress SUP:4 CONF:1.0
+E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-oxydative stress T-IL-6 ==> A-Sinapic acid T-IL-1b T-TNFa SUP:4 CONF:1.0
+E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-TNFa T-oxydative stress ==> A-Sinapic acid T-IL-1b T-IL-6 SUP:4 CONF:1.0
+E-Inhibition S-Inflammation T-NfkB T-TNFa T-oxydative stress T-IL-6 ==> A-Sinapic acid T-IL-1b Ty-In vivo SUP:4 CONF:1.0
+E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-oxydative stress T-IL-1b ==> A-Sinapic acid T-TNFa T-IL-6 SUP:4 CONF:1.0
+E-Inhibition S-Inflammation T-NfkB T-oxydative stress T-IL-1b T-IL-6 ==> A-Sinapic acid T-TNFa Ty-In vivo SUP:4 CONF:1.0
+E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-IL-1b T-IL-6 ==> A-Sinapic acid T-TNFa T-oxydative stress SUP:4 CONF:1.0
+E-Inhibition S-Inflammation T-NfkB T-TNFa T-oxydative stress T-IL-1b ==> A-Sinapic acid T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+E-Inhibition S-Inflammation T-NfkB T-TNFa T-IL-1b T-IL-6 ==> A-Sinapic acid Ty-In vivo T-oxydative stress SUP:4 CONF:1.0
+A-Sinapic acid Ty-In vivo T-TNFa T-oxydative stress T-IL-1b T-IL-6 ==> S-Inflammation E-Inhibition T-NfkB SUP:4 CONF:1.0
+A-Sinapic acid Ty-In vivo T-NfkB T-TNFa T-oxydative stress T-IL-6 ==> S-Inflammation E-Inhibition T-IL-1b SUP:4 CONF:1.0
+A-Sinapic acid Ty-In vivo T-NfkB T-oxydative stress T-IL-1b T-IL-6 ==> S-Inflammation E-Inhibition T-TNFa SUP:4 CONF:1.0
+A-Sinapic acid Ty-In vivo T-NfkB T-TNFa T-oxydative stress T-IL-1b ==> S-Inflammation E-Inhibition T-IL-6 SUP:4 CONF:1.0
+A-Sinapic acid T-NfkB T-TNFa T-oxydative stress T-IL-1b T-IL-6 ==> S-Inflammation E-Inhibition Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid Ty-In vivo T-NfkB T-TNFa T-IL-1b T-IL-6 ==> S-Inflammation E-Inhibition T-oxydative stress SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition Ty-In vivo T-TNFa T-oxydative stress T-IL-6 ==> S-Inflammation T-NfkB T-IL-1b SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition Ty-In vivo T-oxydative stress T-IL-1b T-IL-6 ==> S-Inflammation T-NfkB T-TNFa SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition Ty-In vivo T-TNFa T-oxydative stress T-IL-1b ==> S-Inflammation T-NfkB T-IL-6 SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition T-TNFa T-oxydative stress T-IL-1b T-IL-6 ==> S-Inflammation T-NfkB Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition Ty-In vivo T-TNFa T-IL-1b T-IL-6 ==> S-Inflammation T-NfkB T-oxydative stress SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition Ty-In vivo T-NfkB T-oxydative stress T-IL-6 ==> S-Inflammation T-IL-1b T-TNFa SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition Ty-In vivo T-NfkB T-TNFa T-oxydative stress ==> S-Inflammation T-IL-1b T-IL-6 SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition T-NfkB T-TNFa T-oxydative stress T-IL-6 ==> S-Inflammation T-IL-1b Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition Ty-In vivo T-NfkB T-oxydative stress T-IL-1b ==> S-Inflammation T-TNFa T-IL-6 SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition T-NfkB T-oxydative stress T-IL-1b T-IL-6 ==> S-Inflammation T-TNFa Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition Ty-In vivo T-NfkB T-IL-1b T-IL-6 ==> S-Inflammation T-TNFa T-oxydative stress SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition T-NfkB T-TNFa T-oxydative stress T-IL-1b ==> S-Inflammation T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition T-NfkB T-TNFa T-IL-1b T-IL-6 ==> S-Inflammation Ty-In vivo T-oxydative stress SUP:4 CONF:1.0
+A-Sinapic acid S-Inflammation Ty-In vivo T-TNFa T-oxydative stress T-IL-6 ==> E-Inhibition T-NfkB T-IL-1b SUP:4 CONF:1.0
+A-Sinapic acid S-Inflammation Ty-In vivo T-oxydative stress T-IL-1b T-IL-6 ==> E-Inhibition T-NfkB T-TNFa SUP:4 CONF:1.0
+A-Sinapic acid S-Inflammation Ty-In vivo T-TNFa T-oxydative stress T-IL-1b ==> E-Inhibition T-NfkB T-IL-6 SUP:4 CONF:1.0
+A-Sinapic acid S-Inflammation T-TNFa T-oxydative stress T-IL-1b T-IL-6 ==> E-Inhibition T-NfkB Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid S-Inflammation Ty-In vivo T-TNFa T-IL-1b T-IL-6 ==> E-Inhibition T-NfkB T-oxydative stress SUP:4 CONF:1.0
+A-Sinapic acid S-Inflammation Ty-In vivo T-NfkB T-oxydative stress T-IL-6 ==> E-Inhibition T-IL-1b T-TNFa SUP:4 CONF:1.0
+A-Sinapic acid S-Inflammation Ty-In vivo T-NfkB T-TNFa T-oxydative stress ==> E-Inhibition T-IL-1b T-IL-6 SUP:4 CONF:1.0
+A-Sinapic acid S-Inflammation T-NfkB T-TNFa T-oxydative stress T-IL-6 ==> E-Inhibition T-IL-1b Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid S-Inflammation Ty-In vivo T-NfkB T-oxydative stress T-IL-1b ==> E-Inhibition T-TNFa T-IL-6 SUP:4 CONF:1.0
+A-Sinapic acid S-Inflammation T-NfkB T-oxydative stress T-IL-1b T-IL-6 ==> E-Inhibition T-TNFa Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid S-Inflammation Ty-In vivo T-NfkB T-IL-1b T-IL-6 ==> E-Inhibition T-TNFa T-oxydative stress SUP:4 CONF:1.0
+A-Sinapic acid S-Inflammation T-NfkB T-TNFa T-oxydative stress T-IL-1b ==> E-Inhibition T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid S-Inflammation T-NfkB T-TNFa T-IL-1b T-IL-6 ==> E-Inhibition Ty-In vivo T-oxydative stress SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-oxydative stress T-IL-6 ==> T-NfkB T-IL-1b T-TNFa SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-TNFa T-oxydative stress ==> T-NfkB T-IL-1b T-IL-6 SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation T-TNFa T-oxydative stress T-IL-6 ==> T-NfkB T-IL-1b Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-oxydative stress T-IL-1b ==> T-NfkB T-TNFa T-IL-6 SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation T-oxydative stress T-IL-1b T-IL-6 ==> T-NfkB T-TNFa Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-IL-1b T-IL-6 ==> T-NfkB T-TNFa T-oxydative stress SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation T-TNFa T-oxydative stress T-IL-1b ==> T-NfkB T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-oxydative stress ==> T-IL-1b T-TNFa T-IL-6 SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB T-oxydative stress T-IL-6 ==> T-IL-1b T-TNFa Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB T-TNFa T-oxydative stress ==> T-IL-1b T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB T-oxydative stress T-IL-1b ==> T-TNFa T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB T-IL-1b T-IL-6 ==> T-TNFa Ty-In vivo T-oxydative stress SUP:4 CONF:1.0
+Ty-In vivo T-TNFa T-oxydative stress T-IL-1b T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB SUP:4 CONF:1.0
+Ty-In vivo T-NfkB T-TNFa T-oxydative stress T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-IL-1b SUP:4 CONF:1.0
+Ty-In vivo T-NfkB T-oxydative stress T-IL-1b T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-TNFa SUP:4 CONF:1.0
+Ty-In vivo T-NfkB T-TNFa T-oxydative stress T-IL-1b ==> A-Sinapic acid S-Inflammation E-Inhibition T-IL-6 SUP:4 CONF:1.0
+T-NfkB T-TNFa T-oxydative stress T-IL-1b T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition Ty-In vivo SUP:4 CONF:1.0
+Ty-In vivo T-NfkB T-TNFa T-IL-1b T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-oxydative stress SUP:4 CONF:1.0
+E-Inhibition Ty-In vivo T-TNFa T-oxydative stress T-IL-6 ==> A-Sinapic acid S-Inflammation T-NfkB T-IL-1b SUP:4 CONF:1.0
+E-Inhibition Ty-In vivo T-oxydative stress T-IL-1b T-IL-6 ==> A-Sinapic acid S-Inflammation T-NfkB T-TNFa SUP:4 CONF:1.0
+E-Inhibition Ty-In vivo T-TNFa T-oxydative stress T-IL-1b ==> A-Sinapic acid S-Inflammation T-NfkB T-IL-6 SUP:4 CONF:1.0
+E-Inhibition T-TNFa T-oxydative stress T-IL-1b T-IL-6 ==> A-Sinapic acid S-Inflammation T-NfkB Ty-In vivo SUP:4 CONF:1.0
+E-Inhibition Ty-In vivo T-TNFa T-IL-1b T-IL-6 ==> A-Sinapic acid S-Inflammation T-NfkB T-oxydative stress SUP:4 CONF:1.0
+E-Inhibition Ty-In vivo T-NfkB T-oxydative stress T-IL-6 ==> A-Sinapic acid S-Inflammation T-IL-1b T-TNFa SUP:4 CONF:1.0
+E-Inhibition Ty-In vivo T-NfkB T-TNFa T-oxydative stress ==> A-Sinapic acid S-Inflammation T-IL-1b T-IL-6 SUP:4 CONF:1.0
+E-Inhibition T-NfkB T-TNFa T-oxydative stress T-IL-6 ==> A-Sinapic acid S-Inflammation T-IL-1b Ty-In vivo SUP:4 CONF:1.0
+E-Inhibition Ty-In vivo T-NfkB T-oxydative stress T-IL-1b ==> A-Sinapic acid S-Inflammation T-TNFa T-IL-6 SUP:4 CONF:1.0
+E-Inhibition T-NfkB T-oxydative stress T-IL-1b T-IL-6 ==> A-Sinapic acid S-Inflammation T-TNFa Ty-In vivo SUP:4 CONF:1.0
+E-Inhibition Ty-In vivo T-NfkB T-IL-1b T-IL-6 ==> A-Sinapic acid S-Inflammation T-TNFa T-oxydative stress SUP:4 CONF:1.0
+E-Inhibition T-NfkB T-TNFa T-oxydative stress T-IL-1b ==> A-Sinapic acid S-Inflammation T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+E-Inhibition T-NfkB T-TNFa T-IL-1b T-IL-6 ==> A-Sinapic acid S-Inflammation Ty-In vivo T-oxydative stress SUP:4 CONF:1.0
+S-Inflammation Ty-In vivo T-TNFa T-oxydative stress T-IL-6 ==> A-Sinapic acid E-Inhibition T-NfkB T-IL-1b SUP:4 CONF:1.0
+S-Inflammation Ty-In vivo T-oxydative stress T-IL-1b T-IL-6 ==> A-Sinapic acid E-Inhibition T-NfkB T-TNFa SUP:4 CONF:1.0
+S-Inflammation Ty-In vivo T-TNFa T-oxydative stress T-IL-1b ==> A-Sinapic acid E-Inhibition T-NfkB T-IL-6 SUP:4 CONF:1.0
+S-Inflammation T-TNFa T-oxydative stress T-IL-1b T-IL-6 ==> A-Sinapic acid E-Inhibition T-NfkB Ty-In vivo SUP:4 CONF:1.0
+S-Inflammation Ty-In vivo T-TNFa T-IL-1b T-IL-6 ==> A-Sinapic acid E-Inhibition T-NfkB T-oxydative stress SUP:4 CONF:1.0
+S-Inflammation Ty-In vivo T-NfkB T-oxydative stress T-IL-6 ==> A-Sinapic acid E-Inhibition T-IL-1b T-TNFa SUP:4 CONF:1.0
+S-Inflammation Ty-In vivo T-NfkB T-TNFa T-oxydative stress ==> A-Sinapic acid E-Inhibition T-IL-1b T-IL-6 SUP:4 CONF:1.0
+S-Inflammation T-NfkB T-TNFa T-oxydative stress T-IL-6 ==> A-Sinapic acid E-Inhibition T-IL-1b Ty-In vivo SUP:4 CONF:1.0
+S-Inflammation Ty-In vivo T-NfkB T-oxydative stress T-IL-1b ==> A-Sinapic acid E-Inhibition T-TNFa T-IL-6 SUP:4 CONF:1.0
+S-Inflammation T-NfkB T-oxydative stress T-IL-1b T-IL-6 ==> A-Sinapic acid E-Inhibition T-TNFa Ty-In vivo SUP:4 CONF:1.0
+S-Inflammation Ty-In vivo T-NfkB T-IL-1b T-IL-6 ==> A-Sinapic acid E-Inhibition T-TNFa T-oxydative stress SUP:4 CONF:1.0
+S-Inflammation T-NfkB T-TNFa T-oxydative stress T-IL-1b ==> A-Sinapic acid E-Inhibition T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+S-Inflammation T-NfkB T-TNFa T-IL-1b T-IL-6 ==> A-Sinapic acid E-Inhibition Ty-In vivo T-oxydative stress SUP:4 CONF:1.0
+E-Inhibition S-Inflammation Ty-In vivo T-oxydative stress T-IL-6 ==> A-Sinapic acid T-NfkB T-IL-1b T-TNFa SUP:4 CONF:1.0
+E-Inhibition S-Inflammation Ty-In vivo T-TNFa T-oxydative stress ==> A-Sinapic acid T-NfkB T-IL-1b T-IL-6 SUP:4 CONF:1.0
+E-Inhibition S-Inflammation T-TNFa T-oxydative stress T-IL-6 ==> A-Sinapic acid T-NfkB T-IL-1b Ty-In vivo SUP:4 CONF:1.0
+E-Inhibition S-Inflammation Ty-In vivo T-oxydative stress T-IL-1b ==> A-Sinapic acid T-NfkB T-TNFa T-IL-6 SUP:4 CONF:1.0
+E-Inhibition S-Inflammation T-oxydative stress T-IL-1b T-IL-6 ==> A-Sinapic acid T-NfkB T-TNFa Ty-In vivo SUP:4 CONF:1.0
+E-Inhibition S-Inflammation Ty-In vivo T-IL-1b T-IL-6 ==> A-Sinapic acid T-NfkB T-TNFa T-oxydative stress SUP:4 CONF:1.0
+E-Inhibition S-Inflammation T-TNFa T-oxydative stress T-IL-1b ==> A-Sinapic acid T-NfkB T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-oxydative stress ==> A-Sinapic acid T-IL-1b T-TNFa T-IL-6 SUP:4 CONF:1.0
+E-Inhibition S-Inflammation T-NfkB T-oxydative stress T-IL-6 ==> A-Sinapic acid T-IL-1b T-TNFa Ty-In vivo SUP:4 CONF:1.0
+E-Inhibition S-Inflammation T-NfkB T-TNFa T-oxydative stress ==> A-Sinapic acid T-IL-1b T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+E-Inhibition S-Inflammation T-NfkB T-oxydative stress T-IL-1b ==> A-Sinapic acid T-TNFa T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+E-Inhibition S-Inflammation T-NfkB T-IL-1b T-IL-6 ==> A-Sinapic acid T-TNFa Ty-In vivo T-oxydative stress SUP:4 CONF:1.0
+A-Sinapic acid Ty-In vivo T-TNFa T-oxydative stress T-IL-6 ==> S-Inflammation E-Inhibition T-NfkB T-IL-1b SUP:4 CONF:1.0
+A-Sinapic acid Ty-In vivo T-oxydative stress T-IL-1b T-IL-6 ==> S-Inflammation E-Inhibition T-NfkB T-TNFa SUP:4 CONF:1.0
+A-Sinapic acid Ty-In vivo T-TNFa T-oxydative stress T-IL-1b ==> S-Inflammation E-Inhibition T-NfkB T-IL-6 SUP:4 CONF:1.0
+A-Sinapic acid T-TNFa T-oxydative stress T-IL-1b T-IL-6 ==> S-Inflammation E-Inhibition T-NfkB Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid Ty-In vivo T-TNFa T-IL-1b T-IL-6 ==> S-Inflammation E-Inhibition T-NfkB T-oxydative stress SUP:4 CONF:1.0
+A-Sinapic acid Ty-In vivo T-NfkB T-oxydative stress T-IL-6 ==> S-Inflammation E-Inhibition T-IL-1b T-TNFa SUP:4 CONF:1.0
+A-Sinapic acid Ty-In vivo T-NfkB T-TNFa T-oxydative stress ==> S-Inflammation E-Inhibition T-IL-1b T-IL-6 SUP:4 CONF:1.0
+A-Sinapic acid T-NfkB T-TNFa T-oxydative stress T-IL-6 ==> S-Inflammation E-Inhibition T-IL-1b Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid Ty-In vivo T-NfkB T-oxydative stress T-IL-1b ==> S-Inflammation E-Inhibition T-TNFa T-IL-6 SUP:4 CONF:1.0
+A-Sinapic acid T-NfkB T-oxydative stress T-IL-1b T-IL-6 ==> S-Inflammation E-Inhibition T-TNFa Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid Ty-In vivo T-NfkB T-IL-1b T-IL-6 ==> S-Inflammation E-Inhibition T-TNFa T-oxydative stress SUP:4 CONF:1.0
+A-Sinapic acid T-NfkB T-TNFa T-oxydative stress T-IL-1b ==> S-Inflammation E-Inhibition T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid T-NfkB T-TNFa T-IL-1b T-IL-6 ==> S-Inflammation E-Inhibition Ty-In vivo T-oxydative stress SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition Ty-In vivo T-oxydative stress T-IL-6 ==> S-Inflammation T-NfkB T-IL-1b T-TNFa SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition Ty-In vivo T-TNFa T-oxydative stress ==> S-Inflammation T-NfkB T-IL-1b T-IL-6 SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition T-TNFa T-oxydative stress T-IL-6 ==> S-Inflammation T-NfkB T-IL-1b Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition Ty-In vivo T-oxydative stress T-IL-1b ==> S-Inflammation T-NfkB T-TNFa T-IL-6 SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition T-oxydative stress T-IL-1b T-IL-6 ==> S-Inflammation T-NfkB T-TNFa Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition Ty-In vivo T-IL-1b T-IL-6 ==> S-Inflammation T-NfkB T-TNFa T-oxydative stress SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition T-TNFa T-oxydative stress T-IL-1b ==> S-Inflammation T-NfkB T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition Ty-In vivo T-NfkB T-oxydative stress ==> S-Inflammation T-IL-1b T-TNFa T-IL-6 SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition T-NfkB T-oxydative stress T-IL-6 ==> S-Inflammation T-IL-1b T-TNFa Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition T-NfkB T-TNFa T-oxydative stress ==> S-Inflammation T-IL-1b T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition T-NfkB T-oxydative stress T-IL-1b ==> S-Inflammation T-TNFa T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition T-NfkB T-IL-1b T-IL-6 ==> S-Inflammation T-TNFa Ty-In vivo T-oxydative stress SUP:4 CONF:1.0
+A-Sinapic acid S-Inflammation Ty-In vivo T-oxydative stress T-IL-6 ==> E-Inhibition T-NfkB T-IL-1b T-TNFa SUP:4 CONF:1.0
+A-Sinapic acid S-Inflammation Ty-In vivo T-TNFa T-oxydative stress ==> E-Inhibition T-NfkB T-IL-1b T-IL-6 SUP:4 CONF:1.0
+A-Sinapic acid S-Inflammation T-TNFa T-oxydative stress T-IL-6 ==> E-Inhibition T-NfkB T-IL-1b Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid S-Inflammation Ty-In vivo T-oxydative stress T-IL-1b ==> E-Inhibition T-NfkB T-TNFa T-IL-6 SUP:4 CONF:1.0
+A-Sinapic acid S-Inflammation T-oxydative stress T-IL-1b T-IL-6 ==> E-Inhibition T-NfkB T-TNFa Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid S-Inflammation Ty-In vivo T-IL-1b T-IL-6 ==> E-Inhibition T-NfkB T-TNFa T-oxydative stress SUP:4 CONF:1.0
+A-Sinapic acid S-Inflammation T-TNFa T-oxydative stress T-IL-1b ==> E-Inhibition T-NfkB T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid S-Inflammation Ty-In vivo T-NfkB T-oxydative stress ==> E-Inhibition T-IL-1b T-TNFa T-IL-6 SUP:4 CONF:1.0
+A-Sinapic acid S-Inflammation T-NfkB T-oxydative stress T-IL-6 ==> E-Inhibition T-IL-1b T-TNFa Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid S-Inflammation T-NfkB T-TNFa T-oxydative stress ==> E-Inhibition T-IL-1b T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid S-Inflammation T-NfkB T-oxydative stress T-IL-1b ==> E-Inhibition T-TNFa T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid S-Inflammation T-NfkB T-IL-1b T-IL-6 ==> E-Inhibition T-TNFa Ty-In vivo T-oxydative stress SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-oxydative stress ==> T-NfkB T-IL-1b T-TNFa T-IL-6 SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation T-oxydative stress T-IL-6 ==> T-NfkB T-IL-1b T-TNFa Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation T-TNFa T-oxydative stress ==> T-NfkB T-IL-1b T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation T-oxydative stress T-IL-1b ==> T-NfkB T-TNFa T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB T-oxydative stress ==> T-IL-1b T-TNFa T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+Ty-In vivo T-TNFa T-oxydative stress T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB T-IL-1b SUP:4 CONF:1.0
+Ty-In vivo T-oxydative stress T-IL-1b T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB T-TNFa SUP:4 CONF:1.0
+Ty-In vivo T-TNFa T-oxydative stress T-IL-1b ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB T-IL-6 SUP:4 CONF:1.0
+T-TNFa T-oxydative stress T-IL-1b T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB Ty-In vivo SUP:4 CONF:1.0
+Ty-In vivo T-TNFa T-IL-1b T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB T-oxydative stress SUP:4 CONF:1.0
+Ty-In vivo T-NfkB T-oxydative stress T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-IL-1b T-TNFa SUP:4 CONF:1.0
+Ty-In vivo T-NfkB T-TNFa T-oxydative stress ==> A-Sinapic acid S-Inflammation E-Inhibition T-IL-1b T-IL-6 SUP:4 CONF:1.0
+T-NfkB T-TNFa T-oxydative stress T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-IL-1b Ty-In vivo SUP:4 CONF:1.0
+Ty-In vivo T-NfkB T-oxydative stress T-IL-1b ==> A-Sinapic acid S-Inflammation E-Inhibition T-TNFa T-IL-6 SUP:4 CONF:1.0
+T-NfkB T-oxydative stress T-IL-1b T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-TNFa Ty-In vivo SUP:4 CONF:1.0
+Ty-In vivo T-NfkB T-IL-1b T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-TNFa T-oxydative stress SUP:4 CONF:1.0
+T-NfkB T-TNFa T-oxydative stress T-IL-1b ==> A-Sinapic acid S-Inflammation E-Inhibition T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+T-NfkB T-TNFa T-IL-1b T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition Ty-In vivo T-oxydative stress SUP:4 CONF:1.0
+E-Inhibition Ty-In vivo T-oxydative stress T-IL-6 ==> A-Sinapic acid S-Inflammation T-NfkB T-IL-1b T-TNFa SUP:4 CONF:1.0
+E-Inhibition Ty-In vivo T-TNFa T-oxydative stress ==> A-Sinapic acid S-Inflammation T-NfkB T-IL-1b T-IL-6 SUP:4 CONF:1.0
+E-Inhibition T-TNFa T-oxydative stress T-IL-6 ==> A-Sinapic acid S-Inflammation T-NfkB T-IL-1b Ty-In vivo SUP:4 CONF:1.0
+E-Inhibition Ty-In vivo T-oxydative stress T-IL-1b ==> A-Sinapic acid S-Inflammation T-NfkB T-TNFa T-IL-6 SUP:4 CONF:1.0
+E-Inhibition T-oxydative stress T-IL-1b T-IL-6 ==> A-Sinapic acid S-Inflammation T-NfkB T-TNFa Ty-In vivo SUP:4 CONF:1.0
+E-Inhibition Ty-In vivo T-IL-1b T-IL-6 ==> A-Sinapic acid S-Inflammation T-NfkB T-TNFa T-oxydative stress SUP:4 CONF:1.0
+E-Inhibition T-TNFa T-oxydative stress T-IL-1b ==> A-Sinapic acid S-Inflammation T-NfkB T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+E-Inhibition Ty-In vivo T-NfkB T-oxydative stress ==> A-Sinapic acid S-Inflammation T-IL-1b T-TNFa T-IL-6 SUP:4 CONF:1.0
+E-Inhibition T-NfkB T-oxydative stress T-IL-6 ==> A-Sinapic acid S-Inflammation T-IL-1b T-TNFa Ty-In vivo SUP:4 CONF:1.0
+E-Inhibition T-NfkB T-TNFa T-oxydative stress ==> A-Sinapic acid S-Inflammation T-IL-1b T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+E-Inhibition T-NfkB T-oxydative stress T-IL-1b ==> A-Sinapic acid S-Inflammation T-TNFa T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+E-Inhibition T-NfkB T-IL-1b T-IL-6 ==> A-Sinapic acid S-Inflammation T-TNFa Ty-In vivo T-oxydative stress SUP:4 CONF:1.0
+S-Inflammation Ty-In vivo T-oxydative stress T-IL-6 ==> A-Sinapic acid E-Inhibition T-NfkB T-IL-1b T-TNFa SUP:4 CONF:1.0
+S-Inflammation Ty-In vivo T-TNFa T-oxydative stress ==> A-Sinapic acid E-Inhibition T-NfkB T-IL-1b T-IL-6 SUP:4 CONF:1.0
+S-Inflammation T-TNFa T-oxydative stress T-IL-6 ==> A-Sinapic acid E-Inhibition T-NfkB T-IL-1b Ty-In vivo SUP:4 CONF:1.0
+S-Inflammation Ty-In vivo T-oxydative stress T-IL-1b ==> A-Sinapic acid E-Inhibition T-NfkB T-TNFa T-IL-6 SUP:4 CONF:1.0
+S-Inflammation T-oxydative stress T-IL-1b T-IL-6 ==> A-Sinapic acid E-Inhibition T-NfkB T-TNFa Ty-In vivo SUP:4 CONF:1.0
+S-Inflammation Ty-In vivo T-IL-1b T-IL-6 ==> A-Sinapic acid E-Inhibition T-NfkB T-TNFa T-oxydative stress SUP:4 CONF:1.0
+S-Inflammation T-TNFa T-oxydative stress T-IL-1b ==> A-Sinapic acid E-Inhibition T-NfkB T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+S-Inflammation Ty-In vivo T-NfkB T-oxydative stress ==> A-Sinapic acid E-Inhibition T-IL-1b T-TNFa T-IL-6 SUP:4 CONF:1.0
+S-Inflammation T-NfkB T-oxydative stress T-IL-6 ==> A-Sinapic acid E-Inhibition T-IL-1b T-TNFa Ty-In vivo SUP:4 CONF:1.0
+S-Inflammation T-NfkB T-TNFa T-oxydative stress ==> A-Sinapic acid E-Inhibition T-IL-1b T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+S-Inflammation T-NfkB T-oxydative stress T-IL-1b ==> A-Sinapic acid E-Inhibition T-TNFa T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+S-Inflammation T-NfkB T-IL-1b T-IL-6 ==> A-Sinapic acid E-Inhibition T-TNFa Ty-In vivo T-oxydative stress SUP:4 CONF:1.0
+E-Inhibition S-Inflammation Ty-In vivo T-oxydative stress ==> A-Sinapic acid T-NfkB T-IL-1b T-TNFa T-IL-6 SUP:4 CONF:1.0
+E-Inhibition S-Inflammation T-oxydative stress T-IL-6 ==> A-Sinapic acid T-NfkB T-IL-1b T-TNFa Ty-In vivo SUP:4 CONF:1.0
+E-Inhibition S-Inflammation T-TNFa T-oxydative stress ==> A-Sinapic acid T-NfkB T-IL-1b T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+E-Inhibition S-Inflammation T-oxydative stress T-IL-1b ==> A-Sinapic acid T-NfkB T-TNFa T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+E-Inhibition S-Inflammation T-NfkB T-oxydative stress ==> A-Sinapic acid T-IL-1b T-TNFa T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid Ty-In vivo T-oxydative stress T-IL-6 ==> S-Inflammation E-Inhibition T-NfkB T-IL-1b T-TNFa SUP:4 CONF:1.0
+A-Sinapic acid Ty-In vivo T-TNFa T-oxydative stress ==> S-Inflammation E-Inhibition T-NfkB T-IL-1b T-IL-6 SUP:4 CONF:1.0
+A-Sinapic acid T-TNFa T-oxydative stress T-IL-6 ==> S-Inflammation E-Inhibition T-NfkB T-IL-1b Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid Ty-In vivo T-oxydative stress T-IL-1b ==> S-Inflammation E-Inhibition T-NfkB T-TNFa T-IL-6 SUP:4 CONF:1.0
+A-Sinapic acid T-oxydative stress T-IL-1b T-IL-6 ==> S-Inflammation E-Inhibition T-NfkB T-TNFa Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid Ty-In vivo T-IL-1b T-IL-6 ==> S-Inflammation E-Inhibition T-NfkB T-TNFa T-oxydative stress SUP:4 CONF:1.0
+A-Sinapic acid T-TNFa T-oxydative stress T-IL-1b ==> S-Inflammation E-Inhibition T-NfkB T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid Ty-In vivo T-NfkB T-oxydative stress ==> S-Inflammation E-Inhibition T-IL-1b T-TNFa T-IL-6 SUP:4 CONF:1.0
+A-Sinapic acid T-NfkB T-oxydative stress T-IL-6 ==> S-Inflammation E-Inhibition T-IL-1b T-TNFa Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid T-NfkB T-TNFa T-oxydative stress ==> S-Inflammation E-Inhibition T-IL-1b T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid T-NfkB T-oxydative stress T-IL-1b ==> S-Inflammation E-Inhibition T-TNFa T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid T-NfkB T-IL-1b T-IL-6 ==> S-Inflammation E-Inhibition T-TNFa Ty-In vivo T-oxydative stress SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition Ty-In vivo T-oxydative stress ==> S-Inflammation T-NfkB T-IL-1b T-TNFa T-IL-6 SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition T-oxydative stress T-IL-6 ==> S-Inflammation T-NfkB T-IL-1b T-TNFa Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition T-TNFa T-oxydative stress ==> S-Inflammation T-NfkB T-IL-1b T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition T-oxydative stress T-IL-1b ==> S-Inflammation T-NfkB T-TNFa T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition T-NfkB T-oxydative stress ==> S-Inflammation T-IL-1b T-TNFa T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid S-Inflammation T-oxydative stress T-IL-6 ==> E-Inhibition T-NfkB T-IL-1b T-TNFa Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid S-Inflammation T-TNFa T-oxydative stress ==> E-Inhibition T-NfkB T-IL-1b T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid S-Inflammation T-oxydative stress T-IL-1b ==> E-Inhibition T-NfkB T-TNFa T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid S-Inflammation T-NfkB T-oxydative stress ==> E-Inhibition T-IL-1b T-TNFa T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid E-Inhibition S-Inflammation T-oxydative stress ==> T-NfkB T-IL-1b T-TNFa T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+Ty-In vivo T-oxydative stress T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB T-IL-1b T-TNFa SUP:4 CONF:1.0
+Ty-In vivo T-TNFa T-oxydative stress ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB T-IL-1b T-IL-6 SUP:4 CONF:1.0
+T-TNFa T-oxydative stress T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB T-IL-1b Ty-In vivo SUP:4 CONF:1.0
+Ty-In vivo T-oxydative stress T-IL-1b ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB T-TNFa T-IL-6 SUP:4 CONF:1.0
+T-oxydative stress T-IL-1b T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB T-TNFa Ty-In vivo SUP:4 CONF:1.0
+Ty-In vivo T-IL-1b T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB T-TNFa T-oxydative stress SUP:4 CONF:1.0
+T-TNFa T-oxydative stress T-IL-1b ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+Ty-In vivo T-NfkB T-oxydative stress ==> A-Sinapic acid S-Inflammation E-Inhibition T-IL-1b T-TNFa T-IL-6 SUP:4 CONF:1.0
+T-NfkB T-oxydative stress T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-IL-1b T-TNFa Ty-In vivo SUP:4 CONF:1.0
+T-NfkB T-TNFa T-oxydative stress ==> A-Sinapic acid S-Inflammation E-Inhibition T-IL-1b T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+T-NfkB T-oxydative stress T-IL-1b ==> A-Sinapic acid S-Inflammation E-Inhibition T-TNFa T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+T-NfkB T-IL-1b T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-TNFa Ty-In vivo T-oxydative stress SUP:4 CONF:1.0
+E-Inhibition Ty-In vivo T-oxydative stress ==> A-Sinapic acid S-Inflammation T-NfkB T-IL-1b T-TNFa T-IL-6 SUP:4 CONF:1.0
+E-Inhibition T-oxydative stress T-IL-6 ==> A-Sinapic acid S-Inflammation T-NfkB T-IL-1b T-TNFa Ty-In vivo SUP:4 CONF:1.0
+E-Inhibition T-TNFa T-oxydative stress ==> A-Sinapic acid S-Inflammation T-NfkB T-IL-1b T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+E-Inhibition T-oxydative stress T-IL-1b ==> A-Sinapic acid S-Inflammation T-NfkB T-TNFa T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+E-Inhibition T-NfkB T-oxydative stress ==> A-Sinapic acid S-Inflammation T-IL-1b T-TNFa T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+S-Inflammation T-oxydative stress T-IL-6 ==> A-Sinapic acid E-Inhibition T-NfkB T-IL-1b T-TNFa Ty-In vivo SUP:4 CONF:1.0
+S-Inflammation T-TNFa T-oxydative stress ==> A-Sinapic acid E-Inhibition T-NfkB T-IL-1b T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+S-Inflammation T-oxydative stress T-IL-1b ==> A-Sinapic acid E-Inhibition T-NfkB T-TNFa T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+S-Inflammation T-NfkB T-oxydative stress ==> A-Sinapic acid E-Inhibition T-IL-1b T-TNFa T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid T-oxydative stress T-IL-6 ==> S-Inflammation E-Inhibition T-NfkB T-IL-1b T-TNFa Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid T-TNFa T-oxydative stress ==> S-Inflammation E-Inhibition T-NfkB T-IL-1b T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid T-oxydative stress T-IL-1b ==> S-Inflammation E-Inhibition T-NfkB T-TNFa T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+A-Sinapic acid T-NfkB T-oxydative stress ==> S-Inflammation E-Inhibition T-IL-1b T-TNFa T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+T-oxydative stress T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB T-IL-1b T-TNFa Ty-In vivo SUP:4 CONF:1.0
+T-TNFa T-oxydative stress ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB T-IL-1b T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+T-oxydative stress T-IL-1b ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB T-TNFa T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+T-NfkB T-oxydative stress ==> A-Sinapic acid S-Inflammation E-Inhibition T-IL-1b T-TNFa T-IL-6 Ty-In vivo SUP:4 CONF:1.0
+Ty-In vitro ==> E-Inhibition SUP:11 CONF:0.9166666666666666
+S-Inflammation ==> A-Sinapic acid SUP:20 CONF:0.9090909090909091
+T-NfkB ==> A-Sinapic acid S-Inflammation E-Inhibition SUP:9 CONF:0.9
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB ==> T-TNFa SUP:8 CONF:0.8888888888888888
+E-Inhibition S-Inflammation T-NfkB ==> A-Sinapic acid T-TNFa SUP:8 CONF:0.8888888888888888
+A-Sinapic acid E-Inhibition T-NfkB ==> S-Inflammation T-TNFa SUP:8 CONF:0.8888888888888888
+A-Sinapic acid S-Inflammation T-NfkB ==> E-Inhibition T-TNFa SUP:8 CONF:0.8888888888888888
+E-Inhibition T-NfkB ==> A-Sinapic acid S-Inflammation T-TNFa SUP:8 CONF:0.8888888888888888
+S-Inflammation T-NfkB ==> A-Sinapic acid E-Inhibition T-TNFa SUP:8 CONF:0.8888888888888888
+A-Sinapic acid T-NfkB ==> S-Inflammation E-Inhibition T-TNFa SUP:8 CONF:0.8888888888888888
+E-Inhibition S-Inflammation ==> A-Sinapic acid SUP:14 CONF:0.875
+A-Sinapic acid Ty-In vivo ==> S-Inflammation SUP:14 CONF:0.875
+Ty-In vivo ==> A-Sinapic acid S-Inflammation SUP:14 CONF:0.875
+A-Sinapic acid E-Inhibition S-Inflammation T-IL-6 ==> T-NfkB SUP:7 CONF:0.875
+E-Inhibition S-Inflammation T-IL-6 ==> A-Sinapic acid T-NfkB SUP:7 CONF:0.875
+A-Sinapic acid E-Inhibition T-IL-6 ==> S-Inflammation T-NfkB SUP:7 CONF:0.875
+A-Sinapic acid S-Inflammation T-IL-6 ==> E-Inhibition T-NfkB SUP:7 CONF:0.875
+E-Inhibition T-IL-6 ==> A-Sinapic acid S-Inflammation T-NfkB SUP:7 CONF:0.875
+S-Inflammation T-IL-6 ==> A-Sinapic acid E-Inhibition T-NfkB SUP:7 CONF:0.875
+A-Sinapic acid T-IL-6 ==> S-Inflammation E-Inhibition T-NfkB SUP:7 CONF:0.875
+T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB SUP:7 CONF:0.875
+A-Sinapic acid E-Inhibition S-Inflammation T-IL-1b ==> T-TNFa SUP:7 CONF:0.875
+E-Inhibition S-Inflammation T-IL-1b ==> A-Sinapic acid T-TNFa SUP:7 CONF:0.875
+A-Sinapic acid E-Inhibition T-IL-1b ==> S-Inflammation T-TNFa SUP:7 CONF:0.875
+A-Sinapic acid S-Inflammation T-IL-1b ==> E-Inhibition T-TNFa SUP:7 CONF:0.875
+E-Inhibition T-IL-1b ==> A-Sinapic acid S-Inflammation T-TNFa SUP:7 CONF:0.875
+S-Inflammation T-IL-1b ==> A-Sinapic acid E-Inhibition T-TNFa SUP:7 CONF:0.875
+A-Sinapic acid T-IL-1b ==> S-Inflammation E-Inhibition T-TNFa SUP:7 CONF:0.875
+T-IL-1b ==> A-Sinapic acid S-Inflammation E-Inhibition T-TNFa SUP:7 CONF:0.875
+A-Sinapic acid E-Inhibition S-Inflammation T-IL-6 ==> T-TNFa SUP:7 CONF:0.875
+E-Inhibition S-Inflammation T-IL-6 ==> A-Sinapic acid T-TNFa SUP:7 CONF:0.875
+A-Sinapic acid E-Inhibition T-IL-6 ==> S-Inflammation T-TNFa SUP:7 CONF:0.875
+A-Sinapic acid S-Inflammation T-IL-6 ==> E-Inhibition T-TNFa SUP:7 CONF:0.875
+E-Inhibition T-IL-6 ==> A-Sinapic acid S-Inflammation T-TNFa SUP:7 CONF:0.875
+S-Inflammation T-IL-6 ==> A-Sinapic acid E-Inhibition T-TNFa SUP:7 CONF:0.875
+A-Sinapic acid T-IL-6 ==> S-Inflammation E-Inhibition T-TNFa SUP:7 CONF:0.875
+T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-TNFa SUP:7 CONF:0.875
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo ==> T-TNFa SUP:7 CONF:0.875
+E-Inhibition S-Inflammation Ty-In vivo ==> A-Sinapic acid T-TNFa SUP:7 CONF:0.875
+A-Sinapic acid E-Inhibition Ty-In vivo ==> S-Inflammation T-TNFa SUP:7 CONF:0.875
+E-Inhibition Ty-In vivo ==> A-Sinapic acid S-Inflammation T-TNFa SUP:7 CONF:0.875
+S-Inflammation T-oxydative stress ==> A-Sinapic acid Ty-In vivo SUP:6 CONF:0.8571428571428571
+A-Sinapic acid T-oxydative stress ==> S-Inflammation Ty-In vivo SUP:6 CONF:0.8571428571428571
+A-Sinapic acid E-Inhibition S-Inflammation T-TNFa T-IL-1b ==> T-NfkB SUP:6 CONF:0.8571428571428571
+E-Inhibition S-Inflammation T-TNFa T-IL-1b ==> A-Sinapic acid T-NfkB SUP:6 CONF:0.8571428571428571
+A-Sinapic acid E-Inhibition T-TNFa T-IL-1b ==> S-Inflammation T-NfkB SUP:6 CONF:0.8571428571428571
+A-Sinapic acid S-Inflammation T-TNFa T-IL-1b ==> E-Inhibition T-NfkB SUP:6 CONF:0.8571428571428571
+E-Inhibition T-TNFa T-IL-1b ==> A-Sinapic acid S-Inflammation T-NfkB SUP:6 CONF:0.8571428571428571
+S-Inflammation T-TNFa T-IL-1b ==> A-Sinapic acid E-Inhibition T-NfkB SUP:6 CONF:0.8571428571428571
+A-Sinapic acid T-TNFa T-IL-1b ==> S-Inflammation E-Inhibition T-NfkB SUP:6 CONF:0.8571428571428571
+T-TNFa T-IL-1b ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB SUP:6 CONF:0.8571428571428571
+A-Sinapic acid E-Inhibition S-Inflammation T-TNFa T-IL-6 ==> T-NfkB SUP:6 CONF:0.8571428571428571
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB T-IL-6 ==> T-TNFa SUP:6 CONF:0.8571428571428571
+E-Inhibition S-Inflammation T-TNFa T-IL-6 ==> A-Sinapic acid T-NfkB SUP:6 CONF:0.8571428571428571
+E-Inhibition S-Inflammation T-NfkB T-IL-6 ==> A-Sinapic acid T-TNFa SUP:6 CONF:0.8571428571428571
+A-Sinapic acid E-Inhibition T-TNFa T-IL-6 ==> S-Inflammation T-NfkB SUP:6 CONF:0.8571428571428571
+A-Sinapic acid E-Inhibition T-NfkB T-IL-6 ==> S-Inflammation T-TNFa SUP:6 CONF:0.8571428571428571
+A-Sinapic acid S-Inflammation T-TNFa T-IL-6 ==> E-Inhibition T-NfkB SUP:6 CONF:0.8571428571428571
+A-Sinapic acid S-Inflammation T-NfkB T-IL-6 ==> E-Inhibition T-TNFa SUP:6 CONF:0.8571428571428571
+E-Inhibition T-TNFa T-IL-6 ==> A-Sinapic acid S-Inflammation T-NfkB SUP:6 CONF:0.8571428571428571
+E-Inhibition T-NfkB T-IL-6 ==> A-Sinapic acid S-Inflammation T-TNFa SUP:6 CONF:0.8571428571428571
+S-Inflammation T-TNFa T-IL-6 ==> A-Sinapic acid E-Inhibition T-NfkB SUP:6 CONF:0.8571428571428571
+S-Inflammation T-NfkB T-IL-6 ==> A-Sinapic acid E-Inhibition T-TNFa SUP:6 CONF:0.8571428571428571
+A-Sinapic acid T-TNFa T-IL-6 ==> S-Inflammation E-Inhibition T-NfkB SUP:6 CONF:0.8571428571428571
+A-Sinapic acid T-NfkB T-IL-6 ==> S-Inflammation E-Inhibition T-TNFa SUP:6 CONF:0.8571428571428571
+T-TNFa T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB SUP:6 CONF:0.8571428571428571
+T-NfkB T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-TNFa SUP:6 CONF:0.8571428571428571
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-TNFa ==> T-NfkB SUP:6 CONF:0.8571428571428571
+E-Inhibition S-Inflammation Ty-In vivo T-TNFa ==> A-Sinapic acid T-NfkB SUP:6 CONF:0.8571428571428571
+A-Sinapic acid E-Inhibition Ty-In vivo T-TNFa ==> S-Inflammation T-NfkB SUP:6 CONF:0.8571428571428571
+A-Sinapic acid S-Inflammation Ty-In vivo T-TNFa ==> E-Inhibition T-NfkB SUP:6 CONF:0.8571428571428571
+E-Inhibition Ty-In vivo T-TNFa ==> A-Sinapic acid S-Inflammation T-NfkB SUP:6 CONF:0.8571428571428571
+S-Inflammation Ty-In vivo T-TNFa ==> A-Sinapic acid E-Inhibition T-NfkB SUP:6 CONF:0.8571428571428571
+A-Sinapic acid Ty-In vivo T-TNFa ==> S-Inflammation E-Inhibition T-NfkB SUP:6 CONF:0.8571428571428571
+Ty-In vivo T-TNFa ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB SUP:6 CONF:0.8571428571428571
+A-Sinapic acid E-Inhibition S-Inflammation T-TNFa T-IL-6 ==> T-NO SUP:6 CONF:0.8571428571428571
+E-Inhibition S-Inflammation T-TNFa T-IL-6 ==> A-Sinapic acid T-NO SUP:6 CONF:0.8571428571428571
+A-Sinapic acid E-Inhibition T-TNFa T-IL-6 ==> S-Inflammation T-NO SUP:6 CONF:0.8571428571428571
+A-Sinapic acid S-Inflammation T-TNFa T-IL-6 ==> E-Inhibition T-NO SUP:6 CONF:0.8571428571428571
+E-Inhibition T-TNFa T-IL-6 ==> A-Sinapic acid S-Inflammation T-NO SUP:6 CONF:0.8571428571428571
+S-Inflammation T-TNFa T-IL-6 ==> A-Sinapic acid E-Inhibition T-NO SUP:6 CONF:0.8571428571428571
+A-Sinapic acid T-TNFa T-IL-6 ==> S-Inflammation E-Inhibition T-NO SUP:6 CONF:0.8571428571428571
+T-TNFa T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-NO SUP:6 CONF:0.8571428571428571
+I-gentamicin ==> A-Sinapic acid T-nan T-cell death B-nan SUP:5 CONF:0.8333333333333334
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-TNFa ==> T-IL-1b SUP:5 CONF:0.8333333333333334
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB T-TNFa T-IL-1b ==> Ty-In vivo SUP:5 CONF:0.8333333333333334
+E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-TNFa ==> A-Sinapic acid T-IL-1b SUP:5 CONF:0.8333333333333334
+E-Inhibition S-Inflammation T-NfkB T-TNFa T-IL-1b ==> A-Sinapic acid Ty-In vivo SUP:5 CONF:0.8333333333333334
+A-Sinapic acid E-Inhibition Ty-In vivo T-NfkB T-TNFa ==> S-Inflammation T-IL-1b SUP:5 CONF:0.8333333333333334
+A-Sinapic acid E-Inhibition T-NfkB T-TNFa T-IL-1b ==> S-Inflammation Ty-In vivo SUP:5 CONF:0.8333333333333334
+A-Sinapic acid S-Inflammation Ty-In vivo T-NfkB T-TNFa ==> E-Inhibition T-IL-1b SUP:5 CONF:0.8333333333333334
+A-Sinapic acid S-Inflammation T-NfkB T-TNFa T-IL-1b ==> E-Inhibition Ty-In vivo SUP:5 CONF:0.8333333333333334
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-IL-1b ==> T-NfkB T-TNFa SUP:5 CONF:0.8333333333333334
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-NfkB ==> T-IL-1b T-TNFa SUP:5 CONF:0.8333333333333334
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB T-IL-1b ==> T-TNFa Ty-In vivo SUP:5 CONF:0.8333333333333334
+E-Inhibition Ty-In vivo T-NfkB T-TNFa ==> A-Sinapic acid S-Inflammation T-IL-1b SUP:5 CONF:0.8333333333333334
+E-Inhibition T-NfkB T-TNFa T-IL-1b ==> A-Sinapic acid S-Inflammation Ty-In vivo SUP:5 CONF:0.8333333333333334
+S-Inflammation Ty-In vivo T-NfkB T-TNFa ==> A-Sinapic acid E-Inhibition T-IL-1b SUP:5 CONF:0.8333333333333334
+S-Inflammation T-NfkB T-TNFa T-IL-1b ==> A-Sinapic acid E-Inhibition Ty-In vivo SUP:5 CONF:0.8333333333333334
+E-Inhibition S-Inflammation Ty-In vivo T-IL-1b ==> A-Sinapic acid T-NfkB T-TNFa SUP:5 CONF:0.8333333333333334
+E-Inhibition S-Inflammation Ty-In vivo T-NfkB ==> A-Sinapic acid T-IL-1b T-TNFa SUP:5 CONF:0.8333333333333334
+E-Inhibition S-Inflammation T-NfkB T-IL-1b ==> A-Sinapic acid T-TNFa Ty-In vivo SUP:5 CONF:0.8333333333333334
+A-Sinapic acid Ty-In vivo T-NfkB T-TNFa ==> S-Inflammation E-Inhibition T-IL-1b SUP:5 CONF:0.8333333333333334
+A-Sinapic acid T-NfkB T-TNFa T-IL-1b ==> S-Inflammation E-Inhibition Ty-In vivo SUP:5 CONF:0.8333333333333334
+A-Sinapic acid E-Inhibition Ty-In vivo T-IL-1b ==> S-Inflammation T-NfkB T-TNFa SUP:5 CONF:0.8333333333333334
+A-Sinapic acid E-Inhibition Ty-In vivo T-NfkB ==> S-Inflammation T-IL-1b T-TNFa SUP:5 CONF:0.8333333333333334
+A-Sinapic acid E-Inhibition T-NfkB T-IL-1b ==> S-Inflammation T-TNFa Ty-In vivo SUP:5 CONF:0.8333333333333334
+A-Sinapic acid S-Inflammation Ty-In vivo T-IL-1b ==> E-Inhibition T-NfkB T-TNFa SUP:5 CONF:0.8333333333333334
+A-Sinapic acid S-Inflammation Ty-In vivo T-NfkB ==> E-Inhibition T-IL-1b T-TNFa SUP:5 CONF:0.8333333333333334
+A-Sinapic acid S-Inflammation T-NfkB T-IL-1b ==> E-Inhibition T-TNFa Ty-In vivo SUP:5 CONF:0.8333333333333334
+Ty-In vivo T-NfkB T-TNFa ==> A-Sinapic acid S-Inflammation E-Inhibition T-IL-1b SUP:5 CONF:0.8333333333333334
+T-NfkB T-TNFa T-IL-1b ==> A-Sinapic acid S-Inflammation E-Inhibition Ty-In vivo SUP:5 CONF:0.8333333333333334
+E-Inhibition Ty-In vivo T-IL-1b ==> A-Sinapic acid S-Inflammation T-NfkB T-TNFa SUP:5 CONF:0.8333333333333334
+E-Inhibition Ty-In vivo T-NfkB ==> A-Sinapic acid S-Inflammation T-IL-1b T-TNFa SUP:5 CONF:0.8333333333333334
+E-Inhibition T-NfkB T-IL-1b ==> A-Sinapic acid S-Inflammation T-TNFa Ty-In vivo SUP:5 CONF:0.8333333333333334
+S-Inflammation Ty-In vivo T-IL-1b ==> A-Sinapic acid E-Inhibition T-NfkB T-TNFa SUP:5 CONF:0.8333333333333334
+S-Inflammation Ty-In vivo T-NfkB ==> A-Sinapic acid E-Inhibition T-IL-1b T-TNFa SUP:5 CONF:0.8333333333333334
+S-Inflammation T-NfkB T-IL-1b ==> A-Sinapic acid E-Inhibition T-TNFa Ty-In vivo SUP:5 CONF:0.8333333333333334
+A-Sinapic acid Ty-In vivo T-IL-1b ==> S-Inflammation E-Inhibition T-NfkB T-TNFa SUP:5 CONF:0.8333333333333334
+A-Sinapic acid Ty-In vivo T-NfkB ==> S-Inflammation E-Inhibition T-IL-1b T-TNFa SUP:5 CONF:0.8333333333333334
+A-Sinapic acid T-NfkB T-IL-1b ==> S-Inflammation E-Inhibition T-TNFa Ty-In vivo SUP:5 CONF:0.8333333333333334
+Ty-In vivo T-IL-1b ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB T-TNFa SUP:5 CONF:0.8333333333333334
+Ty-In vivo T-NfkB ==> A-Sinapic acid S-Inflammation E-Inhibition T-IL-1b T-TNFa SUP:5 CONF:0.8333333333333334
+T-NfkB T-IL-1b ==> A-Sinapic acid S-Inflammation E-Inhibition T-TNFa Ty-In vivo SUP:5 CONF:0.8333333333333334
+A-Sinapic acid E-Inhibition S-Inflammation T-TNFa T-NO T-IL-6 ==> T-NfkB SUP:5 CONF:0.8333333333333334
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB T-TNFa T-IL-6 ==> T-NO SUP:5 CONF:0.8333333333333334
+E-Inhibition S-Inflammation T-TNFa T-NO T-IL-6 ==> A-Sinapic acid T-NfkB SUP:5 CONF:0.8333333333333334
+E-Inhibition S-Inflammation T-NfkB T-TNFa T-IL-6 ==> A-Sinapic acid T-NO SUP:5 CONF:0.8333333333333334
+A-Sinapic acid E-Inhibition T-TNFa T-NO T-IL-6 ==> S-Inflammation T-NfkB SUP:5 CONF:0.8333333333333334
+A-Sinapic acid E-Inhibition T-NfkB T-TNFa T-IL-6 ==> S-Inflammation T-NO SUP:5 CONF:0.8333333333333334
+A-Sinapic acid S-Inflammation T-TNFa T-NO T-IL-6 ==> E-Inhibition T-NfkB SUP:5 CONF:0.8333333333333334
+A-Sinapic acid S-Inflammation T-NfkB T-TNFa T-IL-6 ==> E-Inhibition T-NO SUP:5 CONF:0.8333333333333334
+A-Sinapic acid E-Inhibition S-Inflammation T-NO T-IL-6 ==> T-NfkB T-TNFa SUP:5 CONF:0.8333333333333334
+A-Sinapic acid E-Inhibition S-Inflammation T-TNFa T-NO ==> T-NfkB T-IL-6 SUP:5 CONF:0.8333333333333334
+E-Inhibition T-TNFa T-NO T-IL-6 ==> A-Sinapic acid S-Inflammation T-NfkB SUP:5 CONF:0.8333333333333334
+E-Inhibition T-NfkB T-TNFa T-IL-6 ==> A-Sinapic acid S-Inflammation T-NO SUP:5 CONF:0.8333333333333334
+S-Inflammation T-TNFa T-NO T-IL-6 ==> A-Sinapic acid E-Inhibition T-NfkB SUP:5 CONF:0.8333333333333334
+S-Inflammation T-NfkB T-TNFa T-IL-6 ==> A-Sinapic acid E-Inhibition T-NO SUP:5 CONF:0.8333333333333334
+E-Inhibition S-Inflammation T-NO T-IL-6 ==> A-Sinapic acid T-NfkB T-TNFa SUP:5 CONF:0.8333333333333334
+E-Inhibition S-Inflammation T-TNFa T-NO ==> A-Sinapic acid T-NfkB T-IL-6 SUP:5 CONF:0.8333333333333334
+A-Sinapic acid T-TNFa T-NO T-IL-6 ==> S-Inflammation E-Inhibition T-NfkB SUP:5 CONF:0.8333333333333334
+A-Sinapic acid T-NfkB T-TNFa T-IL-6 ==> S-Inflammation E-Inhibition T-NO SUP:5 CONF:0.8333333333333334
+A-Sinapic acid E-Inhibition T-NO T-IL-6 ==> S-Inflammation T-NfkB T-TNFa SUP:5 CONF:0.8333333333333334
+A-Sinapic acid E-Inhibition T-TNFa T-NO ==> S-Inflammation T-NfkB T-IL-6 SUP:5 CONF:0.8333333333333334
+A-Sinapic acid S-Inflammation T-NO T-IL-6 ==> E-Inhibition T-NfkB T-TNFa SUP:5 CONF:0.8333333333333334
+A-Sinapic acid S-Inflammation T-TNFa T-NO ==> E-Inhibition T-NfkB T-IL-6 SUP:5 CONF:0.8333333333333334
+A-Sinapic acid E-Inhibition S-Inflammation T-NO ==> T-NfkB T-TNFa T-IL-6 SUP:5 CONF:0.8333333333333334
+T-TNFa T-NO T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB SUP:5 CONF:0.8333333333333334
+T-NfkB T-TNFa T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-NO SUP:5 CONF:0.8333333333333334
+E-Inhibition T-NO T-IL-6 ==> A-Sinapic acid S-Inflammation T-NfkB T-TNFa SUP:5 CONF:0.8333333333333334
+E-Inhibition T-TNFa T-NO ==> A-Sinapic acid S-Inflammation T-NfkB T-IL-6 SUP:5 CONF:0.8333333333333334
+S-Inflammation T-NO T-IL-6 ==> A-Sinapic acid E-Inhibition T-NfkB T-TNFa SUP:5 CONF:0.8333333333333334
+S-Inflammation T-TNFa T-NO ==> A-Sinapic acid E-Inhibition T-NfkB T-IL-6 SUP:5 CONF:0.8333333333333334
+E-Inhibition S-Inflammation T-NO ==> A-Sinapic acid T-NfkB T-TNFa T-IL-6 SUP:5 CONF:0.8333333333333334
+A-Sinapic acid T-NO T-IL-6 ==> S-Inflammation E-Inhibition T-NfkB T-TNFa SUP:5 CONF:0.8333333333333334
+A-Sinapic acid T-TNFa T-NO ==> S-Inflammation E-Inhibition T-NfkB T-IL-6 SUP:5 CONF:0.8333333333333334
+A-Sinapic acid E-Inhibition T-NO ==> S-Inflammation T-NfkB T-TNFa T-IL-6 SUP:5 CONF:0.8333333333333334
+T-NO T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB T-TNFa SUP:5 CONF:0.8333333333333334
+T-TNFa T-NO ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB T-IL-6 SUP:5 CONF:0.8333333333333334
+E-Inhibition T-NO ==> A-Sinapic acid S-Inflammation T-NfkB T-TNFa T-IL-6 SUP:5 CONF:0.8333333333333334
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-TNFa ==> T-IL-6 SUP:5 CONF:0.8333333333333334
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB T-TNFa T-IL-6 ==> Ty-In vivo SUP:5 CONF:0.8333333333333334
+E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-TNFa ==> A-Sinapic acid T-IL-6 SUP:5 CONF:0.8333333333333334
+E-Inhibition S-Inflammation T-NfkB T-TNFa T-IL-6 ==> A-Sinapic acid Ty-In vivo SUP:5 CONF:0.8333333333333334
+A-Sinapic acid E-Inhibition Ty-In vivo T-NfkB T-TNFa ==> S-Inflammation T-IL-6 SUP:5 CONF:0.8333333333333334
+A-Sinapic acid E-Inhibition T-NfkB T-TNFa T-IL-6 ==> S-Inflammation Ty-In vivo SUP:5 CONF:0.8333333333333334
+A-Sinapic acid S-Inflammation Ty-In vivo T-NfkB T-TNFa ==> E-Inhibition T-IL-6 SUP:5 CONF:0.8333333333333334
+A-Sinapic acid S-Inflammation T-NfkB T-TNFa T-IL-6 ==> E-Inhibition Ty-In vivo SUP:5 CONF:0.8333333333333334
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-NfkB ==> T-TNFa T-IL-6 SUP:5 CONF:0.8333333333333334
+E-Inhibition Ty-In vivo T-NfkB T-TNFa ==> A-Sinapic acid S-Inflammation T-IL-6 SUP:5 CONF:0.8333333333333334
+E-Inhibition T-NfkB T-TNFa T-IL-6 ==> A-Sinapic acid S-Inflammation Ty-In vivo SUP:5 CONF:0.8333333333333334
+S-Inflammation Ty-In vivo T-NfkB T-TNFa ==> A-Sinapic acid E-Inhibition T-IL-6 SUP:5 CONF:0.8333333333333334
+S-Inflammation T-NfkB T-TNFa T-IL-6 ==> A-Sinapic acid E-Inhibition Ty-In vivo SUP:5 CONF:0.8333333333333334
+E-Inhibition S-Inflammation Ty-In vivo T-NfkB ==> A-Sinapic acid T-TNFa T-IL-6 SUP:5 CONF:0.8333333333333334
+A-Sinapic acid Ty-In vivo T-NfkB T-TNFa ==> S-Inflammation E-Inhibition T-IL-6 SUP:5 CONF:0.8333333333333334
+A-Sinapic acid T-NfkB T-TNFa T-IL-6 ==> S-Inflammation E-Inhibition Ty-In vivo SUP:5 CONF:0.8333333333333334
+A-Sinapic acid E-Inhibition Ty-In vivo T-NfkB ==> S-Inflammation T-TNFa T-IL-6 SUP:5 CONF:0.8333333333333334
+A-Sinapic acid S-Inflammation Ty-In vivo T-NfkB ==> E-Inhibition T-TNFa T-IL-6 SUP:5 CONF:0.8333333333333334
+Ty-In vivo T-NfkB T-TNFa ==> A-Sinapic acid S-Inflammation E-Inhibition T-IL-6 SUP:5 CONF:0.8333333333333334
+T-NfkB T-TNFa T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition Ty-In vivo SUP:5 CONF:0.8333333333333334
+E-Inhibition Ty-In vivo T-NfkB ==> A-Sinapic acid S-Inflammation T-TNFa T-IL-6 SUP:5 CONF:0.8333333333333334
+S-Inflammation Ty-In vivo T-NfkB ==> A-Sinapic acid E-Inhibition T-TNFa T-IL-6 SUP:5 CONF:0.8333333333333334
+A-Sinapic acid Ty-In vivo T-NfkB ==> S-Inflammation E-Inhibition T-TNFa T-IL-6 SUP:5 CONF:0.8333333333333334
+Ty-In vivo T-NfkB ==> A-Sinapic acid S-Inflammation E-Inhibition T-TNFa T-IL-6 SUP:5 CONF:0.8333333333333334
+A-Sinapic acid E-Inhibition ==> S-Inflammation SUP:14 CONF:0.8235294117647058
+A-Sinapic acid T-NO ==> S-Inflammation SUP:8 CONF:0.8
+T-NO ==> A-Sinapic acid S-Inflammation SUP:8 CONF:0.8
+A-Sinapic acid T-NO ==> Ty-In vivo SUP:8 CONF:0.8
+T-NO ==> A-Sinapic acid Ty-In vivo SUP:8 CONF:0.8
+A-Sinapic acid E-Inhibition S-Inflammation T-TNFa ==> T-NfkB SUP:8 CONF:0.8
+E-Inhibition S-Inflammation T-TNFa ==> A-Sinapic acid T-NfkB SUP:8 CONF:0.8
+A-Sinapic acid E-Inhibition T-TNFa ==> S-Inflammation T-NfkB SUP:8 CONF:0.8
+A-Sinapic acid S-Inflammation T-TNFa ==> E-Inhibition T-NfkB SUP:8 CONF:0.8
+E-Inhibition T-TNFa ==> A-Sinapic acid S-Inflammation T-NfkB SUP:8 CONF:0.8
+S-Inflammation T-TNFa ==> A-Sinapic acid E-Inhibition T-NfkB SUP:8 CONF:0.8
+A-Sinapic acid T-TNFa ==> S-Inflammation E-Inhibition T-NfkB SUP:8 CONF:0.8
+T-TNFa ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB SUP:8 CONF:0.8
+T-NfkB ==> A-Sinapic acid S-Inflammation E-Inhibition T-TNFa SUP:8 CONF:0.8
+I-gentamicin T-cell death B-nan ==> A-Sinapic acid SUP:4 CONF:0.8
+A-Sinapic acid T-cell death B-nan ==> I-gentamicin SUP:4 CONF:0.8
+A-Sinapic acid I-gentamicin B-nan ==> T-cell death SUP:4 CONF:0.8
+A-Sinapic acid I-gentamicin T-cell death ==> B-nan SUP:4 CONF:0.8
+T-cell death B-nan ==> A-Sinapic acid I-gentamicin SUP:4 CONF:0.8
+I-gentamicin B-nan ==> A-Sinapic acid T-cell death SUP:4 CONF:0.8
+I-gentamicin T-cell death ==> A-Sinapic acid B-nan SUP:4 CONF:0.8
+A-Sinapic acid B-nan ==> I-gentamicin T-cell death SUP:4 CONF:0.8
+A-Sinapic acid T-cell death ==> I-gentamicin B-nan SUP:4 CONF:0.8
+A-Sinapic acid I-gentamicin ==> T-cell death B-nan SUP:4 CONF:0.8
+B-nan ==> A-Sinapic acid I-gentamicin T-cell death SUP:4 CONF:0.8
+T-cell death ==> A-Sinapic acid I-gentamicin B-nan SUP:4 CONF:0.8
+A-Sinapic acid E-Inhibition S-Inflammation T-TNFa T-IL-1b T-IL-6 ==> T-NO SUP:4 CONF:0.8
+E-Inhibition S-Inflammation T-TNFa T-IL-1b T-IL-6 ==> A-Sinapic acid T-NO SUP:4 CONF:0.8
+A-Sinapic acid E-Inhibition T-TNFa T-IL-1b T-IL-6 ==> S-Inflammation T-NO SUP:4 CONF:0.8
+A-Sinapic acid S-Inflammation T-TNFa T-IL-1b T-IL-6 ==> E-Inhibition T-NO SUP:4 CONF:0.8
+A-Sinapic acid E-Inhibition S-Inflammation T-IL-1b T-IL-6 ==> T-TNFa T-NO SUP:4 CONF:0.8
+E-Inhibition T-TNFa T-IL-1b T-IL-6 ==> A-Sinapic acid S-Inflammation T-NO SUP:4 CONF:0.8
+S-Inflammation T-TNFa T-IL-1b T-IL-6 ==> A-Sinapic acid E-Inhibition T-NO SUP:4 CONF:0.8
+E-Inhibition S-Inflammation T-IL-1b T-IL-6 ==> A-Sinapic acid T-TNFa T-NO SUP:4 CONF:0.8
+A-Sinapic acid T-TNFa T-IL-1b T-IL-6 ==> S-Inflammation E-Inhibition T-NO SUP:4 CONF:0.8
+A-Sinapic acid E-Inhibition T-IL-1b T-IL-6 ==> S-Inflammation T-TNFa T-NO SUP:4 CONF:0.8
+A-Sinapic acid S-Inflammation T-IL-1b T-IL-6 ==> E-Inhibition T-TNFa T-NO SUP:4 CONF:0.8
+T-TNFa T-IL-1b T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-NO SUP:4 CONF:0.8
+E-Inhibition T-IL-1b T-IL-6 ==> A-Sinapic acid S-Inflammation T-TNFa T-NO SUP:4 CONF:0.8
+S-Inflammation T-IL-1b T-IL-6 ==> A-Sinapic acid E-Inhibition T-TNFa T-NO SUP:4 CONF:0.8
+A-Sinapic acid T-IL-1b T-IL-6 ==> S-Inflammation E-Inhibition T-TNFa T-NO SUP:4 CONF:0.8
+T-IL-1b T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-TNFa T-NO SUP:4 CONF:0.8
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-TNFa T-IL-6 ==> T-NO SUP:4 CONF:0.8
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB T-TNFa T-NO T-IL-6 ==> Ty-In vivo SUP:4 CONF:0.8
+E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-TNFa T-IL-6 ==> A-Sinapic acid T-NO SUP:4 CONF:0.8
+E-Inhibition S-Inflammation T-NfkB T-TNFa T-NO T-IL-6 ==> A-Sinapic acid Ty-In vivo SUP:4 CONF:0.8
+A-Sinapic acid E-Inhibition Ty-In vivo T-NfkB T-TNFa T-IL-6 ==> S-Inflammation T-NO SUP:4 CONF:0.8
+A-Sinapic acid E-Inhibition T-NfkB T-TNFa T-NO T-IL-6 ==> S-Inflammation Ty-In vivo SUP:4 CONF:0.8
+A-Sinapic acid S-Inflammation Ty-In vivo T-NfkB T-TNFa T-IL-6 ==> E-Inhibition T-NO SUP:4 CONF:0.8
+A-Sinapic acid S-Inflammation T-NfkB T-TNFa T-NO T-IL-6 ==> E-Inhibition Ty-In vivo SUP:4 CONF:0.8
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-TNFa T-IL-6 ==> T-NfkB T-NO SUP:4 CONF:0.8
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-IL-6 ==> T-TNFa T-NO SUP:4 CONF:0.8
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB T-NO T-IL-6 ==> T-TNFa Ty-In vivo SUP:4 CONF:0.8
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB T-TNFa T-NO ==> T-IL-6 Ty-In vivo SUP:4 CONF:0.8
+E-Inhibition Ty-In vivo T-NfkB T-TNFa T-IL-6 ==> A-Sinapic acid S-Inflammation T-NO SUP:4 CONF:0.8
+E-Inhibition T-NfkB T-TNFa T-NO T-IL-6 ==> A-Sinapic acid S-Inflammation Ty-In vivo SUP:4 CONF:0.8
+S-Inflammation Ty-In vivo T-NfkB T-TNFa T-IL-6 ==> A-Sinapic acid E-Inhibition T-NO SUP:4 CONF:0.8
+S-Inflammation T-NfkB T-TNFa T-NO T-IL-6 ==> A-Sinapic acid E-Inhibition Ty-In vivo SUP:4 CONF:0.8
+E-Inhibition S-Inflammation Ty-In vivo T-TNFa T-IL-6 ==> A-Sinapic acid T-NfkB T-NO SUP:4 CONF:0.8
+E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-IL-6 ==> A-Sinapic acid T-TNFa T-NO SUP:4 CONF:0.8
+E-Inhibition S-Inflammation T-NfkB T-NO T-IL-6 ==> A-Sinapic acid T-TNFa Ty-In vivo SUP:4 CONF:0.8
+E-Inhibition S-Inflammation T-NfkB T-TNFa T-NO ==> A-Sinapic acid T-IL-6 Ty-In vivo SUP:4 CONF:0.8
+A-Sinapic acid Ty-In vivo T-NfkB T-TNFa T-IL-6 ==> S-Inflammation E-Inhibition T-NO SUP:4 CONF:0.8
+A-Sinapic acid T-NfkB T-TNFa T-NO T-IL-6 ==> S-Inflammation E-Inhibition Ty-In vivo SUP:4 CONF:0.8
+A-Sinapic acid E-Inhibition Ty-In vivo T-TNFa T-IL-6 ==> S-Inflammation T-NfkB T-NO SUP:4 CONF:0.8
+A-Sinapic acid E-Inhibition Ty-In vivo T-NfkB T-IL-6 ==> S-Inflammation T-TNFa T-NO SUP:4 CONF:0.8
+A-Sinapic acid E-Inhibition T-NfkB T-NO T-IL-6 ==> S-Inflammation T-TNFa Ty-In vivo SUP:4 CONF:0.8
+A-Sinapic acid E-Inhibition T-NfkB T-TNFa T-NO ==> S-Inflammation T-IL-6 Ty-In vivo SUP:4 CONF:0.8
+A-Sinapic acid S-Inflammation Ty-In vivo T-TNFa T-IL-6 ==> E-Inhibition T-NfkB T-NO SUP:4 CONF:0.8
+A-Sinapic acid S-Inflammation Ty-In vivo T-NfkB T-IL-6 ==> E-Inhibition T-TNFa T-NO SUP:4 CONF:0.8
+A-Sinapic acid S-Inflammation T-NfkB T-NO T-IL-6 ==> E-Inhibition T-TNFa Ty-In vivo SUP:4 CONF:0.8
+A-Sinapic acid S-Inflammation T-NfkB T-TNFa T-NO ==> E-Inhibition T-IL-6 Ty-In vivo SUP:4 CONF:0.8
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-IL-6 ==> T-NfkB T-TNFa T-NO SUP:4 CONF:0.8
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB T-NO ==> T-TNFa T-IL-6 Ty-In vivo SUP:4 CONF:0.8
+Ty-In vivo T-NfkB T-TNFa T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-NO SUP:4 CONF:0.8
+T-NfkB T-TNFa T-NO T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition Ty-In vivo SUP:4 CONF:0.8
+E-Inhibition Ty-In vivo T-TNFa T-IL-6 ==> A-Sinapic acid S-Inflammation T-NfkB T-NO SUP:4 CONF:0.8
+E-Inhibition Ty-In vivo T-NfkB T-IL-6 ==> A-Sinapic acid S-Inflammation T-TNFa T-NO SUP:4 CONF:0.8
+E-Inhibition T-NfkB T-NO T-IL-6 ==> A-Sinapic acid S-Inflammation T-TNFa Ty-In vivo SUP:4 CONF:0.8
+E-Inhibition T-NfkB T-TNFa T-NO ==> A-Sinapic acid S-Inflammation T-IL-6 Ty-In vivo SUP:4 CONF:0.8
+S-Inflammation Ty-In vivo T-TNFa T-IL-6 ==> A-Sinapic acid E-Inhibition T-NfkB T-NO SUP:4 CONF:0.8
+S-Inflammation Ty-In vivo T-NfkB T-IL-6 ==> A-Sinapic acid E-Inhibition T-TNFa T-NO SUP:4 CONF:0.8
+S-Inflammation T-NfkB T-NO T-IL-6 ==> A-Sinapic acid E-Inhibition T-TNFa Ty-In vivo SUP:4 CONF:0.8
+S-Inflammation T-NfkB T-TNFa T-NO ==> A-Sinapic acid E-Inhibition T-IL-6 Ty-In vivo SUP:4 CONF:0.8
+E-Inhibition S-Inflammation Ty-In vivo T-IL-6 ==> A-Sinapic acid T-NfkB T-TNFa T-NO SUP:4 CONF:0.8
+E-Inhibition S-Inflammation T-NfkB T-NO ==> A-Sinapic acid T-TNFa T-IL-6 Ty-In vivo SUP:4 CONF:0.8
+A-Sinapic acid Ty-In vivo T-TNFa T-IL-6 ==> S-Inflammation E-Inhibition T-NfkB T-NO SUP:4 CONF:0.8
+A-Sinapic acid Ty-In vivo T-NfkB T-IL-6 ==> S-Inflammation E-Inhibition T-TNFa T-NO SUP:4 CONF:0.8
+A-Sinapic acid T-NfkB T-NO T-IL-6 ==> S-Inflammation E-Inhibition T-TNFa Ty-In vivo SUP:4 CONF:0.8
+A-Sinapic acid T-NfkB T-TNFa T-NO ==> S-Inflammation E-Inhibition T-IL-6 Ty-In vivo SUP:4 CONF:0.8
+A-Sinapic acid E-Inhibition Ty-In vivo T-IL-6 ==> S-Inflammation T-NfkB T-TNFa T-NO SUP:4 CONF:0.8
+A-Sinapic acid E-Inhibition T-NfkB T-NO ==> S-Inflammation T-TNFa T-IL-6 Ty-In vivo SUP:4 CONF:0.8
+A-Sinapic acid S-Inflammation Ty-In vivo T-IL-6 ==> E-Inhibition T-NfkB T-TNFa T-NO SUP:4 CONF:0.8
+A-Sinapic acid S-Inflammation T-NfkB T-NO ==> E-Inhibition T-TNFa T-IL-6 Ty-In vivo SUP:4 CONF:0.8
+Ty-In vivo T-TNFa T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB T-NO SUP:4 CONF:0.8
+Ty-In vivo T-NfkB T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-TNFa T-NO SUP:4 CONF:0.8
+T-NfkB T-NO T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-TNFa Ty-In vivo SUP:4 CONF:0.8
+T-NfkB T-TNFa T-NO ==> A-Sinapic acid S-Inflammation E-Inhibition T-IL-6 Ty-In vivo SUP:4 CONF:0.8
+E-Inhibition Ty-In vivo T-IL-6 ==> A-Sinapic acid S-Inflammation T-NfkB T-TNFa T-NO SUP:4 CONF:0.8
+E-Inhibition T-NfkB T-NO ==> A-Sinapic acid S-Inflammation T-TNFa T-IL-6 Ty-In vivo SUP:4 CONF:0.8
+S-Inflammation Ty-In vivo T-IL-6 ==> A-Sinapic acid E-Inhibition T-NfkB T-TNFa T-NO SUP:4 CONF:0.8
+S-Inflammation T-NfkB T-NO ==> A-Sinapic acid E-Inhibition T-TNFa T-IL-6 Ty-In vivo SUP:4 CONF:0.8
+A-Sinapic acid Ty-In vivo T-IL-6 ==> S-Inflammation E-Inhibition T-NfkB T-TNFa T-NO SUP:4 CONF:0.8
+A-Sinapic acid T-NfkB T-NO ==> S-Inflammation E-Inhibition T-TNFa T-IL-6 Ty-In vivo SUP:4 CONF:0.8
+Ty-In vivo T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB T-TNFa T-NO SUP:4 CONF:0.8
+T-NfkB T-NO ==> A-Sinapic acid S-Inflammation E-Inhibition T-TNFa T-IL-6 Ty-In vivo SUP:4 CONF:0.8
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-TNFa T-IL-6 ==> T-IL-1b T-oxydative stress SUP:4 CONF:0.8
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-TNFa T-IL-1b ==> T-IL-6 T-oxydative stress SUP:4 CONF:0.8
+E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-TNFa T-IL-6 ==> A-Sinapic acid T-IL-1b T-oxydative stress SUP:4 CONF:0.8
+E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-TNFa T-IL-1b ==> A-Sinapic acid T-IL-6 T-oxydative stress SUP:4 CONF:0.8
+A-Sinapic acid E-Inhibition Ty-In vivo T-NfkB T-TNFa T-IL-6 ==> S-Inflammation T-IL-1b T-oxydative stress SUP:4 CONF:0.8
+A-Sinapic acid E-Inhibition Ty-In vivo T-NfkB T-TNFa T-IL-1b ==> S-Inflammation T-IL-6 T-oxydative stress SUP:4 CONF:0.8
+A-Sinapic acid S-Inflammation Ty-In vivo T-NfkB T-TNFa T-IL-6 ==> E-Inhibition T-IL-1b T-oxydative stress SUP:4 CONF:0.8
+A-Sinapic acid S-Inflammation Ty-In vivo T-NfkB T-TNFa T-IL-1b ==> E-Inhibition T-IL-6 T-oxydative stress SUP:4 CONF:0.8
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-TNFa T-IL-6 ==> T-NfkB T-IL-1b T-oxydative stress SUP:4 CONF:0.8
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-TNFa T-IL-1b ==> T-NfkB T-IL-6 T-oxydative stress SUP:4 CONF:0.8
+A-Sinapic acid E-Inhibition S-Inflammation T-TNFa T-IL-1b T-IL-6 ==> T-NfkB Ty-In vivo T-oxydative stress SUP:4 CONF:0.8
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-IL-6 ==> T-IL-1b T-TNFa T-oxydative stress SUP:4 CONF:0.8
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-IL-1b ==> T-TNFa T-IL-6 T-oxydative stress SUP:4 CONF:0.8
+E-Inhibition Ty-In vivo T-NfkB T-TNFa T-IL-6 ==> A-Sinapic acid S-Inflammation T-IL-1b T-oxydative stress SUP:4 CONF:0.8
+E-Inhibition Ty-In vivo T-NfkB T-TNFa T-IL-1b ==> A-Sinapic acid S-Inflammation T-IL-6 T-oxydative stress SUP:4 CONF:0.8
+S-Inflammation Ty-In vivo T-NfkB T-TNFa T-IL-6 ==> A-Sinapic acid E-Inhibition T-IL-1b T-oxydative stress SUP:4 CONF:0.8
+S-Inflammation Ty-In vivo T-NfkB T-TNFa T-IL-1b ==> A-Sinapic acid E-Inhibition T-IL-6 T-oxydative stress SUP:4 CONF:0.8
+E-Inhibition S-Inflammation Ty-In vivo T-TNFa T-IL-6 ==> A-Sinapic acid T-NfkB T-IL-1b T-oxydative stress SUP:4 CONF:0.8
+E-Inhibition S-Inflammation Ty-In vivo T-TNFa T-IL-1b ==> A-Sinapic acid T-NfkB T-IL-6 T-oxydative stress SUP:4 CONF:0.8
+E-Inhibition S-Inflammation T-TNFa T-IL-1b T-IL-6 ==> A-Sinapic acid T-NfkB Ty-In vivo T-oxydative stress SUP:4 CONF:0.8
+E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-IL-6 ==> A-Sinapic acid T-IL-1b T-TNFa T-oxydative stress SUP:4 CONF:0.8
+E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-IL-1b ==> A-Sinapic acid T-TNFa T-IL-6 T-oxydative stress SUP:4 CONF:0.8
+A-Sinapic acid Ty-In vivo T-NfkB T-TNFa T-IL-6 ==> S-Inflammation E-Inhibition T-IL-1b T-oxydative stress SUP:4 CONF:0.8
+A-Sinapic acid Ty-In vivo T-NfkB T-TNFa T-IL-1b ==> S-Inflammation E-Inhibition T-IL-6 T-oxydative stress SUP:4 CONF:0.8
+A-Sinapic acid E-Inhibition Ty-In vivo T-TNFa T-IL-6 ==> S-Inflammation T-NfkB T-IL-1b T-oxydative stress SUP:4 CONF:0.8
+A-Sinapic acid E-Inhibition Ty-In vivo T-TNFa T-IL-1b ==> S-Inflammation T-NfkB T-IL-6 T-oxydative stress SUP:4 CONF:0.8
+A-Sinapic acid E-Inhibition T-TNFa T-IL-1b T-IL-6 ==> S-Inflammation T-NfkB Ty-In vivo T-oxydative stress SUP:4 CONF:0.8
+A-Sinapic acid E-Inhibition Ty-In vivo T-NfkB T-IL-6 ==> S-Inflammation T-IL-1b T-TNFa T-oxydative stress SUP:4 CONF:0.8
+A-Sinapic acid E-Inhibition Ty-In vivo T-NfkB T-IL-1b ==> S-Inflammation T-TNFa T-IL-6 T-oxydative stress SUP:4 CONF:0.8
+A-Sinapic acid S-Inflammation Ty-In vivo T-TNFa T-IL-6 ==> E-Inhibition T-NfkB T-IL-1b T-oxydative stress SUP:4 CONF:0.8
+A-Sinapic acid S-Inflammation Ty-In vivo T-TNFa T-IL-1b ==> E-Inhibition T-NfkB T-IL-6 T-oxydative stress SUP:4 CONF:0.8
+A-Sinapic acid S-Inflammation T-TNFa T-IL-1b T-IL-6 ==> E-Inhibition T-NfkB Ty-In vivo T-oxydative stress SUP:4 CONF:0.8
+A-Sinapic acid S-Inflammation Ty-In vivo T-NfkB T-IL-6 ==> E-Inhibition T-IL-1b T-TNFa T-oxydative stress SUP:4 CONF:0.8
+A-Sinapic acid S-Inflammation Ty-In vivo T-NfkB T-IL-1b ==> E-Inhibition T-TNFa T-IL-6 T-oxydative stress SUP:4 CONF:0.8
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-IL-6 ==> T-NfkB T-IL-1b T-TNFa T-oxydative stress SUP:4 CONF:0.8
+A-Sinapic acid E-Inhibition S-Inflammation T-IL-1b T-IL-6 ==> T-NfkB T-TNFa Ty-In vivo T-oxydative stress SUP:4 CONF:0.8
+Ty-In vivo T-NfkB T-TNFa T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-IL-1b T-oxydative stress SUP:4 CONF:0.8
+Ty-In vivo T-NfkB T-TNFa T-IL-1b ==> A-Sinapic acid S-Inflammation E-Inhibition T-IL-6 T-oxydative stress SUP:4 CONF:0.8
+E-Inhibition Ty-In vivo T-TNFa T-IL-6 ==> A-Sinapic acid S-Inflammation T-NfkB T-IL-1b T-oxydative stress SUP:4 CONF:0.8
+E-Inhibition Ty-In vivo T-TNFa T-IL-1b ==> A-Sinapic acid S-Inflammation T-NfkB T-IL-6 T-oxydative stress SUP:4 CONF:0.8
+E-Inhibition T-TNFa T-IL-1b T-IL-6 ==> A-Sinapic acid S-Inflammation T-NfkB Ty-In vivo T-oxydative stress SUP:4 CONF:0.8
+E-Inhibition Ty-In vivo T-NfkB T-IL-6 ==> A-Sinapic acid S-Inflammation T-IL-1b T-TNFa T-oxydative stress SUP:4 CONF:0.8
+E-Inhibition Ty-In vivo T-NfkB T-IL-1b ==> A-Sinapic acid S-Inflammation T-TNFa T-IL-6 T-oxydative stress SUP:4 CONF:0.8
+S-Inflammation Ty-In vivo T-TNFa T-IL-6 ==> A-Sinapic acid E-Inhibition T-NfkB T-IL-1b T-oxydative stress SUP:4 CONF:0.8
+S-Inflammation Ty-In vivo T-TNFa T-IL-1b ==> A-Sinapic acid E-Inhibition T-NfkB T-IL-6 T-oxydative stress SUP:4 CONF:0.8
+S-Inflammation T-TNFa T-IL-1b T-IL-6 ==> A-Sinapic acid E-Inhibition T-NfkB Ty-In vivo T-oxydative stress SUP:4 CONF:0.8
+S-Inflammation Ty-In vivo T-NfkB T-IL-6 ==> A-Sinapic acid E-Inhibition T-IL-1b T-TNFa T-oxydative stress SUP:4 CONF:0.8
+S-Inflammation Ty-In vivo T-NfkB T-IL-1b ==> A-Sinapic acid E-Inhibition T-TNFa T-IL-6 T-oxydative stress SUP:4 CONF:0.8
+E-Inhibition S-Inflammation Ty-In vivo T-IL-6 ==> A-Sinapic acid T-NfkB T-IL-1b T-TNFa T-oxydative stress SUP:4 CONF:0.8
+E-Inhibition S-Inflammation T-IL-1b T-IL-6 ==> A-Sinapic acid T-NfkB T-TNFa Ty-In vivo T-oxydative stress SUP:4 CONF:0.8
+A-Sinapic acid Ty-In vivo T-TNFa T-IL-6 ==> S-Inflammation E-Inhibition T-NfkB T-IL-1b T-oxydative stress SUP:4 CONF:0.8
+A-Sinapic acid Ty-In vivo T-TNFa T-IL-1b ==> S-Inflammation E-Inhibition T-NfkB T-IL-6 T-oxydative stress SUP:4 CONF:0.8
+A-Sinapic acid T-TNFa T-IL-1b T-IL-6 ==> S-Inflammation E-Inhibition T-NfkB Ty-In vivo T-oxydative stress SUP:4 CONF:0.8
+A-Sinapic acid Ty-In vivo T-NfkB T-IL-6 ==> S-Inflammation E-Inhibition T-IL-1b T-TNFa T-oxydative stress SUP:4 CONF:0.8
+A-Sinapic acid Ty-In vivo T-NfkB T-IL-1b ==> S-Inflammation E-Inhibition T-TNFa T-IL-6 T-oxydative stress SUP:4 CONF:0.8
+A-Sinapic acid E-Inhibition Ty-In vivo T-IL-6 ==> S-Inflammation T-NfkB T-IL-1b T-TNFa T-oxydative stress SUP:4 CONF:0.8
+A-Sinapic acid E-Inhibition T-IL-1b T-IL-6 ==> S-Inflammation T-NfkB T-TNFa Ty-In vivo T-oxydative stress SUP:4 CONF:0.8
+A-Sinapic acid S-Inflammation Ty-In vivo T-IL-6 ==> E-Inhibition T-NfkB T-IL-1b T-TNFa T-oxydative stress SUP:4 CONF:0.8
+A-Sinapic acid S-Inflammation T-IL-1b T-IL-6 ==> E-Inhibition T-NfkB T-TNFa Ty-In vivo T-oxydative stress SUP:4 CONF:0.8
+Ty-In vivo T-TNFa T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB T-IL-1b T-oxydative stress SUP:4 CONF:0.8
+Ty-In vivo T-TNFa T-IL-1b ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB T-IL-6 T-oxydative stress SUP:4 CONF:0.8
+T-TNFa T-IL-1b T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB Ty-In vivo T-oxydative stress SUP:4 CONF:0.8
+Ty-In vivo T-NfkB T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-IL-1b T-TNFa T-oxydative stress SUP:4 CONF:0.8
+Ty-In vivo T-NfkB T-IL-1b ==> A-Sinapic acid S-Inflammation E-Inhibition T-TNFa T-IL-6 T-oxydative stress SUP:4 CONF:0.8
+E-Inhibition Ty-In vivo T-IL-6 ==> A-Sinapic acid S-Inflammation T-NfkB T-IL-1b T-TNFa T-oxydative stress SUP:4 CONF:0.8
+E-Inhibition T-IL-1b T-IL-6 ==> A-Sinapic acid S-Inflammation T-NfkB T-TNFa Ty-In vivo T-oxydative stress SUP:4 CONF:0.8
+S-Inflammation Ty-In vivo T-IL-6 ==> A-Sinapic acid E-Inhibition T-NfkB T-IL-1b T-TNFa T-oxydative stress SUP:4 CONF:0.8
+S-Inflammation T-IL-1b T-IL-6 ==> A-Sinapic acid E-Inhibition T-NfkB T-TNFa Ty-In vivo T-oxydative stress SUP:4 CONF:0.8
+E-Inhibition S-Inflammation T-oxydative stress ==> A-Sinapic acid T-NfkB T-IL-1b T-TNFa T-IL-6 Ty-In vivo SUP:4 CONF:0.8
+A-Sinapic acid Ty-In vivo T-IL-6 ==> S-Inflammation E-Inhibition T-NfkB T-IL-1b T-TNFa T-oxydative stress SUP:4 CONF:0.8
+A-Sinapic acid T-IL-1b T-IL-6 ==> S-Inflammation E-Inhibition T-NfkB T-TNFa Ty-In vivo T-oxydative stress SUP:4 CONF:0.8
+A-Sinapic acid E-Inhibition T-oxydative stress ==> S-Inflammation T-NfkB T-IL-1b T-TNFa T-IL-6 Ty-In vivo SUP:4 CONF:0.8
+Ty-In vivo T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB T-IL-1b T-TNFa T-oxydative stress SUP:4 CONF:0.8
+T-IL-1b T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB T-TNFa Ty-In vivo T-oxydative stress SUP:4 CONF:0.8
+T-oxydative stress ==> A-Sinapic acid SUP:7 CONF:0.7777777777777778
+T-oxydative stress ==> S-Inflammation SUP:7 CONF:0.7777777777777778
+T-oxydative stress ==> E-Inhibition SUP:7 CONF:0.7777777777777778
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB ==> T-IL-6 SUP:7 CONF:0.7777777777777778
+E-Inhibition S-Inflammation T-NfkB ==> A-Sinapic acid T-IL-6 SUP:7 CONF:0.7777777777777778
+A-Sinapic acid E-Inhibition T-NfkB ==> S-Inflammation T-IL-6 SUP:7 CONF:0.7777777777777778
+A-Sinapic acid S-Inflammation T-NfkB ==> E-Inhibition T-IL-6 SUP:7 CONF:0.7777777777777778
+E-Inhibition T-NfkB ==> A-Sinapic acid S-Inflammation T-IL-6 SUP:7 CONF:0.7777777777777778
+S-Inflammation T-NfkB ==> A-Sinapic acid E-Inhibition T-IL-6 SUP:7 CONF:0.7777777777777778
+A-Sinapic acid T-NfkB ==> S-Inflammation E-Inhibition T-IL-6 SUP:7 CONF:0.7777777777777778
+E-Inhibition S-Inflammation Ty-In vitro ==> A-Sinapic acid SUP:6 CONF:0.75
+S-Inflammation Ty-In vitro ==> A-Sinapic acid E-Inhibition SUP:6 CONF:0.75
+A-Sinapic acid Ty-In vivo T-NO ==> S-Inflammation SUP:6 CONF:0.75
+A-Sinapic acid S-Inflammation T-NO ==> Ty-In vivo SUP:6 CONF:0.75
+Ty-In vivo T-NO ==> A-Sinapic acid S-Inflammation SUP:6 CONF:0.75
+S-Inflammation T-NO ==> A-Sinapic acid Ty-In vivo SUP:6 CONF:0.75
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo ==> T-IL-1b SUP:6 CONF:0.75
+A-Sinapic acid E-Inhibition S-Inflammation T-IL-1b ==> Ty-In vivo SUP:6 CONF:0.75
+E-Inhibition S-Inflammation Ty-In vivo ==> A-Sinapic acid T-IL-1b SUP:6 CONF:0.75
+E-Inhibition S-Inflammation T-IL-1b ==> A-Sinapic acid Ty-In vivo SUP:6 CONF:0.75
+A-Sinapic acid E-Inhibition Ty-In vivo ==> S-Inflammation T-IL-1b SUP:6 CONF:0.75
+A-Sinapic acid E-Inhibition T-IL-1b ==> S-Inflammation Ty-In vivo SUP:6 CONF:0.75
+A-Sinapic acid S-Inflammation T-IL-1b ==> E-Inhibition Ty-In vivo SUP:6 CONF:0.75
+E-Inhibition Ty-In vivo ==> A-Sinapic acid S-Inflammation T-IL-1b SUP:6 CONF:0.75
+E-Inhibition T-IL-1b ==> A-Sinapic acid S-Inflammation Ty-In vivo SUP:6 CONF:0.75
+S-Inflammation T-IL-1b ==> A-Sinapic acid E-Inhibition Ty-In vivo SUP:6 CONF:0.75
+A-Sinapic acid T-IL-1b ==> S-Inflammation E-Inhibition Ty-In vivo SUP:6 CONF:0.75
+T-IL-1b ==> A-Sinapic acid S-Inflammation E-Inhibition Ty-In vivo SUP:6 CONF:0.75
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB T-TNFa ==> T-IL-1b SUP:6 CONF:0.75
+E-Inhibition S-Inflammation T-NfkB T-TNFa ==> A-Sinapic acid T-IL-1b SUP:6 CONF:0.75
+A-Sinapic acid E-Inhibition T-NfkB T-TNFa ==> S-Inflammation T-IL-1b SUP:6 CONF:0.75
+A-Sinapic acid S-Inflammation T-NfkB T-TNFa ==> E-Inhibition T-IL-1b SUP:6 CONF:0.75
+A-Sinapic acid E-Inhibition S-Inflammation T-IL-1b ==> T-NfkB T-TNFa SUP:6 CONF:0.75
+E-Inhibition T-NfkB T-TNFa ==> A-Sinapic acid S-Inflammation T-IL-1b SUP:6 CONF:0.75
+S-Inflammation T-NfkB T-TNFa ==> A-Sinapic acid E-Inhibition T-IL-1b SUP:6 CONF:0.75
+E-Inhibition S-Inflammation T-IL-1b ==> A-Sinapic acid T-NfkB T-TNFa SUP:6 CONF:0.75
+A-Sinapic acid T-NfkB T-TNFa ==> S-Inflammation E-Inhibition T-IL-1b SUP:6 CONF:0.75
+A-Sinapic acid E-Inhibition T-IL-1b ==> S-Inflammation T-NfkB T-TNFa SUP:6 CONF:0.75
+A-Sinapic acid S-Inflammation T-IL-1b ==> E-Inhibition T-NfkB T-TNFa SUP:6 CONF:0.75
+T-NfkB T-TNFa ==> A-Sinapic acid S-Inflammation E-Inhibition T-IL-1b SUP:6 CONF:0.75
+E-Inhibition T-IL-1b ==> A-Sinapic acid S-Inflammation T-NfkB T-TNFa SUP:6 CONF:0.75
+S-Inflammation T-IL-1b ==> A-Sinapic acid E-Inhibition T-NfkB T-TNFa SUP:6 CONF:0.75
+A-Sinapic acid T-IL-1b ==> S-Inflammation E-Inhibition T-NfkB T-TNFa SUP:6 CONF:0.75
+T-IL-1b ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB T-TNFa SUP:6 CONF:0.75
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB T-TNFa ==> T-IL-6 SUP:6 CONF:0.75
+E-Inhibition S-Inflammation T-NfkB T-TNFa ==> A-Sinapic acid T-IL-6 SUP:6 CONF:0.75
+A-Sinapic acid E-Inhibition T-NfkB T-TNFa ==> S-Inflammation T-IL-6 SUP:6 CONF:0.75
+A-Sinapic acid S-Inflammation T-NfkB T-TNFa ==> E-Inhibition T-IL-6 SUP:6 CONF:0.75
+A-Sinapic acid E-Inhibition S-Inflammation T-IL-6 ==> T-NfkB T-TNFa SUP:6 CONF:0.75
+E-Inhibition T-NfkB T-TNFa ==> A-Sinapic acid S-Inflammation T-IL-6 SUP:6 CONF:0.75
+S-Inflammation T-NfkB T-TNFa ==> A-Sinapic acid E-Inhibition T-IL-6 SUP:6 CONF:0.75
+E-Inhibition S-Inflammation T-IL-6 ==> A-Sinapic acid T-NfkB T-TNFa SUP:6 CONF:0.75
+A-Sinapic acid T-NfkB T-TNFa ==> S-Inflammation E-Inhibition T-IL-6 SUP:6 CONF:0.75
+A-Sinapic acid E-Inhibition T-IL-6 ==> S-Inflammation T-NfkB T-TNFa SUP:6 CONF:0.75
+A-Sinapic acid S-Inflammation T-IL-6 ==> E-Inhibition T-NfkB T-TNFa SUP:6 CONF:0.75
+T-NfkB T-TNFa ==> A-Sinapic acid S-Inflammation E-Inhibition T-IL-6 SUP:6 CONF:0.75
+E-Inhibition T-IL-6 ==> A-Sinapic acid S-Inflammation T-NfkB T-TNFa SUP:6 CONF:0.75
+S-Inflammation T-IL-6 ==> A-Sinapic acid E-Inhibition T-NfkB T-TNFa SUP:6 CONF:0.75
+A-Sinapic acid T-IL-6 ==> S-Inflammation E-Inhibition T-NfkB T-TNFa SUP:6 CONF:0.75
+T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB T-TNFa SUP:6 CONF:0.75
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB T-TNFa ==> Ty-In vivo SUP:6 CONF:0.75
+E-Inhibition S-Inflammation T-NfkB T-TNFa ==> A-Sinapic acid Ty-In vivo SUP:6 CONF:0.75
+A-Sinapic acid E-Inhibition T-NfkB T-TNFa ==> S-Inflammation Ty-In vivo SUP:6 CONF:0.75
+A-Sinapic acid S-Inflammation T-NfkB T-TNFa ==> E-Inhibition Ty-In vivo SUP:6 CONF:0.75
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo ==> T-NfkB T-TNFa SUP:6 CONF:0.75
+E-Inhibition T-NfkB T-TNFa ==> A-Sinapic acid S-Inflammation Ty-In vivo SUP:6 CONF:0.75
+S-Inflammation T-NfkB T-TNFa ==> A-Sinapic acid E-Inhibition Ty-In vivo SUP:6 CONF:0.75
+E-Inhibition S-Inflammation Ty-In vivo ==> A-Sinapic acid T-NfkB T-TNFa SUP:6 CONF:0.75
+A-Sinapic acid T-NfkB T-TNFa ==> S-Inflammation E-Inhibition Ty-In vivo SUP:6 CONF:0.75
+A-Sinapic acid E-Inhibition Ty-In vivo ==> S-Inflammation T-NfkB T-TNFa SUP:6 CONF:0.75
+T-NfkB T-TNFa ==> A-Sinapic acid S-Inflammation E-Inhibition Ty-In vivo SUP:6 CONF:0.75
+E-Inhibition Ty-In vivo ==> A-Sinapic acid S-Inflammation T-NfkB T-TNFa SUP:6 CONF:0.75
+A-Sinapic acid E-Inhibition S-Inflammation T-IL-6 ==> T-TNFa T-NO SUP:6 CONF:0.75
+E-Inhibition S-Inflammation T-IL-6 ==> A-Sinapic acid T-TNFa T-NO SUP:6 CONF:0.75
+A-Sinapic acid E-Inhibition T-IL-6 ==> S-Inflammation T-TNFa T-NO SUP:6 CONF:0.75
+A-Sinapic acid S-Inflammation T-IL-6 ==> E-Inhibition T-TNFa T-NO SUP:6 CONF:0.75
+A-Sinapic acid S-Inflammation T-NO ==> E-Inhibition T-TNFa T-IL-6 SUP:6 CONF:0.75
+E-Inhibition T-IL-6 ==> A-Sinapic acid S-Inflammation T-TNFa T-NO SUP:6 CONF:0.75
+S-Inflammation T-IL-6 ==> A-Sinapic acid E-Inhibition T-TNFa T-NO SUP:6 CONF:0.75
+S-Inflammation T-NO ==> A-Sinapic acid E-Inhibition T-TNFa T-IL-6 SUP:6 CONF:0.75
+A-Sinapic acid T-IL-6 ==> S-Inflammation E-Inhibition T-TNFa T-NO SUP:6 CONF:0.75
+T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-TNFa T-NO SUP:6 CONF:0.75
+A-Sinapic acid ==> S-Inflammation SUP:20 CONF:0.7407407407407407
+E-Inhibition ==> A-Sinapic acid SUP:17 CONF:0.7391304347826086
+S-Inflammation ==> E-Inhibition SUP:16 CONF:0.7272727272727273
+E-Inhibition Ty-In vitro ==> S-Inflammation SUP:8 CONF:0.7272727272727273
+A-Sinapic acid E-Inhibition S-Inflammation ==> T-TNFa SUP:10 CONF:0.7142857142857143
+E-Inhibition T-oxydative stress ==> A-Sinapic acid SUP:5 CONF:0.7142857142857143
+A-Sinapic acid T-oxydative stress ==> E-Inhibition SUP:5 CONF:0.7142857142857143
+E-Inhibition T-oxydative stress ==> S-Inflammation SUP:5 CONF:0.7142857142857143
+S-Inflammation T-oxydative stress ==> E-Inhibition SUP:5 CONF:0.7142857142857143
+A-Sinapic acid T-nan ==> I-gentamicin T-cell death B-nan SUP:5 CONF:0.7142857142857143
+T-nan ==> A-Sinapic acid I-gentamicin T-cell death B-nan SUP:5 CONF:0.7142857142857143
+A-Sinapic acid E-Inhibition S-Inflammation T-TNFa T-IL-6 ==> T-IL-1b SUP:5 CONF:0.7142857142857143
+A-Sinapic acid E-Inhibition S-Inflammation T-TNFa T-IL-1b ==> T-IL-6 SUP:5 CONF:0.7142857142857143
+E-Inhibition S-Inflammation T-TNFa T-IL-6 ==> A-Sinapic acid T-IL-1b SUP:5 CONF:0.7142857142857143
+E-Inhibition S-Inflammation T-TNFa T-IL-1b ==> A-Sinapic acid T-IL-6 SUP:5 CONF:0.7142857142857143
+A-Sinapic acid E-Inhibition T-TNFa T-IL-6 ==> S-Inflammation T-IL-1b SUP:5 CONF:0.7142857142857143
+A-Sinapic acid E-Inhibition T-TNFa T-IL-1b ==> S-Inflammation T-IL-6 SUP:5 CONF:0.7142857142857143
+A-Sinapic acid S-Inflammation T-TNFa T-IL-6 ==> E-Inhibition T-IL-1b SUP:5 CONF:0.7142857142857143
+A-Sinapic acid S-Inflammation T-TNFa T-IL-1b ==> E-Inhibition T-IL-6 SUP:5 CONF:0.7142857142857143
+E-Inhibition T-TNFa T-IL-6 ==> A-Sinapic acid S-Inflammation T-IL-1b SUP:5 CONF:0.7142857142857143
+E-Inhibition T-TNFa T-IL-1b ==> A-Sinapic acid S-Inflammation T-IL-6 SUP:5 CONF:0.7142857142857143
+S-Inflammation T-TNFa T-IL-6 ==> A-Sinapic acid E-Inhibition T-IL-1b SUP:5 CONF:0.7142857142857143
+S-Inflammation T-TNFa T-IL-1b ==> A-Sinapic acid E-Inhibition T-IL-6 SUP:5 CONF:0.7142857142857143
+A-Sinapic acid T-TNFa T-IL-6 ==> S-Inflammation E-Inhibition T-IL-1b SUP:5 CONF:0.7142857142857143
+A-Sinapic acid T-TNFa T-IL-1b ==> S-Inflammation E-Inhibition T-IL-6 SUP:5 CONF:0.7142857142857143
+T-TNFa T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-IL-1b SUP:5 CONF:0.7142857142857143
+T-TNFa T-IL-1b ==> A-Sinapic acid S-Inflammation E-Inhibition T-IL-6 SUP:5 CONF:0.7142857142857143
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-TNFa ==> T-NfkB T-IL-1b SUP:5 CONF:0.7142857142857143
+A-Sinapic acid E-Inhibition S-Inflammation T-TNFa T-IL-1b ==> T-NfkB Ty-In vivo SUP:5 CONF:0.7142857142857143
+E-Inhibition S-Inflammation Ty-In vivo T-TNFa ==> A-Sinapic acid T-NfkB T-IL-1b SUP:5 CONF:0.7142857142857143
+E-Inhibition S-Inflammation T-TNFa T-IL-1b ==> A-Sinapic acid T-NfkB Ty-In vivo SUP:5 CONF:0.7142857142857143
+A-Sinapic acid E-Inhibition Ty-In vivo T-TNFa ==> S-Inflammation T-NfkB T-IL-1b SUP:5 CONF:0.7142857142857143
+A-Sinapic acid E-Inhibition T-TNFa T-IL-1b ==> S-Inflammation T-NfkB Ty-In vivo SUP:5 CONF:0.7142857142857143
+A-Sinapic acid S-Inflammation Ty-In vivo T-TNFa ==> E-Inhibition T-NfkB T-IL-1b SUP:5 CONF:0.7142857142857143
+A-Sinapic acid S-Inflammation T-TNFa T-IL-1b ==> E-Inhibition T-NfkB Ty-In vivo SUP:5 CONF:0.7142857142857143
+E-Inhibition Ty-In vivo T-TNFa ==> A-Sinapic acid S-Inflammation T-NfkB T-IL-1b SUP:5 CONF:0.7142857142857143
+E-Inhibition T-TNFa T-IL-1b ==> A-Sinapic acid S-Inflammation T-NfkB Ty-In vivo SUP:5 CONF:0.7142857142857143
+S-Inflammation Ty-In vivo T-TNFa ==> A-Sinapic acid E-Inhibition T-NfkB T-IL-1b SUP:5 CONF:0.7142857142857143
+S-Inflammation T-TNFa T-IL-1b ==> A-Sinapic acid E-Inhibition T-NfkB Ty-In vivo SUP:5 CONF:0.7142857142857143
+A-Sinapic acid Ty-In vivo T-TNFa ==> S-Inflammation E-Inhibition T-NfkB T-IL-1b SUP:5 CONF:0.7142857142857143
+A-Sinapic acid T-TNFa T-IL-1b ==> S-Inflammation E-Inhibition T-NfkB Ty-In vivo SUP:5 CONF:0.7142857142857143
+Ty-In vivo T-TNFa ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB T-IL-1b SUP:5 CONF:0.7142857142857143
+T-TNFa T-IL-1b ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB Ty-In vivo SUP:5 CONF:0.7142857142857143
+A-Sinapic acid E-Inhibition S-Inflammation T-TNFa T-IL-6 ==> T-NfkB T-NO SUP:5 CONF:0.7142857142857143
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB T-IL-6 ==> T-TNFa T-NO SUP:5 CONF:0.7142857142857143
+E-Inhibition S-Inflammation T-TNFa T-IL-6 ==> A-Sinapic acid T-NfkB T-NO SUP:5 CONF:0.7142857142857143
+E-Inhibition S-Inflammation T-NfkB T-IL-6 ==> A-Sinapic acid T-TNFa T-NO SUP:5 CONF:0.7142857142857143
+A-Sinapic acid E-Inhibition T-TNFa T-IL-6 ==> S-Inflammation T-NfkB T-NO SUP:5 CONF:0.7142857142857143
+A-Sinapic acid E-Inhibition T-NfkB T-IL-6 ==> S-Inflammation T-TNFa T-NO SUP:5 CONF:0.7142857142857143
+A-Sinapic acid S-Inflammation T-TNFa T-IL-6 ==> E-Inhibition T-NfkB T-NO SUP:5 CONF:0.7142857142857143
+A-Sinapic acid S-Inflammation T-NfkB T-IL-6 ==> E-Inhibition T-TNFa T-NO SUP:5 CONF:0.7142857142857143
+E-Inhibition T-TNFa T-IL-6 ==> A-Sinapic acid S-Inflammation T-NfkB T-NO SUP:5 CONF:0.7142857142857143
+E-Inhibition T-NfkB T-IL-6 ==> A-Sinapic acid S-Inflammation T-TNFa T-NO SUP:5 CONF:0.7142857142857143
+S-Inflammation T-TNFa T-IL-6 ==> A-Sinapic acid E-Inhibition T-NfkB T-NO SUP:5 CONF:0.7142857142857143
+S-Inflammation T-NfkB T-IL-6 ==> A-Sinapic acid E-Inhibition T-TNFa T-NO SUP:5 CONF:0.7142857142857143
+A-Sinapic acid T-TNFa T-IL-6 ==> S-Inflammation E-Inhibition T-NfkB T-NO SUP:5 CONF:0.7142857142857143
+A-Sinapic acid T-NfkB T-IL-6 ==> S-Inflammation E-Inhibition T-TNFa T-NO SUP:5 CONF:0.7142857142857143
+T-TNFa T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB T-NO SUP:5 CONF:0.7142857142857143
+T-NfkB T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-TNFa T-NO SUP:5 CONF:0.7142857142857143
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-TNFa ==> T-NfkB T-IL-6 SUP:5 CONF:0.7142857142857143
+A-Sinapic acid E-Inhibition S-Inflammation T-TNFa T-IL-6 ==> T-NfkB Ty-In vivo SUP:5 CONF:0.7142857142857143
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB T-IL-6 ==> T-TNFa Ty-In vivo SUP:5 CONF:0.7142857142857143
+E-Inhibition S-Inflammation Ty-In vivo T-TNFa ==> A-Sinapic acid T-NfkB T-IL-6 SUP:5 CONF:0.7142857142857143
+E-Inhibition S-Inflammation T-TNFa T-IL-6 ==> A-Sinapic acid T-NfkB Ty-In vivo SUP:5 CONF:0.7142857142857143
+E-Inhibition S-Inflammation T-NfkB T-IL-6 ==> A-Sinapic acid T-TNFa Ty-In vivo SUP:5 CONF:0.7142857142857143
+A-Sinapic acid E-Inhibition Ty-In vivo T-TNFa ==> S-Inflammation T-NfkB T-IL-6 SUP:5 CONF:0.7142857142857143
+A-Sinapic acid E-Inhibition T-TNFa T-IL-6 ==> S-Inflammation T-NfkB Ty-In vivo SUP:5 CONF:0.7142857142857143
+A-Sinapic acid E-Inhibition T-NfkB T-IL-6 ==> S-Inflammation T-TNFa Ty-In vivo SUP:5 CONF:0.7142857142857143
+A-Sinapic acid S-Inflammation Ty-In vivo T-TNFa ==> E-Inhibition T-NfkB T-IL-6 SUP:5 CONF:0.7142857142857143
+A-Sinapic acid S-Inflammation T-TNFa T-IL-6 ==> E-Inhibition T-NfkB Ty-In vivo SUP:5 CONF:0.7142857142857143
+A-Sinapic acid S-Inflammation T-NfkB T-IL-6 ==> E-Inhibition T-TNFa Ty-In vivo SUP:5 CONF:0.7142857142857143
+E-Inhibition Ty-In vivo T-TNFa ==> A-Sinapic acid S-Inflammation T-NfkB T-IL-6 SUP:5 CONF:0.7142857142857143
+E-Inhibition T-TNFa T-IL-6 ==> A-Sinapic acid S-Inflammation T-NfkB Ty-In vivo SUP:5 CONF:0.7142857142857143
+E-Inhibition T-NfkB T-IL-6 ==> A-Sinapic acid S-Inflammation T-TNFa Ty-In vivo SUP:5 CONF:0.7142857142857143
+S-Inflammation Ty-In vivo T-TNFa ==> A-Sinapic acid E-Inhibition T-NfkB T-IL-6 SUP:5 CONF:0.7142857142857143
+S-Inflammation T-TNFa T-IL-6 ==> A-Sinapic acid E-Inhibition T-NfkB Ty-In vivo SUP:5 CONF:0.7142857142857143
+S-Inflammation T-NfkB T-IL-6 ==> A-Sinapic acid E-Inhibition T-TNFa Ty-In vivo SUP:5 CONF:0.7142857142857143
+A-Sinapic acid Ty-In vivo T-TNFa ==> S-Inflammation E-Inhibition T-NfkB T-IL-6 SUP:5 CONF:0.7142857142857143
+A-Sinapic acid T-TNFa T-IL-6 ==> S-Inflammation E-Inhibition T-NfkB Ty-In vivo SUP:5 CONF:0.7142857142857143
+A-Sinapic acid T-NfkB T-IL-6 ==> S-Inflammation E-Inhibition T-TNFa Ty-In vivo SUP:5 CONF:0.7142857142857143
+Ty-In vivo T-TNFa ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB T-IL-6 SUP:5 CONF:0.7142857142857143
+T-TNFa T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB Ty-In vivo SUP:5 CONF:0.7142857142857143
+T-NfkB T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-TNFa Ty-In vivo SUP:5 CONF:0.7142857142857143
+A-Sinapic acid S-Inflammation ==> E-Inhibition SUP:14 CONF:0.7
+A-Sinapic acid S-Inflammation ==> Ty-In vivo SUP:14 CONF:0.7
+T-NfkB ==> A-Sinapic acid S-Inflammation E-Inhibition T-IL-6 SUP:7 CONF:0.7
+A-Sinapic acid E-Inhibition S-Inflammation T-TNFa ==> T-IL-1b SUP:7 CONF:0.7
+E-Inhibition S-Inflammation T-TNFa ==> A-Sinapic acid T-IL-1b SUP:7 CONF:0.7
+A-Sinapic acid E-Inhibition T-TNFa ==> S-Inflammation T-IL-1b SUP:7 CONF:0.7
+A-Sinapic acid S-Inflammation T-TNFa ==> E-Inhibition T-IL-1b SUP:7 CONF:0.7
+E-Inhibition T-TNFa ==> A-Sinapic acid S-Inflammation T-IL-1b SUP:7 CONF:0.7
+S-Inflammation T-TNFa ==> A-Sinapic acid E-Inhibition T-IL-1b SUP:7 CONF:0.7
+A-Sinapic acid T-TNFa ==> S-Inflammation E-Inhibition T-IL-1b SUP:7 CONF:0.7
+T-TNFa ==> A-Sinapic acid S-Inflammation E-Inhibition T-IL-1b SUP:7 CONF:0.7
+A-Sinapic acid E-Inhibition S-Inflammation T-TNFa ==> T-IL-6 SUP:7 CONF:0.7
+E-Inhibition S-Inflammation T-TNFa ==> A-Sinapic acid T-IL-6 SUP:7 CONF:0.7
+A-Sinapic acid E-Inhibition T-TNFa ==> S-Inflammation T-IL-6 SUP:7 CONF:0.7
+A-Sinapic acid S-Inflammation T-TNFa ==> E-Inhibition T-IL-6 SUP:7 CONF:0.7
+E-Inhibition T-TNFa ==> A-Sinapic acid S-Inflammation T-IL-6 SUP:7 CONF:0.7
+S-Inflammation T-TNFa ==> A-Sinapic acid E-Inhibition T-IL-6 SUP:7 CONF:0.7
+A-Sinapic acid T-TNFa ==> S-Inflammation E-Inhibition T-IL-6 SUP:7 CONF:0.7
+T-TNFa ==> A-Sinapic acid S-Inflammation E-Inhibition T-IL-6 SUP:7 CONF:0.7
+A-Sinapic acid E-Inhibition S-Inflammation T-TNFa ==> Ty-In vivo SUP:7 CONF:0.7
+E-Inhibition S-Inflammation T-TNFa ==> A-Sinapic acid Ty-In vivo SUP:7 CONF:0.7
+A-Sinapic acid E-Inhibition T-TNFa ==> S-Inflammation Ty-In vivo SUP:7 CONF:0.7
+A-Sinapic acid S-Inflammation T-TNFa ==> E-Inhibition Ty-In vivo SUP:7 CONF:0.7
+E-Inhibition T-TNFa ==> A-Sinapic acid S-Inflammation Ty-In vivo SUP:7 CONF:0.7
+S-Inflammation T-TNFa ==> A-Sinapic acid E-Inhibition Ty-In vivo SUP:7 CONF:0.7
+A-Sinapic acid T-TNFa ==> S-Inflammation E-Inhibition Ty-In vivo SUP:7 CONF:0.7
+T-TNFa ==> A-Sinapic acid S-Inflammation E-Inhibition Ty-In vivo SUP:7 CONF:0.7
+E-Inhibition ==> S-Inflammation SUP:16 CONF:0.6956521739130435
+Ty-In vitro ==> S-Inflammation E-Inhibition SUP:8 CONF:0.6666666666666666
+T-oxydative stress ==> A-Sinapic acid S-Inflammation Ty-In vivo SUP:6 CONF:0.6666666666666666
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB ==> T-IL-1b T-TNFa SUP:6 CONF:0.6666666666666666
+E-Inhibition S-Inflammation T-NfkB ==> A-Sinapic acid T-IL-1b T-TNFa SUP:6 CONF:0.6666666666666666
+A-Sinapic acid E-Inhibition T-NfkB ==> S-Inflammation T-IL-1b T-TNFa SUP:6 CONF:0.6666666666666666
+A-Sinapic acid S-Inflammation T-NfkB ==> E-Inhibition T-IL-1b T-TNFa SUP:6 CONF:0.6666666666666666
+E-Inhibition T-NfkB ==> A-Sinapic acid S-Inflammation T-IL-1b T-TNFa SUP:6 CONF:0.6666666666666666
+S-Inflammation T-NfkB ==> A-Sinapic acid E-Inhibition T-IL-1b T-TNFa SUP:6 CONF:0.6666666666666666
+A-Sinapic acid T-NfkB ==> S-Inflammation E-Inhibition T-IL-1b T-TNFa SUP:6 CONF:0.6666666666666666
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB ==> T-TNFa T-IL-6 SUP:6 CONF:0.6666666666666666
+E-Inhibition S-Inflammation T-NfkB ==> A-Sinapic acid T-TNFa T-IL-6 SUP:6 CONF:0.6666666666666666
+A-Sinapic acid E-Inhibition T-NfkB ==> S-Inflammation T-TNFa T-IL-6 SUP:6 CONF:0.6666666666666666
+A-Sinapic acid S-Inflammation T-NfkB ==> E-Inhibition T-TNFa T-IL-6 SUP:6 CONF:0.6666666666666666
+E-Inhibition T-NfkB ==> A-Sinapic acid S-Inflammation T-TNFa T-IL-6 SUP:6 CONF:0.6666666666666666
+S-Inflammation T-NfkB ==> A-Sinapic acid E-Inhibition T-TNFa T-IL-6 SUP:6 CONF:0.6666666666666666
+A-Sinapic acid T-NfkB ==> S-Inflammation E-Inhibition T-TNFa T-IL-6 SUP:6 CONF:0.6666666666666666
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB ==> T-TNFa Ty-In vivo SUP:6 CONF:0.6666666666666666
+E-Inhibition S-Inflammation T-NfkB ==> A-Sinapic acid T-TNFa Ty-In vivo SUP:6 CONF:0.6666666666666666
+A-Sinapic acid E-Inhibition T-NfkB ==> S-Inflammation T-TNFa Ty-In vivo SUP:6 CONF:0.6666666666666666
+A-Sinapic acid S-Inflammation T-NfkB ==> E-Inhibition T-TNFa Ty-In vivo SUP:6 CONF:0.6666666666666666
+E-Inhibition T-NfkB ==> A-Sinapic acid S-Inflammation T-TNFa Ty-In vivo SUP:6 CONF:0.6666666666666666
+S-Inflammation T-NfkB ==> A-Sinapic acid E-Inhibition T-TNFa Ty-In vivo SUP:6 CONF:0.6666666666666666
+A-Sinapic acid T-NfkB ==> S-Inflammation E-Inhibition T-TNFa Ty-In vivo SUP:6 CONF:0.6666666666666666
+I-gentamicin ==> E-Inhibition SUP:4 CONF:0.6666666666666666
+I-gentamicin ==> A-Sinapic acid T-cell death B-nan SUP:4 CONF:0.6666666666666666
+A-Sinapic acid S-Inflammation Ty-In vivo T-oxydative stress ==> T-NO SUP:4 CONF:0.6666666666666666
+A-Sinapic acid S-Inflammation Ty-In vivo T-NO ==> T-oxydative stress SUP:4 CONF:0.6666666666666666
+S-Inflammation Ty-In vivo T-oxydative stress ==> A-Sinapic acid T-NO SUP:4 CONF:0.6666666666666666
+S-Inflammation Ty-In vivo T-NO ==> A-Sinapic acid T-oxydative stress SUP:4 CONF:0.6666666666666666
+A-Sinapic acid Ty-In vivo T-oxydative stress ==> S-Inflammation T-NO SUP:4 CONF:0.6666666666666666
+A-Sinapic acid S-Inflammation T-oxydative stress ==> T-NO Ty-In vivo SUP:4 CONF:0.6666666666666666
+Ty-In vivo T-oxydative stress ==> A-Sinapic acid S-Inflammation T-NO SUP:4 CONF:0.6666666666666666
+A-Sinapic acid E-Inhibition S-Inflammation T-TNFa T-NO T-IL-6 ==> T-IL-1b SUP:4 CONF:0.6666666666666666
+E-Inhibition S-Inflammation T-TNFa T-NO T-IL-6 ==> A-Sinapic acid T-IL-1b SUP:4 CONF:0.6666666666666666
+A-Sinapic acid E-Inhibition T-TNFa T-NO T-IL-6 ==> S-Inflammation T-IL-1b SUP:4 CONF:0.6666666666666666
+A-Sinapic acid S-Inflammation T-TNFa T-NO T-IL-6 ==> E-Inhibition T-IL-1b SUP:4 CONF:0.6666666666666666
+A-Sinapic acid E-Inhibition S-Inflammation T-NO T-IL-6 ==> T-IL-1b T-TNFa SUP:4 CONF:0.6666666666666666
+A-Sinapic acid E-Inhibition S-Inflammation T-TNFa T-NO ==> T-IL-1b T-IL-6 SUP:4 CONF:0.6666666666666666
+E-Inhibition T-TNFa T-NO T-IL-6 ==> A-Sinapic acid S-Inflammation T-IL-1b SUP:4 CONF:0.6666666666666666
+S-Inflammation T-TNFa T-NO T-IL-6 ==> A-Sinapic acid E-Inhibition T-IL-1b SUP:4 CONF:0.6666666666666666
+E-Inhibition S-Inflammation T-NO T-IL-6 ==> A-Sinapic acid T-IL-1b T-TNFa SUP:4 CONF:0.6666666666666666
+E-Inhibition S-Inflammation T-TNFa T-NO ==> A-Sinapic acid T-IL-1b T-IL-6 SUP:4 CONF:0.6666666666666666
+A-Sinapic acid T-TNFa T-NO T-IL-6 ==> S-Inflammation E-Inhibition T-IL-1b SUP:4 CONF:0.6666666666666666
+A-Sinapic acid E-Inhibition T-NO T-IL-6 ==> S-Inflammation T-IL-1b T-TNFa SUP:4 CONF:0.6666666666666666
+A-Sinapic acid E-Inhibition T-TNFa T-NO ==> S-Inflammation T-IL-1b T-IL-6 SUP:4 CONF:0.6666666666666666
+A-Sinapic acid S-Inflammation T-NO T-IL-6 ==> E-Inhibition T-IL-1b T-TNFa SUP:4 CONF:0.6666666666666666
+A-Sinapic acid S-Inflammation T-TNFa T-NO ==> E-Inhibition T-IL-1b T-IL-6 SUP:4 CONF:0.6666666666666666
+A-Sinapic acid E-Inhibition S-Inflammation T-NO ==> T-IL-1b T-TNFa T-IL-6 SUP:4 CONF:0.6666666666666666
+T-TNFa T-NO T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-IL-1b SUP:4 CONF:0.6666666666666666
+E-Inhibition T-NO T-IL-6 ==> A-Sinapic acid S-Inflammation T-IL-1b T-TNFa SUP:4 CONF:0.6666666666666666
+E-Inhibition T-TNFa T-NO ==> A-Sinapic acid S-Inflammation T-IL-1b T-IL-6 SUP:4 CONF:0.6666666666666666
+S-Inflammation T-NO T-IL-6 ==> A-Sinapic acid E-Inhibition T-IL-1b T-TNFa SUP:4 CONF:0.6666666666666666
+S-Inflammation T-TNFa T-NO ==> A-Sinapic acid E-Inhibition T-IL-1b T-IL-6 SUP:4 CONF:0.6666666666666666
+E-Inhibition S-Inflammation T-NO ==> A-Sinapic acid T-IL-1b T-TNFa T-IL-6 SUP:4 CONF:0.6666666666666666
+A-Sinapic acid T-NO T-IL-6 ==> S-Inflammation E-Inhibition T-IL-1b T-TNFa SUP:4 CONF:0.6666666666666666
+A-Sinapic acid T-TNFa T-NO ==> S-Inflammation E-Inhibition T-IL-1b T-IL-6 SUP:4 CONF:0.6666666666666666
+A-Sinapic acid E-Inhibition T-NO ==> S-Inflammation T-IL-1b T-TNFa T-IL-6 SUP:4 CONF:0.6666666666666666
+T-NO T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-IL-1b T-TNFa SUP:4 CONF:0.6666666666666666
+T-TNFa T-NO ==> A-Sinapic acid S-Inflammation E-Inhibition T-IL-1b T-IL-6 SUP:4 CONF:0.6666666666666666
+E-Inhibition T-NO ==> A-Sinapic acid S-Inflammation T-IL-1b T-TNFa T-IL-6 SUP:4 CONF:0.6666666666666666
+A-Sinapic acid E-Inhibition S-Inflammation T-TNFa T-NO T-IL-6 ==> T-NfkB Ty-In vivo SUP:4 CONF:0.6666666666666666
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-TNFa ==> T-NO T-IL-6 SUP:4 CONF:0.6666666666666666
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB T-TNFa T-IL-6 ==> T-NO Ty-In vivo SUP:4 CONF:0.6666666666666666
+E-Inhibition S-Inflammation T-TNFa T-NO T-IL-6 ==> A-Sinapic acid T-NfkB Ty-In vivo SUP:4 CONF:0.6666666666666666
+E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-TNFa ==> A-Sinapic acid T-NO T-IL-6 SUP:4 CONF:0.6666666666666666
+E-Inhibition S-Inflammation T-NfkB T-TNFa T-IL-6 ==> A-Sinapic acid T-NO Ty-In vivo SUP:4 CONF:0.6666666666666666
+A-Sinapic acid E-Inhibition T-TNFa T-NO T-IL-6 ==> S-Inflammation T-NfkB Ty-In vivo SUP:4 CONF:0.6666666666666666
+A-Sinapic acid E-Inhibition Ty-In vivo T-NfkB T-TNFa ==> S-Inflammation T-NO T-IL-6 SUP:4 CONF:0.6666666666666666
+A-Sinapic acid E-Inhibition T-NfkB T-TNFa T-IL-6 ==> S-Inflammation T-NO Ty-In vivo SUP:4 CONF:0.6666666666666666
+A-Sinapic acid S-Inflammation T-TNFa T-NO T-IL-6 ==> E-Inhibition T-NfkB Ty-In vivo SUP:4 CONF:0.6666666666666666
+A-Sinapic acid S-Inflammation Ty-In vivo T-NfkB T-TNFa ==> E-Inhibition T-NO T-IL-6 SUP:4 CONF:0.6666666666666666
+A-Sinapic acid S-Inflammation T-NfkB T-TNFa T-IL-6 ==> E-Inhibition T-NO Ty-In vivo SUP:4 CONF:0.6666666666666666
+A-Sinapic acid E-Inhibition S-Inflammation T-NO T-IL-6 ==> T-NfkB T-TNFa Ty-In vivo SUP:4 CONF:0.6666666666666666
+A-Sinapic acid E-Inhibition S-Inflammation T-TNFa T-NO ==> T-NfkB T-IL-6 Ty-In vivo SUP:4 CONF:0.6666666666666666
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-NfkB ==> T-TNFa T-NO T-IL-6 SUP:4 CONF:0.6666666666666666
+E-Inhibition T-TNFa T-NO T-IL-6 ==> A-Sinapic acid S-Inflammation T-NfkB Ty-In vivo SUP:4 CONF:0.6666666666666666
+E-Inhibition Ty-In vivo T-NfkB T-TNFa ==> A-Sinapic acid S-Inflammation T-NO T-IL-6 SUP:4 CONF:0.6666666666666666
+E-Inhibition T-NfkB T-TNFa T-IL-6 ==> A-Sinapic acid S-Inflammation T-NO Ty-In vivo SUP:4 CONF:0.6666666666666666
+S-Inflammation T-TNFa T-NO T-IL-6 ==> A-Sinapic acid E-Inhibition T-NfkB Ty-In vivo SUP:4 CONF:0.6666666666666666
+S-Inflammation Ty-In vivo T-NfkB T-TNFa ==> A-Sinapic acid E-Inhibition T-NO T-IL-6 SUP:4 CONF:0.6666666666666666
+S-Inflammation T-NfkB T-TNFa T-IL-6 ==> A-Sinapic acid E-Inhibition T-NO Ty-In vivo SUP:4 CONF:0.6666666666666666
+E-Inhibition S-Inflammation T-NO T-IL-6 ==> A-Sinapic acid T-NfkB T-TNFa Ty-In vivo SUP:4 CONF:0.6666666666666666
+E-Inhibition S-Inflammation T-TNFa T-NO ==> A-Sinapic acid T-NfkB T-IL-6 Ty-In vivo SUP:4 CONF:0.6666666666666666
+E-Inhibition S-Inflammation Ty-In vivo T-NfkB ==> A-Sinapic acid T-TNFa T-NO T-IL-6 SUP:4 CONF:0.6666666666666666
+A-Sinapic acid T-TNFa T-NO T-IL-6 ==> S-Inflammation E-Inhibition T-NfkB Ty-In vivo SUP:4 CONF:0.6666666666666666
+A-Sinapic acid Ty-In vivo T-NfkB T-TNFa ==> S-Inflammation E-Inhibition T-NO T-IL-6 SUP:4 CONF:0.6666666666666666
+A-Sinapic acid T-NfkB T-TNFa T-IL-6 ==> S-Inflammation E-Inhibition T-NO Ty-In vivo SUP:4 CONF:0.6666666666666666
+A-Sinapic acid E-Inhibition T-NO T-IL-6 ==> S-Inflammation T-NfkB T-TNFa Ty-In vivo SUP:4 CONF:0.6666666666666666
+A-Sinapic acid E-Inhibition T-TNFa T-NO ==> S-Inflammation T-NfkB T-IL-6 Ty-In vivo SUP:4 CONF:0.6666666666666666
+A-Sinapic acid E-Inhibition Ty-In vivo T-NfkB ==> S-Inflammation T-TNFa T-NO T-IL-6 SUP:4 CONF:0.6666666666666666
+A-Sinapic acid S-Inflammation Ty-In vivo T-NO ==> E-Inhibition T-NfkB T-TNFa T-IL-6 SUP:4 CONF:0.6666666666666666
+A-Sinapic acid S-Inflammation T-NO T-IL-6 ==> E-Inhibition T-NfkB T-TNFa Ty-In vivo SUP:4 CONF:0.6666666666666666
+A-Sinapic acid S-Inflammation T-TNFa T-NO ==> E-Inhibition T-NfkB T-IL-6 Ty-In vivo SUP:4 CONF:0.6666666666666666
+A-Sinapic acid S-Inflammation Ty-In vivo T-NfkB ==> E-Inhibition T-TNFa T-NO T-IL-6 SUP:4 CONF:0.6666666666666666
+A-Sinapic acid E-Inhibition S-Inflammation T-NO ==> T-NfkB T-TNFa T-IL-6 Ty-In vivo SUP:4 CONF:0.6666666666666666
+T-TNFa T-NO T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB Ty-In vivo SUP:4 CONF:0.6666666666666666
+Ty-In vivo T-NfkB T-TNFa ==> A-Sinapic acid S-Inflammation E-Inhibition T-NO T-IL-6 SUP:4 CONF:0.6666666666666666
+T-NfkB T-TNFa T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-NO Ty-In vivo SUP:4 CONF:0.6666666666666666
+E-Inhibition T-NO T-IL-6 ==> A-Sinapic acid S-Inflammation T-NfkB T-TNFa Ty-In vivo SUP:4 CONF:0.6666666666666666
+E-Inhibition T-TNFa T-NO ==> A-Sinapic acid S-Inflammation T-NfkB T-IL-6 Ty-In vivo SUP:4 CONF:0.6666666666666666
+E-Inhibition Ty-In vivo T-NfkB ==> A-Sinapic acid S-Inflammation T-TNFa T-NO T-IL-6 SUP:4 CONF:0.6666666666666666
+S-Inflammation Ty-In vivo T-NO ==> A-Sinapic acid E-Inhibition T-NfkB T-TNFa T-IL-6 SUP:4 CONF:0.6666666666666666
+S-Inflammation T-NO T-IL-6 ==> A-Sinapic acid E-Inhibition T-NfkB T-TNFa Ty-In vivo SUP:4 CONF:0.6666666666666666
+S-Inflammation T-TNFa T-NO ==> A-Sinapic acid E-Inhibition T-NfkB T-IL-6 Ty-In vivo SUP:4 CONF:0.6666666666666666
+S-Inflammation Ty-In vivo T-NfkB ==> A-Sinapic acid E-Inhibition T-TNFa T-NO T-IL-6 SUP:4 CONF:0.6666666666666666
+E-Inhibition S-Inflammation T-NO ==> A-Sinapic acid T-NfkB T-TNFa T-IL-6 Ty-In vivo SUP:4 CONF:0.6666666666666666
+A-Sinapic acid T-NO T-IL-6 ==> S-Inflammation E-Inhibition T-NfkB T-TNFa Ty-In vivo SUP:4 CONF:0.6666666666666666
+A-Sinapic acid T-TNFa T-NO ==> S-Inflammation E-Inhibition T-NfkB T-IL-6 Ty-In vivo SUP:4 CONF:0.6666666666666666
+A-Sinapic acid Ty-In vivo T-NfkB ==> S-Inflammation E-Inhibition T-TNFa T-NO T-IL-6 SUP:4 CONF:0.6666666666666666
+A-Sinapic acid E-Inhibition T-NO ==> S-Inflammation T-NfkB T-TNFa T-IL-6 Ty-In vivo SUP:4 CONF:0.6666666666666666
+T-NO T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB T-TNFa Ty-In vivo SUP:4 CONF:0.6666666666666666
+T-TNFa T-NO ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB T-IL-6 Ty-In vivo SUP:4 CONF:0.6666666666666666
+Ty-In vivo T-NfkB ==> A-Sinapic acid S-Inflammation E-Inhibition T-TNFa T-NO T-IL-6 SUP:4 CONF:0.6666666666666666
+E-Inhibition T-NO ==> A-Sinapic acid S-Inflammation T-NfkB T-TNFa T-IL-6 Ty-In vivo SUP:4 CONF:0.6666666666666666
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-TNFa ==> T-IL-1b T-IL-6 T-oxydative stress SUP:4 CONF:0.6666666666666666
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB T-TNFa T-IL-6 ==> T-IL-1b Ty-In vivo T-oxydative stress SUP:4 CONF:0.6666666666666666
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB T-TNFa T-IL-1b ==> T-IL-6 Ty-In vivo T-oxydative stress SUP:4 CONF:0.6666666666666666
+E-Inhibition S-Inflammation Ty-In vivo T-NfkB T-TNFa ==> A-Sinapic acid T-IL-1b T-IL-6 T-oxydative stress SUP:4 CONF:0.6666666666666666
+E-Inhibition S-Inflammation T-NfkB T-TNFa T-IL-6 ==> A-Sinapic acid T-IL-1b Ty-In vivo T-oxydative stress SUP:4 CONF:0.6666666666666666
+E-Inhibition S-Inflammation T-NfkB T-TNFa T-IL-1b ==> A-Sinapic acid T-IL-6 Ty-In vivo T-oxydative stress SUP:4 CONF:0.6666666666666666
+A-Sinapic acid E-Inhibition Ty-In vivo T-NfkB T-TNFa ==> S-Inflammation T-IL-1b T-IL-6 T-oxydative stress SUP:4 CONF:0.6666666666666666
+A-Sinapic acid E-Inhibition T-NfkB T-TNFa T-IL-6 ==> S-Inflammation T-IL-1b Ty-In vivo T-oxydative stress SUP:4 CONF:0.6666666666666666
+A-Sinapic acid E-Inhibition T-NfkB T-TNFa T-IL-1b ==> S-Inflammation T-IL-6 Ty-In vivo T-oxydative stress SUP:4 CONF:0.6666666666666666
+A-Sinapic acid S-Inflammation Ty-In vivo T-NfkB T-TNFa ==> E-Inhibition T-IL-1b T-IL-6 T-oxydative stress SUP:4 CONF:0.6666666666666666
+A-Sinapic acid S-Inflammation T-NfkB T-TNFa T-IL-6 ==> E-Inhibition T-IL-1b Ty-In vivo T-oxydative stress SUP:4 CONF:0.6666666666666666
+A-Sinapic acid S-Inflammation T-NfkB T-TNFa T-IL-1b ==> E-Inhibition T-IL-6 Ty-In vivo T-oxydative stress SUP:4 CONF:0.6666666666666666
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-IL-1b ==> T-NfkB T-TNFa T-IL-6 T-oxydative stress SUP:4 CONF:0.6666666666666666
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-NfkB ==> T-IL-1b T-TNFa T-IL-6 T-oxydative stress SUP:4 CONF:0.6666666666666666
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB T-IL-1b ==> T-TNFa T-IL-6 Ty-In vivo T-oxydative stress SUP:4 CONF:0.6666666666666666
+E-Inhibition Ty-In vivo T-NfkB T-TNFa ==> A-Sinapic acid S-Inflammation T-IL-1b T-IL-6 T-oxydative stress SUP:4 CONF:0.6666666666666666
+E-Inhibition T-NfkB T-TNFa T-IL-6 ==> A-Sinapic acid S-Inflammation T-IL-1b Ty-In vivo T-oxydative stress SUP:4 CONF:0.6666666666666666
+E-Inhibition T-NfkB T-TNFa T-IL-1b ==> A-Sinapic acid S-Inflammation T-IL-6 Ty-In vivo T-oxydative stress SUP:4 CONF:0.6666666666666666
+S-Inflammation Ty-In vivo T-NfkB T-TNFa ==> A-Sinapic acid E-Inhibition T-IL-1b T-IL-6 T-oxydative stress SUP:4 CONF:0.6666666666666666
+S-Inflammation T-NfkB T-TNFa T-IL-6 ==> A-Sinapic acid E-Inhibition T-IL-1b Ty-In vivo T-oxydative stress SUP:4 CONF:0.6666666666666666
+S-Inflammation T-NfkB T-TNFa T-IL-1b ==> A-Sinapic acid E-Inhibition T-IL-6 Ty-In vivo T-oxydative stress SUP:4 CONF:0.6666666666666666
+E-Inhibition S-Inflammation Ty-In vivo T-IL-1b ==> A-Sinapic acid T-NfkB T-TNFa T-IL-6 T-oxydative stress SUP:4 CONF:0.6666666666666666
+E-Inhibition S-Inflammation Ty-In vivo T-NfkB ==> A-Sinapic acid T-IL-1b T-TNFa T-IL-6 T-oxydative stress SUP:4 CONF:0.6666666666666666
+E-Inhibition S-Inflammation T-NfkB T-IL-1b ==> A-Sinapic acid T-TNFa T-IL-6 Ty-In vivo T-oxydative stress SUP:4 CONF:0.6666666666666666
+A-Sinapic acid Ty-In vivo T-NfkB T-TNFa ==> S-Inflammation E-Inhibition T-IL-1b T-IL-6 T-oxydative stress SUP:4 CONF:0.6666666666666666
+A-Sinapic acid T-NfkB T-TNFa T-IL-6 ==> S-Inflammation E-Inhibition T-IL-1b Ty-In vivo T-oxydative stress SUP:4 CONF:0.6666666666666666
+A-Sinapic acid T-NfkB T-TNFa T-IL-1b ==> S-Inflammation E-Inhibition T-IL-6 Ty-In vivo T-oxydative stress SUP:4 CONF:0.6666666666666666
+A-Sinapic acid E-Inhibition Ty-In vivo T-IL-1b ==> S-Inflammation T-NfkB T-TNFa T-IL-6 T-oxydative stress SUP:4 CONF:0.6666666666666666
+A-Sinapic acid E-Inhibition Ty-In vivo T-NfkB ==> S-Inflammation T-IL-1b T-TNFa T-IL-6 T-oxydative stress SUP:4 CONF:0.6666666666666666
+A-Sinapic acid E-Inhibition T-NfkB T-IL-1b ==> S-Inflammation T-TNFa T-IL-6 Ty-In vivo T-oxydative stress SUP:4 CONF:0.6666666666666666
+A-Sinapic acid S-Inflammation Ty-In vivo T-oxydative stress ==> E-Inhibition T-NfkB T-IL-1b T-TNFa T-IL-6 SUP:4 CONF:0.6666666666666666
+A-Sinapic acid S-Inflammation Ty-In vivo T-IL-1b ==> E-Inhibition T-NfkB T-TNFa T-IL-6 T-oxydative stress SUP:4 CONF:0.6666666666666666
+A-Sinapic acid S-Inflammation Ty-In vivo T-NfkB ==> E-Inhibition T-IL-1b T-TNFa T-IL-6 T-oxydative stress SUP:4 CONF:0.6666666666666666
+A-Sinapic acid S-Inflammation T-NfkB T-IL-1b ==> E-Inhibition T-TNFa T-IL-6 Ty-In vivo T-oxydative stress SUP:4 CONF:0.6666666666666666
+Ty-In vivo T-NfkB T-TNFa ==> A-Sinapic acid S-Inflammation E-Inhibition T-IL-1b T-IL-6 T-oxydative stress SUP:4 CONF:0.6666666666666666
+T-NfkB T-TNFa T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-IL-1b Ty-In vivo T-oxydative stress SUP:4 CONF:0.6666666666666666
+T-NfkB T-TNFa T-IL-1b ==> A-Sinapic acid S-Inflammation E-Inhibition T-IL-6 Ty-In vivo T-oxydative stress SUP:4 CONF:0.6666666666666666
+E-Inhibition Ty-In vivo T-IL-1b ==> A-Sinapic acid S-Inflammation T-NfkB T-TNFa T-IL-6 T-oxydative stress SUP:4 CONF:0.6666666666666666
+E-Inhibition Ty-In vivo T-NfkB ==> A-Sinapic acid S-Inflammation T-IL-1b T-TNFa T-IL-6 T-oxydative stress SUP:4 CONF:0.6666666666666666
+E-Inhibition T-NfkB T-IL-1b ==> A-Sinapic acid S-Inflammation T-TNFa T-IL-6 Ty-In vivo T-oxydative stress SUP:4 CONF:0.6666666666666666
+S-Inflammation Ty-In vivo T-oxydative stress ==> A-Sinapic acid E-Inhibition T-NfkB T-IL-1b T-TNFa T-IL-6 SUP:4 CONF:0.6666666666666666
+S-Inflammation Ty-In vivo T-IL-1b ==> A-Sinapic acid E-Inhibition T-NfkB T-TNFa T-IL-6 T-oxydative stress SUP:4 CONF:0.6666666666666666
+S-Inflammation Ty-In vivo T-NfkB ==> A-Sinapic acid E-Inhibition T-IL-1b T-TNFa T-IL-6 T-oxydative stress SUP:4 CONF:0.6666666666666666
+S-Inflammation T-NfkB T-IL-1b ==> A-Sinapic acid E-Inhibition T-TNFa T-IL-6 Ty-In vivo T-oxydative stress SUP:4 CONF:0.6666666666666666
+A-Sinapic acid Ty-In vivo T-oxydative stress ==> S-Inflammation E-Inhibition T-NfkB T-IL-1b T-TNFa T-IL-6 SUP:4 CONF:0.6666666666666666
+A-Sinapic acid Ty-In vivo T-IL-1b ==> S-Inflammation E-Inhibition T-NfkB T-TNFa T-IL-6 T-oxydative stress SUP:4 CONF:0.6666666666666666
+A-Sinapic acid Ty-In vivo T-NfkB ==> S-Inflammation E-Inhibition T-IL-1b T-TNFa T-IL-6 T-oxydative stress SUP:4 CONF:0.6666666666666666
+A-Sinapic acid T-NfkB T-IL-1b ==> S-Inflammation E-Inhibition T-TNFa T-IL-6 Ty-In vivo T-oxydative stress SUP:4 CONF:0.6666666666666666
+A-Sinapic acid S-Inflammation T-oxydative stress ==> E-Inhibition T-NfkB T-IL-1b T-TNFa T-IL-6 Ty-In vivo SUP:4 CONF:0.6666666666666666
+Ty-In vivo T-oxydative stress ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB T-IL-1b T-TNFa T-IL-6 SUP:4 CONF:0.6666666666666666
+Ty-In vivo T-IL-1b ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB T-TNFa T-IL-6 T-oxydative stress SUP:4 CONF:0.6666666666666666
+Ty-In vivo T-NfkB ==> A-Sinapic acid S-Inflammation E-Inhibition T-IL-1b T-TNFa T-IL-6 T-oxydative stress SUP:4 CONF:0.6666666666666666
+T-NfkB T-IL-1b ==> A-Sinapic acid S-Inflammation E-Inhibition T-TNFa T-IL-6 Ty-In vivo T-oxydative stress SUP:4 CONF:0.6666666666666666
+A-Sinapic acid E-Inhibition S-Inflammation ==> T-NfkB SUP:9 CONF:0.6428571428571429
+S-Inflammation ==> A-Sinapic acid E-Inhibition SUP:14 CONF:0.6363636363636364
+S-Inflammation ==> A-Sinapic acid Ty-In vivo SUP:14 CONF:0.6363636363636364
+A-Sinapic acid ==> E-Inhibition SUP:17 CONF:0.6296296296296297
+E-Inhibition S-Inflammation ==> A-Sinapic acid T-TNFa SUP:10 CONF:0.625
+A-Sinapic acid E-Inhibition S-Inflammation T-IL-6 ==> T-IL-1b T-TNFa SUP:5 CONF:0.625
+A-Sinapic acid E-Inhibition S-Inflammation T-IL-1b ==> T-TNFa T-IL-6 SUP:5 CONF:0.625
+E-Inhibition S-Inflammation T-IL-6 ==> A-Sinapic acid T-IL-1b T-TNFa SUP:5 CONF:0.625
+E-Inhibition S-Inflammation T-IL-1b ==> A-Sinapic acid T-TNFa T-IL-6 SUP:5 CONF:0.625
+A-Sinapic acid E-Inhibition T-IL-6 ==> S-Inflammation T-IL-1b T-TNFa SUP:5 CONF:0.625
+A-Sinapic acid E-Inhibition T-IL-1b ==> S-Inflammation T-TNFa T-IL-6 SUP:5 CONF:0.625
+A-Sinapic acid S-Inflammation T-IL-6 ==> E-Inhibition T-IL-1b T-TNFa SUP:5 CONF:0.625
+A-Sinapic acid S-Inflammation T-IL-1b ==> E-Inhibition T-TNFa T-IL-6 SUP:5 CONF:0.625
+E-Inhibition T-IL-6 ==> A-Sinapic acid S-Inflammation T-IL-1b T-TNFa SUP:5 CONF:0.625
+E-Inhibition T-IL-1b ==> A-Sinapic acid S-Inflammation T-TNFa T-IL-6 SUP:5 CONF:0.625
+S-Inflammation T-IL-6 ==> A-Sinapic acid E-Inhibition T-IL-1b T-TNFa SUP:5 CONF:0.625
+S-Inflammation T-IL-1b ==> A-Sinapic acid E-Inhibition T-TNFa T-IL-6 SUP:5 CONF:0.625
+A-Sinapic acid T-IL-6 ==> S-Inflammation E-Inhibition T-IL-1b T-TNFa SUP:5 CONF:0.625
+A-Sinapic acid T-IL-1b ==> S-Inflammation E-Inhibition T-TNFa T-IL-6 SUP:5 CONF:0.625
+T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-IL-1b T-TNFa SUP:5 CONF:0.625
+T-IL-1b ==> A-Sinapic acid S-Inflammation E-Inhibition T-TNFa T-IL-6 SUP:5 CONF:0.625
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB T-TNFa ==> T-IL-1b Ty-In vivo SUP:5 CONF:0.625
+E-Inhibition S-Inflammation T-NfkB T-TNFa ==> A-Sinapic acid T-IL-1b Ty-In vivo SUP:5 CONF:0.625
+A-Sinapic acid E-Inhibition T-NfkB T-TNFa ==> S-Inflammation T-IL-1b Ty-In vivo SUP:5 CONF:0.625
+A-Sinapic acid S-Inflammation T-NfkB T-TNFa ==> E-Inhibition T-IL-1b Ty-In vivo SUP:5 CONF:0.625
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo ==> T-NfkB T-IL-1b T-TNFa SUP:5 CONF:0.625
+A-Sinapic acid E-Inhibition S-Inflammation T-IL-1b ==> T-NfkB T-TNFa Ty-In vivo SUP:5 CONF:0.625
+E-Inhibition T-NfkB T-TNFa ==> A-Sinapic acid S-Inflammation T-IL-1b Ty-In vivo SUP:5 CONF:0.625
+S-Inflammation T-NfkB T-TNFa ==> A-Sinapic acid E-Inhibition T-IL-1b Ty-In vivo SUP:5 CONF:0.625
+E-Inhibition S-Inflammation Ty-In vivo ==> A-Sinapic acid T-NfkB T-IL-1b T-TNFa SUP:5 CONF:0.625
+E-Inhibition S-Inflammation T-IL-1b ==> A-Sinapic acid T-NfkB T-TNFa Ty-In vivo SUP:5 CONF:0.625
+A-Sinapic acid T-NfkB T-TNFa ==> S-Inflammation E-Inhibition T-IL-1b Ty-In vivo SUP:5 CONF:0.625
+A-Sinapic acid E-Inhibition Ty-In vivo ==> S-Inflammation T-NfkB T-IL-1b T-TNFa SUP:5 CONF:0.625
+A-Sinapic acid E-Inhibition T-IL-1b ==> S-Inflammation T-NfkB T-TNFa Ty-In vivo SUP:5 CONF:0.625
+A-Sinapic acid S-Inflammation T-IL-1b ==> E-Inhibition T-NfkB T-TNFa Ty-In vivo SUP:5 CONF:0.625
+T-NfkB T-TNFa ==> A-Sinapic acid S-Inflammation E-Inhibition T-IL-1b Ty-In vivo SUP:5 CONF:0.625
+E-Inhibition Ty-In vivo ==> A-Sinapic acid S-Inflammation T-NfkB T-IL-1b T-TNFa SUP:5 CONF:0.625
+E-Inhibition T-IL-1b ==> A-Sinapic acid S-Inflammation T-NfkB T-TNFa Ty-In vivo SUP:5 CONF:0.625
+S-Inflammation T-IL-1b ==> A-Sinapic acid E-Inhibition T-NfkB T-TNFa Ty-In vivo SUP:5 CONF:0.625
+A-Sinapic acid T-IL-1b ==> S-Inflammation E-Inhibition T-NfkB T-TNFa Ty-In vivo SUP:5 CONF:0.625
+T-IL-1b ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB T-TNFa Ty-In vivo SUP:5 CONF:0.625
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB T-TNFa ==> T-NO T-IL-6 SUP:5 CONF:0.625
+E-Inhibition S-Inflammation T-NfkB T-TNFa ==> A-Sinapic acid T-NO T-IL-6 SUP:5 CONF:0.625
+A-Sinapic acid E-Inhibition T-NfkB T-TNFa ==> S-Inflammation T-NO T-IL-6 SUP:5 CONF:0.625
+A-Sinapic acid S-Inflammation T-NfkB T-TNFa ==> E-Inhibition T-NO T-IL-6 SUP:5 CONF:0.625
+A-Sinapic acid E-Inhibition S-Inflammation T-IL-6 ==> T-NfkB T-TNFa T-NO SUP:5 CONF:0.625
+E-Inhibition T-NfkB T-TNFa ==> A-Sinapic acid S-Inflammation T-NO T-IL-6 SUP:5 CONF:0.625
+S-Inflammation T-NfkB T-TNFa ==> A-Sinapic acid E-Inhibition T-NO T-IL-6 SUP:5 CONF:0.625
+E-Inhibition S-Inflammation T-IL-6 ==> A-Sinapic acid T-NfkB T-TNFa T-NO SUP:5 CONF:0.625
+A-Sinapic acid T-NfkB T-TNFa ==> S-Inflammation E-Inhibition T-NO T-IL-6 SUP:5 CONF:0.625
+A-Sinapic acid E-Inhibition T-IL-6 ==> S-Inflammation T-NfkB T-TNFa T-NO SUP:5 CONF:0.625
+A-Sinapic acid S-Inflammation T-IL-6 ==> E-Inhibition T-NfkB T-TNFa T-NO SUP:5 CONF:0.625
+A-Sinapic acid S-Inflammation T-NO ==> E-Inhibition T-NfkB T-TNFa T-IL-6 SUP:5 CONF:0.625
+T-NfkB T-TNFa ==> A-Sinapic acid S-Inflammation E-Inhibition T-NO T-IL-6 SUP:5 CONF:0.625
+E-Inhibition T-IL-6 ==> A-Sinapic acid S-Inflammation T-NfkB T-TNFa T-NO SUP:5 CONF:0.625
+S-Inflammation T-IL-6 ==> A-Sinapic acid E-Inhibition T-NfkB T-TNFa T-NO SUP:5 CONF:0.625
+S-Inflammation T-NO ==> A-Sinapic acid E-Inhibition T-NfkB T-TNFa T-IL-6 SUP:5 CONF:0.625
+A-Sinapic acid T-IL-6 ==> S-Inflammation E-Inhibition T-NfkB T-TNFa T-NO SUP:5 CONF:0.625
+T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB T-TNFa T-NO SUP:5 CONF:0.625
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB T-TNFa ==> T-IL-6 Ty-In vivo SUP:5 CONF:0.625
+E-Inhibition S-Inflammation T-NfkB T-TNFa ==> A-Sinapic acid T-IL-6 Ty-In vivo SUP:5 CONF:0.625
+A-Sinapic acid E-Inhibition T-NfkB T-TNFa ==> S-Inflammation T-IL-6 Ty-In vivo SUP:5 CONF:0.625
+A-Sinapic acid S-Inflammation T-NfkB T-TNFa ==> E-Inhibition T-IL-6 Ty-In vivo SUP:5 CONF:0.625
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo ==> T-NfkB T-TNFa T-IL-6 SUP:5 CONF:0.625
+A-Sinapic acid E-Inhibition S-Inflammation T-IL-6 ==> T-NfkB T-TNFa Ty-In vivo SUP:5 CONF:0.625
+E-Inhibition T-NfkB T-TNFa ==> A-Sinapic acid S-Inflammation T-IL-6 Ty-In vivo SUP:5 CONF:0.625
+S-Inflammation T-NfkB T-TNFa ==> A-Sinapic acid E-Inhibition T-IL-6 Ty-In vivo SUP:5 CONF:0.625
+E-Inhibition S-Inflammation Ty-In vivo ==> A-Sinapic acid T-NfkB T-TNFa T-IL-6 SUP:5 CONF:0.625
+E-Inhibition S-Inflammation T-IL-6 ==> A-Sinapic acid T-NfkB T-TNFa Ty-In vivo SUP:5 CONF:0.625
+A-Sinapic acid T-NfkB T-TNFa ==> S-Inflammation E-Inhibition T-IL-6 Ty-In vivo SUP:5 CONF:0.625
+A-Sinapic acid E-Inhibition Ty-In vivo ==> S-Inflammation T-NfkB T-TNFa T-IL-6 SUP:5 CONF:0.625
+A-Sinapic acid E-Inhibition T-IL-6 ==> S-Inflammation T-NfkB T-TNFa Ty-In vivo SUP:5 CONF:0.625
+A-Sinapic acid S-Inflammation T-IL-6 ==> E-Inhibition T-NfkB T-TNFa Ty-In vivo SUP:5 CONF:0.625
+T-NfkB T-TNFa ==> A-Sinapic acid S-Inflammation E-Inhibition T-IL-6 Ty-In vivo SUP:5 CONF:0.625
+E-Inhibition Ty-In vivo ==> A-Sinapic acid S-Inflammation T-NfkB T-TNFa T-IL-6 SUP:5 CONF:0.625
+E-Inhibition T-IL-6 ==> A-Sinapic acid S-Inflammation T-NfkB T-TNFa Ty-In vivo SUP:5 CONF:0.625
+S-Inflammation T-IL-6 ==> A-Sinapic acid E-Inhibition T-NfkB T-TNFa Ty-In vivo SUP:5 CONF:0.625
+A-Sinapic acid T-IL-6 ==> S-Inflammation E-Inhibition T-NfkB T-TNFa Ty-In vivo SUP:5 CONF:0.625
+T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB T-TNFa Ty-In vivo SUP:5 CONF:0.625
+E-Inhibition ==> A-Sinapic acid S-Inflammation SUP:14 CONF:0.6086956521739131
+A-Sinapic acid T-NO ==> S-Inflammation Ty-In vivo SUP:6 CONF:0.6
+T-NO ==> A-Sinapic acid S-Inflammation Ty-In vivo SUP:6 CONF:0.6
+A-Sinapic acid E-Inhibition S-Inflammation T-TNFa ==> T-NfkB T-IL-1b SUP:6 CONF:0.6
+E-Inhibition S-Inflammation T-TNFa ==> A-Sinapic acid T-NfkB T-IL-1b SUP:6 CONF:0.6
+A-Sinapic acid E-Inhibition T-TNFa ==> S-Inflammation T-NfkB T-IL-1b SUP:6 CONF:0.6
+A-Sinapic acid S-Inflammation T-TNFa ==> E-Inhibition T-NfkB T-IL-1b SUP:6 CONF:0.6
+E-Inhibition T-TNFa ==> A-Sinapic acid S-Inflammation T-NfkB T-IL-1b SUP:6 CONF:0.6
+S-Inflammation T-TNFa ==> A-Sinapic acid E-Inhibition T-NfkB T-IL-1b SUP:6 CONF:0.6
+A-Sinapic acid T-TNFa ==> S-Inflammation E-Inhibition T-NfkB T-IL-1b SUP:6 CONF:0.6
+T-TNFa ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB T-IL-1b SUP:6 CONF:0.6
+T-NfkB ==> A-Sinapic acid S-Inflammation E-Inhibition T-IL-1b T-TNFa SUP:6 CONF:0.6
+A-Sinapic acid E-Inhibition S-Inflammation T-TNFa ==> T-NfkB T-IL-6 SUP:6 CONF:0.6
+E-Inhibition S-Inflammation T-TNFa ==> A-Sinapic acid T-NfkB T-IL-6 SUP:6 CONF:0.6
+A-Sinapic acid E-Inhibition T-TNFa ==> S-Inflammation T-NfkB T-IL-6 SUP:6 CONF:0.6
+A-Sinapic acid S-Inflammation T-TNFa ==> E-Inhibition T-NfkB T-IL-6 SUP:6 CONF:0.6
+E-Inhibition T-TNFa ==> A-Sinapic acid S-Inflammation T-NfkB T-IL-6 SUP:6 CONF:0.6
+S-Inflammation T-TNFa ==> A-Sinapic acid E-Inhibition T-NfkB T-IL-6 SUP:6 CONF:0.6
+A-Sinapic acid T-TNFa ==> S-Inflammation E-Inhibition T-NfkB T-IL-6 SUP:6 CONF:0.6
+T-TNFa ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB T-IL-6 SUP:6 CONF:0.6
+T-NfkB ==> A-Sinapic acid S-Inflammation E-Inhibition T-TNFa T-IL-6 SUP:6 CONF:0.6
+A-Sinapic acid E-Inhibition S-Inflammation T-TNFa ==> T-NfkB Ty-In vivo SUP:6 CONF:0.6
+E-Inhibition S-Inflammation T-TNFa ==> A-Sinapic acid T-NfkB Ty-In vivo SUP:6 CONF:0.6
+A-Sinapic acid E-Inhibition T-TNFa ==> S-Inflammation T-NfkB Ty-In vivo SUP:6 CONF:0.6
+A-Sinapic acid S-Inflammation T-TNFa ==> E-Inhibition T-NfkB Ty-In vivo SUP:6 CONF:0.6
+E-Inhibition T-TNFa ==> A-Sinapic acid S-Inflammation T-NfkB Ty-In vivo SUP:6 CONF:0.6
+S-Inflammation T-TNFa ==> A-Sinapic acid E-Inhibition T-NfkB Ty-In vivo SUP:6 CONF:0.6
+A-Sinapic acid T-TNFa ==> S-Inflammation E-Inhibition T-NfkB Ty-In vivo SUP:6 CONF:0.6
+T-TNFa ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB Ty-In vivo SUP:6 CONF:0.6
+T-NfkB ==> A-Sinapic acid S-Inflammation E-Inhibition T-TNFa Ty-In vivo SUP:6 CONF:0.6
+A-Sinapic acid E-Inhibition S-Inflammation T-TNFa ==> T-NO T-IL-6 SUP:6 CONF:0.6
+E-Inhibition S-Inflammation T-TNFa ==> A-Sinapic acid T-NO T-IL-6 SUP:6 CONF:0.6
+A-Sinapic acid E-Inhibition T-TNFa ==> S-Inflammation T-NO T-IL-6 SUP:6 CONF:0.6
+A-Sinapic acid S-Inflammation T-TNFa ==> E-Inhibition T-NO T-IL-6 SUP:6 CONF:0.6
+E-Inhibition T-TNFa ==> A-Sinapic acid S-Inflammation T-NO T-IL-6 SUP:6 CONF:0.6
+S-Inflammation T-TNFa ==> A-Sinapic acid E-Inhibition T-NO T-IL-6 SUP:6 CONF:0.6
+A-Sinapic acid T-NO ==> S-Inflammation E-Inhibition T-TNFa T-IL-6 SUP:6 CONF:0.6
+A-Sinapic acid T-TNFa ==> S-Inflammation E-Inhibition T-NO T-IL-6 SUP:6 CONF:0.6
+T-NO ==> A-Sinapic acid S-Inflammation E-Inhibition T-TNFa T-IL-6 SUP:6 CONF:0.6
+T-TNFa ==> A-Sinapic acid S-Inflammation E-Inhibition T-NO T-IL-6 SUP:6 CONF:0.6
+A-Sinapic acid ==> Ty-In vivo SUP:16 CONF:0.5925925925925926
+A-Sinapic acid E-Inhibition ==> S-Inflammation T-TNFa SUP:10 CONF:0.5882352941176471
+A-Sinapic acid E-Inhibition S-Inflammation ==> T-IL-1b SUP:8 CONF:0.5714285714285714
+A-Sinapic acid E-Inhibition S-Inflammation ==> T-IL-6 SUP:8 CONF:0.5714285714285714
+A-Sinapic acid S-Inflammation Ty-In vivo ==> E-Inhibition SUP:8 CONF:0.5714285714285714
+A-Sinapic acid E-Inhibition S-Inflammation ==> Ty-In vivo SUP:8 CONF:0.5714285714285714
+S-Inflammation Ty-In vivo ==> A-Sinapic acid E-Inhibition SUP:8 CONF:0.5714285714285714
+A-Sinapic acid E-Inhibition S-Inflammation ==> T-NfkB T-TNFa SUP:8 CONF:0.5714285714285714
+S-Inflammation T-oxydative stress ==> A-Sinapic acid T-NO Ty-In vivo SUP:4 CONF:0.5714285714285714
+A-Sinapic acid T-oxydative stress ==> S-Inflammation T-NO Ty-In vivo SUP:4 CONF:0.5714285714285714
+A-Sinapic acid E-Inhibition S-Inflammation T-TNFa T-IL-6 ==> T-IL-1b T-NO SUP:4 CONF:0.5714285714285714
+A-Sinapic acid E-Inhibition S-Inflammation T-TNFa T-IL-1b ==> T-NO T-IL-6 SUP:4 CONF:0.5714285714285714
+E-Inhibition S-Inflammation T-TNFa T-IL-6 ==> A-Sinapic acid T-IL-1b T-NO SUP:4 CONF:0.5714285714285714
+E-Inhibition S-Inflammation T-TNFa T-IL-1b ==> A-Sinapic acid T-NO T-IL-6 SUP:4 CONF:0.5714285714285714
+A-Sinapic acid E-Inhibition T-TNFa T-IL-6 ==> S-Inflammation T-IL-1b T-NO SUP:4 CONF:0.5714285714285714
+A-Sinapic acid E-Inhibition T-TNFa T-IL-1b ==> S-Inflammation T-NO T-IL-6 SUP:4 CONF:0.5714285714285714
+A-Sinapic acid S-Inflammation T-TNFa T-IL-6 ==> E-Inhibition T-IL-1b T-NO SUP:4 CONF:0.5714285714285714
+A-Sinapic acid S-Inflammation T-TNFa T-IL-1b ==> E-Inhibition T-NO T-IL-6 SUP:4 CONF:0.5714285714285714
+E-Inhibition T-TNFa T-IL-6 ==> A-Sinapic acid S-Inflammation T-IL-1b T-NO SUP:4 CONF:0.5714285714285714
+E-Inhibition T-TNFa T-IL-1b ==> A-Sinapic acid S-Inflammation T-NO T-IL-6 SUP:4 CONF:0.5714285714285714
+S-Inflammation T-TNFa T-IL-6 ==> A-Sinapic acid E-Inhibition T-IL-1b T-NO SUP:4 CONF:0.5714285714285714
+S-Inflammation T-TNFa T-IL-1b ==> A-Sinapic acid E-Inhibition T-NO T-IL-6 SUP:4 CONF:0.5714285714285714
+A-Sinapic acid T-TNFa T-IL-6 ==> S-Inflammation E-Inhibition T-IL-1b T-NO SUP:4 CONF:0.5714285714285714
+A-Sinapic acid T-TNFa T-IL-1b ==> S-Inflammation E-Inhibition T-NO T-IL-6 SUP:4 CONF:0.5714285714285714
+T-TNFa T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-IL-1b T-NO SUP:4 CONF:0.5714285714285714
+T-TNFa T-IL-1b ==> A-Sinapic acid S-Inflammation E-Inhibition T-NO T-IL-6 SUP:4 CONF:0.5714285714285714
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-TNFa ==> T-NfkB T-NO T-IL-6 SUP:4 CONF:0.5714285714285714
+A-Sinapic acid E-Inhibition S-Inflammation T-TNFa T-IL-6 ==> T-NfkB T-NO Ty-In vivo SUP:4 CONF:0.5714285714285714
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB T-IL-6 ==> T-TNFa T-NO Ty-In vivo SUP:4 CONF:0.5714285714285714
+E-Inhibition S-Inflammation Ty-In vivo T-TNFa ==> A-Sinapic acid T-NfkB T-NO T-IL-6 SUP:4 CONF:0.5714285714285714
+E-Inhibition S-Inflammation T-TNFa T-IL-6 ==> A-Sinapic acid T-NfkB T-NO Ty-In vivo SUP:4 CONF:0.5714285714285714
+E-Inhibition S-Inflammation T-NfkB T-IL-6 ==> A-Sinapic acid T-TNFa T-NO Ty-In vivo SUP:4 CONF:0.5714285714285714
+A-Sinapic acid E-Inhibition Ty-In vivo T-TNFa ==> S-Inflammation T-NfkB T-NO T-IL-6 SUP:4 CONF:0.5714285714285714
+A-Sinapic acid E-Inhibition T-TNFa T-IL-6 ==> S-Inflammation T-NfkB T-NO Ty-In vivo SUP:4 CONF:0.5714285714285714
+A-Sinapic acid E-Inhibition T-NfkB T-IL-6 ==> S-Inflammation T-TNFa T-NO Ty-In vivo SUP:4 CONF:0.5714285714285714
+A-Sinapic acid S-Inflammation Ty-In vivo T-TNFa ==> E-Inhibition T-NfkB T-NO T-IL-6 SUP:4 CONF:0.5714285714285714
+A-Sinapic acid S-Inflammation T-TNFa T-IL-6 ==> E-Inhibition T-NfkB T-NO Ty-In vivo SUP:4 CONF:0.5714285714285714
+A-Sinapic acid S-Inflammation T-NfkB T-IL-6 ==> E-Inhibition T-TNFa T-NO Ty-In vivo SUP:4 CONF:0.5714285714285714
+E-Inhibition Ty-In vivo T-TNFa ==> A-Sinapic acid S-Inflammation T-NfkB T-NO T-IL-6 SUP:4 CONF:0.5714285714285714
+E-Inhibition T-TNFa T-IL-6 ==> A-Sinapic acid S-Inflammation T-NfkB T-NO Ty-In vivo SUP:4 CONF:0.5714285714285714
+E-Inhibition T-NfkB T-IL-6 ==> A-Sinapic acid S-Inflammation T-TNFa T-NO Ty-In vivo SUP:4 CONF:0.5714285714285714
+S-Inflammation Ty-In vivo T-TNFa ==> A-Sinapic acid E-Inhibition T-NfkB T-NO T-IL-6 SUP:4 CONF:0.5714285714285714
+S-Inflammation T-TNFa T-IL-6 ==> A-Sinapic acid E-Inhibition T-NfkB T-NO Ty-In vivo SUP:4 CONF:0.5714285714285714
+S-Inflammation T-NfkB T-IL-6 ==> A-Sinapic acid E-Inhibition T-TNFa T-NO Ty-In vivo SUP:4 CONF:0.5714285714285714
+A-Sinapic acid Ty-In vivo T-TNFa ==> S-Inflammation E-Inhibition T-NfkB T-NO T-IL-6 SUP:4 CONF:0.5714285714285714
+A-Sinapic acid T-TNFa T-IL-6 ==> S-Inflammation E-Inhibition T-NfkB T-NO Ty-In vivo SUP:4 CONF:0.5714285714285714
+A-Sinapic acid T-NfkB T-IL-6 ==> S-Inflammation E-Inhibition T-TNFa T-NO Ty-In vivo SUP:4 CONF:0.5714285714285714
+Ty-In vivo T-TNFa ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB T-NO T-IL-6 SUP:4 CONF:0.5714285714285714
+T-TNFa T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB T-NO Ty-In vivo SUP:4 CONF:0.5714285714285714
+T-NfkB T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-TNFa T-NO Ty-In vivo SUP:4 CONF:0.5714285714285714
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo T-TNFa ==> T-NfkB T-IL-1b T-IL-6 T-oxydative stress SUP:4 CONF:0.5714285714285714
+A-Sinapic acid E-Inhibition S-Inflammation T-TNFa T-IL-6 ==> T-NfkB T-IL-1b Ty-In vivo T-oxydative stress SUP:4 CONF:0.5714285714285714
+A-Sinapic acid E-Inhibition S-Inflammation T-TNFa T-IL-1b ==> T-NfkB T-IL-6 Ty-In vivo T-oxydative stress SUP:4 CONF:0.5714285714285714
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB T-IL-6 ==> T-IL-1b T-TNFa Ty-In vivo T-oxydative stress SUP:4 CONF:0.5714285714285714
+E-Inhibition S-Inflammation Ty-In vivo T-TNFa ==> A-Sinapic acid T-NfkB T-IL-1b T-IL-6 T-oxydative stress SUP:4 CONF:0.5714285714285714
+E-Inhibition S-Inflammation T-TNFa T-IL-6 ==> A-Sinapic acid T-NfkB T-IL-1b Ty-In vivo T-oxydative stress SUP:4 CONF:0.5714285714285714
+E-Inhibition S-Inflammation T-TNFa T-IL-1b ==> A-Sinapic acid T-NfkB T-IL-6 Ty-In vivo T-oxydative stress SUP:4 CONF:0.5714285714285714
+E-Inhibition S-Inflammation T-NfkB T-IL-6 ==> A-Sinapic acid T-IL-1b T-TNFa Ty-In vivo T-oxydative stress SUP:4 CONF:0.5714285714285714
+A-Sinapic acid E-Inhibition Ty-In vivo T-TNFa ==> S-Inflammation T-NfkB T-IL-1b T-IL-6 T-oxydative stress SUP:4 CONF:0.5714285714285714
+A-Sinapic acid E-Inhibition T-TNFa T-IL-6 ==> S-Inflammation T-NfkB T-IL-1b Ty-In vivo T-oxydative stress SUP:4 CONF:0.5714285714285714
+A-Sinapic acid E-Inhibition T-TNFa T-IL-1b ==> S-Inflammation T-NfkB T-IL-6 Ty-In vivo T-oxydative stress SUP:4 CONF:0.5714285714285714
+A-Sinapic acid E-Inhibition T-NfkB T-IL-6 ==> S-Inflammation T-IL-1b T-TNFa Ty-In vivo T-oxydative stress SUP:4 CONF:0.5714285714285714
+A-Sinapic acid S-Inflammation Ty-In vivo T-TNFa ==> E-Inhibition T-NfkB T-IL-1b T-IL-6 T-oxydative stress SUP:4 CONF:0.5714285714285714
+A-Sinapic acid S-Inflammation T-TNFa T-IL-6 ==> E-Inhibition T-NfkB T-IL-1b Ty-In vivo T-oxydative stress SUP:4 CONF:0.5714285714285714
+A-Sinapic acid S-Inflammation T-TNFa T-IL-1b ==> E-Inhibition T-NfkB T-IL-6 Ty-In vivo T-oxydative stress SUP:4 CONF:0.5714285714285714
+A-Sinapic acid S-Inflammation T-NfkB T-IL-6 ==> E-Inhibition T-IL-1b T-TNFa Ty-In vivo T-oxydative stress SUP:4 CONF:0.5714285714285714
+E-Inhibition Ty-In vivo T-TNFa ==> A-Sinapic acid S-Inflammation T-NfkB T-IL-1b T-IL-6 T-oxydative stress SUP:4 CONF:0.5714285714285714
+E-Inhibition T-TNFa T-IL-6 ==> A-Sinapic acid S-Inflammation T-NfkB T-IL-1b Ty-In vivo T-oxydative stress SUP:4 CONF:0.5714285714285714
+E-Inhibition T-TNFa T-IL-1b ==> A-Sinapic acid S-Inflammation T-NfkB T-IL-6 Ty-In vivo T-oxydative stress SUP:4 CONF:0.5714285714285714
+E-Inhibition T-NfkB T-IL-6 ==> A-Sinapic acid S-Inflammation T-IL-1b T-TNFa Ty-In vivo T-oxydative stress SUP:4 CONF:0.5714285714285714
+S-Inflammation Ty-In vivo T-TNFa ==> A-Sinapic acid E-Inhibition T-NfkB T-IL-1b T-IL-6 T-oxydative stress SUP:4 CONF:0.5714285714285714
+S-Inflammation T-TNFa T-IL-6 ==> A-Sinapic acid E-Inhibition T-NfkB T-IL-1b Ty-In vivo T-oxydative stress SUP:4 CONF:0.5714285714285714
+S-Inflammation T-TNFa T-IL-1b ==> A-Sinapic acid E-Inhibition T-NfkB T-IL-6 Ty-In vivo T-oxydative stress SUP:4 CONF:0.5714285714285714
+S-Inflammation T-NfkB T-IL-6 ==> A-Sinapic acid E-Inhibition T-IL-1b T-TNFa Ty-In vivo T-oxydative stress SUP:4 CONF:0.5714285714285714
+A-Sinapic acid Ty-In vivo T-TNFa ==> S-Inflammation E-Inhibition T-NfkB T-IL-1b T-IL-6 T-oxydative stress SUP:4 CONF:0.5714285714285714
+A-Sinapic acid T-TNFa T-IL-6 ==> S-Inflammation E-Inhibition T-NfkB T-IL-1b Ty-In vivo T-oxydative stress SUP:4 CONF:0.5714285714285714
+A-Sinapic acid T-TNFa T-IL-1b ==> S-Inflammation E-Inhibition T-NfkB T-IL-6 Ty-In vivo T-oxydative stress SUP:4 CONF:0.5714285714285714
+A-Sinapic acid T-NfkB T-IL-6 ==> S-Inflammation E-Inhibition T-IL-1b T-TNFa Ty-In vivo T-oxydative stress SUP:4 CONF:0.5714285714285714
+Ty-In vivo T-TNFa ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB T-IL-1b T-IL-6 T-oxydative stress SUP:4 CONF:0.5714285714285714
+T-TNFa T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB T-IL-1b Ty-In vivo T-oxydative stress SUP:4 CONF:0.5714285714285714
+T-TNFa T-IL-1b ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB T-IL-6 Ty-In vivo T-oxydative stress SUP:4 CONF:0.5714285714285714
+T-NfkB T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-IL-1b T-TNFa Ty-In vivo T-oxydative stress SUP:4 CONF:0.5714285714285714
+E-Inhibition T-oxydative stress ==> A-Sinapic acid S-Inflammation T-NfkB T-IL-1b T-TNFa T-IL-6 Ty-In vivo SUP:4 CONF:0.5714285714285714
+S-Inflammation T-oxydative stress ==> A-Sinapic acid E-Inhibition T-NfkB T-IL-1b T-TNFa T-IL-6 Ty-In vivo SUP:4 CONF:0.5714285714285714
+A-Sinapic acid T-oxydative stress ==> S-Inflammation E-Inhibition T-NfkB T-IL-1b T-TNFa T-IL-6 Ty-In vivo SUP:4 CONF:0.5714285714285714
+E-Inhibition S-Inflammation ==> A-Sinapic acid T-NfkB SUP:9 CONF:0.5625
+T-oxydative stress ==> A-Sinapic acid E-Inhibition SUP:5 CONF:0.5555555555555556
+T-oxydative stress ==> S-Inflammation E-Inhibition SUP:5 CONF:0.5555555555555556
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB ==> T-IL-1b T-TNFa Ty-In vivo SUP:5 CONF:0.5555555555555556
+E-Inhibition S-Inflammation T-NfkB ==> A-Sinapic acid T-IL-1b T-TNFa Ty-In vivo SUP:5 CONF:0.5555555555555556
+A-Sinapic acid E-Inhibition T-NfkB ==> S-Inflammation T-IL-1b T-TNFa Ty-In vivo SUP:5 CONF:0.5555555555555556
+A-Sinapic acid S-Inflammation T-NfkB ==> E-Inhibition T-IL-1b T-TNFa Ty-In vivo SUP:5 CONF:0.5555555555555556
+E-Inhibition T-NfkB ==> A-Sinapic acid S-Inflammation T-IL-1b T-TNFa Ty-In vivo SUP:5 CONF:0.5555555555555556
+S-Inflammation T-NfkB ==> A-Sinapic acid E-Inhibition T-IL-1b T-TNFa Ty-In vivo SUP:5 CONF:0.5555555555555556
+A-Sinapic acid T-NfkB ==> S-Inflammation E-Inhibition T-IL-1b T-TNFa Ty-In vivo SUP:5 CONF:0.5555555555555556
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB ==> T-TNFa T-NO T-IL-6 SUP:5 CONF:0.5555555555555556
+E-Inhibition S-Inflammation T-NfkB ==> A-Sinapic acid T-TNFa T-NO T-IL-6 SUP:5 CONF:0.5555555555555556
+A-Sinapic acid E-Inhibition T-NfkB ==> S-Inflammation T-TNFa T-NO T-IL-6 SUP:5 CONF:0.5555555555555556
+A-Sinapic acid S-Inflammation T-NfkB ==> E-Inhibition T-TNFa T-NO T-IL-6 SUP:5 CONF:0.5555555555555556
+E-Inhibition T-NfkB ==> A-Sinapic acid S-Inflammation T-TNFa T-NO T-IL-6 SUP:5 CONF:0.5555555555555556
+S-Inflammation T-NfkB ==> A-Sinapic acid E-Inhibition T-TNFa T-NO T-IL-6 SUP:5 CONF:0.5555555555555556
+A-Sinapic acid T-NfkB ==> S-Inflammation E-Inhibition T-TNFa T-NO T-IL-6 SUP:5 CONF:0.5555555555555556
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB ==> T-TNFa T-IL-6 Ty-In vivo SUP:5 CONF:0.5555555555555556
+E-Inhibition S-Inflammation T-NfkB ==> A-Sinapic acid T-TNFa T-IL-6 Ty-In vivo SUP:5 CONF:0.5555555555555556
+A-Sinapic acid E-Inhibition T-NfkB ==> S-Inflammation T-TNFa T-IL-6 Ty-In vivo SUP:5 CONF:0.5555555555555556
+A-Sinapic acid S-Inflammation T-NfkB ==> E-Inhibition T-TNFa T-IL-6 Ty-In vivo SUP:5 CONF:0.5555555555555556
+E-Inhibition T-NfkB ==> A-Sinapic acid S-Inflammation T-TNFa T-IL-6 Ty-In vivo SUP:5 CONF:0.5555555555555556
+S-Inflammation T-NfkB ==> A-Sinapic acid E-Inhibition T-TNFa T-IL-6 Ty-In vivo SUP:5 CONF:0.5555555555555556
+A-Sinapic acid T-NfkB ==> S-Inflammation E-Inhibition T-TNFa T-IL-6 Ty-In vivo SUP:5 CONF:0.5555555555555556
+E-Inhibition Ty-In vitro ==> A-Sinapic acid S-Inflammation SUP:6 CONF:0.5454545454545454
+A-Sinapic acid E-Inhibition ==> S-Inflammation T-NfkB SUP:9 CONF:0.5294117647058824
+A-Sinapic acid ==> S-Inflammation E-Inhibition SUP:14 CONF:0.5185185185185185
+A-Sinapic acid ==> S-Inflammation Ty-In vivo SUP:14 CONF:0.5185185185185185
+A-Sinapic acid S-Inflammation ==> E-Inhibition T-TNFa SUP:10 CONF:0.5
+A-Sinapic acid Ty-In vivo ==> T-NO SUP:8 CONF:0.5
+Ty-In vivo ==> A-Sinapic acid T-NO SUP:8 CONF:0.5
+E-Inhibition S-Inflammation ==> Ty-In vitro SUP:8 CONF:0.5
+E-Inhibition S-Inflammation ==> A-Sinapic acid T-IL-1b SUP:8 CONF:0.5
+E-Inhibition S-Inflammation ==> A-Sinapic acid T-IL-6 SUP:8 CONF:0.5
+E-Inhibition S-Inflammation ==> A-Sinapic acid Ty-In vivo SUP:8 CONF:0.5
+A-Sinapic acid Ty-In vivo ==> S-Inflammation E-Inhibition SUP:8 CONF:0.5
+Ty-In vivo ==> A-Sinapic acid S-Inflammation E-Inhibition SUP:8 CONF:0.5
+E-Inhibition S-Inflammation ==> A-Sinapic acid T-NfkB T-TNFa SUP:8 CONF:0.5
+A-Sinapic acid E-Inhibition S-Inflammation ==> T-NfkB T-IL-6 SUP:7 CONF:0.5
+A-Sinapic acid E-Inhibition S-Inflammation ==> T-IL-1b T-TNFa SUP:7 CONF:0.5
+A-Sinapic acid E-Inhibition S-Inflammation ==> T-TNFa T-IL-6 SUP:7 CONF:0.5
+A-Sinapic acid S-Inflammation Ty-In vivo ==> E-Inhibition T-TNFa SUP:7 CONF:0.5
+A-Sinapic acid E-Inhibition S-Inflammation ==> T-TNFa Ty-In vivo SUP:7 CONF:0.5
+S-Inflammation Ty-In vivo ==> A-Sinapic acid E-Inhibition T-TNFa SUP:7 CONF:0.5
+Ty-In vitro ==> A-Sinapic acid S-Inflammation E-Inhibition SUP:6 CONF:0.5
+A-Sinapic acid E-Inhibition S-Inflammation T-TNFa ==> T-IL-1b T-IL-6 SUP:5 CONF:0.5
+E-Inhibition S-Inflammation T-TNFa ==> A-Sinapic acid T-IL-1b T-IL-6 SUP:5 CONF:0.5
+A-Sinapic acid E-Inhibition T-TNFa ==> S-Inflammation T-IL-1b T-IL-6 SUP:5 CONF:0.5
+A-Sinapic acid S-Inflammation T-TNFa ==> E-Inhibition T-IL-1b T-IL-6 SUP:5 CONF:0.5
+E-Inhibition T-TNFa ==> A-Sinapic acid S-Inflammation T-IL-1b T-IL-6 SUP:5 CONF:0.5
+S-Inflammation T-TNFa ==> A-Sinapic acid E-Inhibition T-IL-1b T-IL-6 SUP:5 CONF:0.5
+A-Sinapic acid T-TNFa ==> S-Inflammation E-Inhibition T-IL-1b T-IL-6 SUP:5 CONF:0.5
+T-TNFa ==> A-Sinapic acid S-Inflammation E-Inhibition T-IL-1b T-IL-6 SUP:5 CONF:0.5
+A-Sinapic acid E-Inhibition S-Inflammation T-TNFa ==> T-NfkB T-IL-1b Ty-In vivo SUP:5 CONF:0.5
+E-Inhibition S-Inflammation T-TNFa ==> A-Sinapic acid T-NfkB T-IL-1b Ty-In vivo SUP:5 CONF:0.5
+A-Sinapic acid E-Inhibition T-TNFa ==> S-Inflammation T-NfkB T-IL-1b Ty-In vivo SUP:5 CONF:0.5
+A-Sinapic acid S-Inflammation T-TNFa ==> E-Inhibition T-NfkB T-IL-1b Ty-In vivo SUP:5 CONF:0.5
+E-Inhibition T-TNFa ==> A-Sinapic acid S-Inflammation T-NfkB T-IL-1b Ty-In vivo SUP:5 CONF:0.5
+S-Inflammation T-TNFa ==> A-Sinapic acid E-Inhibition T-NfkB T-IL-1b Ty-In vivo SUP:5 CONF:0.5
+A-Sinapic acid T-TNFa ==> S-Inflammation E-Inhibition T-NfkB T-IL-1b Ty-In vivo SUP:5 CONF:0.5
+T-TNFa ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB T-IL-1b Ty-In vivo SUP:5 CONF:0.5
+T-NfkB ==> A-Sinapic acid S-Inflammation E-Inhibition T-IL-1b T-TNFa Ty-In vivo SUP:5 CONF:0.5
+A-Sinapic acid E-Inhibition S-Inflammation T-TNFa ==> T-NfkB T-NO T-IL-6 SUP:5 CONF:0.5
+E-Inhibition S-Inflammation T-TNFa ==> A-Sinapic acid T-NfkB T-NO T-IL-6 SUP:5 CONF:0.5
+A-Sinapic acid E-Inhibition T-TNFa ==> S-Inflammation T-NfkB T-NO T-IL-6 SUP:5 CONF:0.5
+A-Sinapic acid S-Inflammation T-TNFa ==> E-Inhibition T-NfkB T-NO T-IL-6 SUP:5 CONF:0.5
+E-Inhibition T-TNFa ==> A-Sinapic acid S-Inflammation T-NfkB T-NO T-IL-6 SUP:5 CONF:0.5
+S-Inflammation T-TNFa ==> A-Sinapic acid E-Inhibition T-NfkB T-NO T-IL-6 SUP:5 CONF:0.5
+A-Sinapic acid T-NO ==> S-Inflammation E-Inhibition T-NfkB T-TNFa T-IL-6 SUP:5 CONF:0.5
+A-Sinapic acid T-TNFa ==> S-Inflammation E-Inhibition T-NfkB T-NO T-IL-6 SUP:5 CONF:0.5
+T-NO ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB T-TNFa T-IL-6 SUP:5 CONF:0.5
+T-TNFa ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB T-NO T-IL-6 SUP:5 CONF:0.5
+T-NfkB ==> A-Sinapic acid S-Inflammation E-Inhibition T-TNFa T-NO T-IL-6 SUP:5 CONF:0.5
+A-Sinapic acid E-Inhibition S-Inflammation T-TNFa ==> T-NfkB T-IL-6 Ty-In vivo SUP:5 CONF:0.5
+E-Inhibition S-Inflammation T-TNFa ==> A-Sinapic acid T-NfkB T-IL-6 Ty-In vivo SUP:5 CONF:0.5
+A-Sinapic acid E-Inhibition T-TNFa ==> S-Inflammation T-NfkB T-IL-6 Ty-In vivo SUP:5 CONF:0.5
+A-Sinapic acid S-Inflammation T-TNFa ==> E-Inhibition T-NfkB T-IL-6 Ty-In vivo SUP:5 CONF:0.5
+E-Inhibition T-TNFa ==> A-Sinapic acid S-Inflammation T-NfkB T-IL-6 Ty-In vivo SUP:5 CONF:0.5
+S-Inflammation T-TNFa ==> A-Sinapic acid E-Inhibition T-NfkB T-IL-6 Ty-In vivo SUP:5 CONF:0.5
+A-Sinapic acid T-TNFa ==> S-Inflammation E-Inhibition T-NfkB T-IL-6 Ty-In vivo SUP:5 CONF:0.5
+T-TNFa ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB T-IL-6 Ty-In vivo SUP:5 CONF:0.5
+T-NfkB ==> A-Sinapic acid S-Inflammation E-Inhibition T-TNFa T-IL-6 Ty-In vivo SUP:5 CONF:0.5
+A-Sinapic acid Ty-In vivo T-NO ==> S-Inflammation T-oxydative stress SUP:4 CONF:0.5
+A-Sinapic acid S-Inflammation T-NO ==> Ty-In vivo T-oxydative stress SUP:4 CONF:0.5
+Ty-In vivo T-NO ==> A-Sinapic acid S-Inflammation T-oxydative stress SUP:4 CONF:0.5
+S-Inflammation T-NO ==> A-Sinapic acid Ty-In vivo T-oxydative stress SUP:4 CONF:0.5
+A-Sinapic acid E-Inhibition S-Inflammation T-IL-6 ==> T-IL-1b T-TNFa T-NO SUP:4 CONF:0.5
+A-Sinapic acid E-Inhibition S-Inflammation T-IL-1b ==> T-TNFa T-NO T-IL-6 SUP:4 CONF:0.5
+E-Inhibition S-Inflammation T-IL-6 ==> A-Sinapic acid T-IL-1b T-TNFa T-NO SUP:4 CONF:0.5
+E-Inhibition S-Inflammation T-IL-1b ==> A-Sinapic acid T-TNFa T-NO T-IL-6 SUP:4 CONF:0.5
+A-Sinapic acid E-Inhibition T-IL-6 ==> S-Inflammation T-IL-1b T-TNFa T-NO SUP:4 CONF:0.5
+A-Sinapic acid E-Inhibition T-IL-1b ==> S-Inflammation T-TNFa T-NO T-IL-6 SUP:4 CONF:0.5
+A-Sinapic acid S-Inflammation T-IL-6 ==> E-Inhibition T-IL-1b T-TNFa T-NO SUP:4 CONF:0.5
+A-Sinapic acid S-Inflammation T-NO ==> E-Inhibition T-IL-1b T-TNFa T-IL-6 SUP:4 CONF:0.5
+A-Sinapic acid S-Inflammation T-IL-1b ==> E-Inhibition T-TNFa T-NO T-IL-6 SUP:4 CONF:0.5
+E-Inhibition T-IL-6 ==> A-Sinapic acid S-Inflammation T-IL-1b T-TNFa T-NO SUP:4 CONF:0.5
+E-Inhibition T-IL-1b ==> A-Sinapic acid S-Inflammation T-TNFa T-NO T-IL-6 SUP:4 CONF:0.5
+S-Inflammation T-IL-6 ==> A-Sinapic acid E-Inhibition T-IL-1b T-TNFa T-NO SUP:4 CONF:0.5
+S-Inflammation T-NO ==> A-Sinapic acid E-Inhibition T-IL-1b T-TNFa T-IL-6 SUP:4 CONF:0.5
+S-Inflammation T-IL-1b ==> A-Sinapic acid E-Inhibition T-TNFa T-NO T-IL-6 SUP:4 CONF:0.5
+A-Sinapic acid T-IL-6 ==> S-Inflammation E-Inhibition T-IL-1b T-TNFa T-NO SUP:4 CONF:0.5
+A-Sinapic acid T-IL-1b ==> S-Inflammation E-Inhibition T-TNFa T-NO T-IL-6 SUP:4 CONF:0.5
+T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-IL-1b T-TNFa T-NO SUP:4 CONF:0.5
+T-IL-1b ==> A-Sinapic acid S-Inflammation E-Inhibition T-TNFa T-NO T-IL-6 SUP:4 CONF:0.5
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB T-TNFa ==> T-NO T-IL-6 Ty-In vivo SUP:4 CONF:0.5
+E-Inhibition S-Inflammation T-NfkB T-TNFa ==> A-Sinapic acid T-NO T-IL-6 Ty-In vivo SUP:4 CONF:0.5
+A-Sinapic acid E-Inhibition T-NfkB T-TNFa ==> S-Inflammation T-NO T-IL-6 Ty-In vivo SUP:4 CONF:0.5
+A-Sinapic acid S-Inflammation T-NfkB T-TNFa ==> E-Inhibition T-NO T-IL-6 Ty-In vivo SUP:4 CONF:0.5
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo ==> T-NfkB T-TNFa T-NO T-IL-6 SUP:4 CONF:0.5
+A-Sinapic acid E-Inhibition S-Inflammation T-IL-6 ==> T-NfkB T-TNFa T-NO Ty-In vivo SUP:4 CONF:0.5
+E-Inhibition T-NfkB T-TNFa ==> A-Sinapic acid S-Inflammation T-NO T-IL-6 Ty-In vivo SUP:4 CONF:0.5
+S-Inflammation T-NfkB T-TNFa ==> A-Sinapic acid E-Inhibition T-NO T-IL-6 Ty-In vivo SUP:4 CONF:0.5
+E-Inhibition S-Inflammation Ty-In vivo ==> A-Sinapic acid T-NfkB T-TNFa T-NO T-IL-6 SUP:4 CONF:0.5
+E-Inhibition S-Inflammation T-IL-6 ==> A-Sinapic acid T-NfkB T-TNFa T-NO Ty-In vivo SUP:4 CONF:0.5
+A-Sinapic acid Ty-In vivo T-NO ==> S-Inflammation E-Inhibition T-NfkB T-TNFa T-IL-6 SUP:4 CONF:0.5
+A-Sinapic acid T-NfkB T-TNFa ==> S-Inflammation E-Inhibition T-NO T-IL-6 Ty-In vivo SUP:4 CONF:0.5
+A-Sinapic acid E-Inhibition Ty-In vivo ==> S-Inflammation T-NfkB T-TNFa T-NO T-IL-6 SUP:4 CONF:0.5
+A-Sinapic acid E-Inhibition T-IL-6 ==> S-Inflammation T-NfkB T-TNFa T-NO Ty-In vivo SUP:4 CONF:0.5
+A-Sinapic acid S-Inflammation T-IL-6 ==> E-Inhibition T-NfkB T-TNFa T-NO Ty-In vivo SUP:4 CONF:0.5
+A-Sinapic acid S-Inflammation T-NO ==> E-Inhibition T-NfkB T-TNFa T-IL-6 Ty-In vivo SUP:4 CONF:0.5
+Ty-In vivo T-NO ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB T-TNFa T-IL-6 SUP:4 CONF:0.5
+T-NfkB T-TNFa ==> A-Sinapic acid S-Inflammation E-Inhibition T-NO T-IL-6 Ty-In vivo SUP:4 CONF:0.5
+E-Inhibition Ty-In vivo ==> A-Sinapic acid S-Inflammation T-NfkB T-TNFa T-NO T-IL-6 SUP:4 CONF:0.5
+E-Inhibition T-IL-6 ==> A-Sinapic acid S-Inflammation T-NfkB T-TNFa T-NO Ty-In vivo SUP:4 CONF:0.5
+S-Inflammation T-IL-6 ==> A-Sinapic acid E-Inhibition T-NfkB T-TNFa T-NO Ty-In vivo SUP:4 CONF:0.5
+S-Inflammation T-NO ==> A-Sinapic acid E-Inhibition T-NfkB T-TNFa T-IL-6 Ty-In vivo SUP:4 CONF:0.5
+A-Sinapic acid T-IL-6 ==> S-Inflammation E-Inhibition T-NfkB T-TNFa T-NO Ty-In vivo SUP:4 CONF:0.5
+T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB T-TNFa T-NO Ty-In vivo SUP:4 CONF:0.5
+A-Sinapic acid E-Inhibition S-Inflammation T-NfkB T-TNFa ==> T-IL-1b T-IL-6 Ty-In vivo T-oxydative stress SUP:4 CONF:0.5
+E-Inhibition S-Inflammation T-NfkB T-TNFa ==> A-Sinapic acid T-IL-1b T-IL-6 Ty-In vivo T-oxydative stress SUP:4 CONF:0.5
+A-Sinapic acid E-Inhibition T-NfkB T-TNFa ==> S-Inflammation T-IL-1b T-IL-6 Ty-In vivo T-oxydative stress SUP:4 CONF:0.5
+A-Sinapic acid S-Inflammation T-NfkB T-TNFa ==> E-Inhibition T-IL-1b T-IL-6 Ty-In vivo T-oxydative stress SUP:4 CONF:0.5
+A-Sinapic acid E-Inhibition S-Inflammation Ty-In vivo ==> T-NfkB T-IL-1b T-TNFa T-IL-6 T-oxydative stress SUP:4 CONF:0.5
+A-Sinapic acid E-Inhibition S-Inflammation T-IL-6 ==> T-NfkB T-IL-1b T-TNFa Ty-In vivo T-oxydative stress SUP:4 CONF:0.5
+A-Sinapic acid E-Inhibition S-Inflammation T-IL-1b ==> T-NfkB T-TNFa T-IL-6 Ty-In vivo T-oxydative stress SUP:4 CONF:0.5
+E-Inhibition T-NfkB T-TNFa ==> A-Sinapic acid S-Inflammation T-IL-1b T-IL-6 Ty-In vivo T-oxydative stress SUP:4 CONF:0.5
+S-Inflammation T-NfkB T-TNFa ==> A-Sinapic acid E-Inhibition T-IL-1b T-IL-6 Ty-In vivo T-oxydative stress SUP:4 CONF:0.5
+E-Inhibition S-Inflammation Ty-In vivo ==> A-Sinapic acid T-NfkB T-IL-1b T-TNFa T-IL-6 T-oxydative stress SUP:4 CONF:0.5
+E-Inhibition S-Inflammation T-IL-6 ==> A-Sinapic acid T-NfkB T-IL-1b T-TNFa Ty-In vivo T-oxydative stress SUP:4 CONF:0.5
+E-Inhibition S-Inflammation T-IL-1b ==> A-Sinapic acid T-NfkB T-TNFa T-IL-6 Ty-In vivo T-oxydative stress SUP:4 CONF:0.5
+A-Sinapic acid T-NfkB T-TNFa ==> S-Inflammation E-Inhibition T-IL-1b T-IL-6 Ty-In vivo T-oxydative stress SUP:4 CONF:0.5
+A-Sinapic acid E-Inhibition Ty-In vivo ==> S-Inflammation T-NfkB T-IL-1b T-TNFa T-IL-6 T-oxydative stress SUP:4 CONF:0.5
+A-Sinapic acid E-Inhibition T-IL-6 ==> S-Inflammation T-NfkB T-IL-1b T-TNFa Ty-In vivo T-oxydative stress SUP:4 CONF:0.5
+A-Sinapic acid E-Inhibition T-IL-1b ==> S-Inflammation T-NfkB T-TNFa T-IL-6 Ty-In vivo T-oxydative stress SUP:4 CONF:0.5
+A-Sinapic acid S-Inflammation T-IL-6 ==> E-Inhibition T-NfkB T-IL-1b T-TNFa Ty-In vivo T-oxydative stress SUP:4 CONF:0.5
+A-Sinapic acid S-Inflammation T-IL-1b ==> E-Inhibition T-NfkB T-TNFa T-IL-6 Ty-In vivo T-oxydative stress SUP:4 CONF:0.5
+T-NfkB T-TNFa ==> A-Sinapic acid S-Inflammation E-Inhibition T-IL-1b T-IL-6 Ty-In vivo T-oxydative stress SUP:4 CONF:0.5
+E-Inhibition Ty-In vivo ==> A-Sinapic acid S-Inflammation T-NfkB T-IL-1b T-TNFa T-IL-6 T-oxydative stress SUP:4 CONF:0.5
+E-Inhibition T-IL-6 ==> A-Sinapic acid S-Inflammation T-NfkB T-IL-1b T-TNFa Ty-In vivo T-oxydative stress SUP:4 CONF:0.5
+E-Inhibition T-IL-1b ==> A-Sinapic acid S-Inflammation T-NfkB T-TNFa T-IL-6 Ty-In vivo T-oxydative stress SUP:4 CONF:0.5
+S-Inflammation T-IL-6 ==> A-Sinapic acid E-Inhibition T-NfkB T-IL-1b T-TNFa Ty-In vivo T-oxydative stress SUP:4 CONF:0.5
+S-Inflammation T-IL-1b ==> A-Sinapic acid E-Inhibition T-NfkB T-TNFa T-IL-6 Ty-In vivo T-oxydative stress SUP:4 CONF:0.5
+A-Sinapic acid T-IL-6 ==> S-Inflammation E-Inhibition T-NfkB T-IL-1b T-TNFa Ty-In vivo T-oxydative stress SUP:4 CONF:0.5
+A-Sinapic acid T-IL-1b ==> S-Inflammation E-Inhibition T-NfkB T-TNFa T-IL-6 Ty-In vivo T-oxydative stress SUP:4 CONF:0.5
+T-IL-6 ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB T-IL-1b T-TNFa Ty-In vivo T-oxydative stress SUP:4 CONF:0.5
+T-IL-1b ==> A-Sinapic acid S-Inflammation E-Inhibition T-NfkB T-TNFa T-IL-6 Ty-In vivo T-oxydative stress SUP:4 CONF:0.5
