@@ -1,0 +1,10 @@
+les fichiers suivants  contiennent un algorithme qui permet de calculer le coefficient de similarité et choisir un seuil. 
+Pour exécuter l'algorithme:
+1-il faut aller tout d'abord à l'onglet développeur puis cliquer sur Visual BAsic
+2- une fenêtre s'ouvre. Il faut voir dans la liste des éléments à gauche puis explorer la liste "Feuilles"
+3- Deux éléments s'affiche "userForm 1" et "userform 2"
+4- Si vous voulez calculer coefficient de similarité cliquer sur "userform 1" puis cliquer sur le triangle vert pour executer le programme
+5- une fois vous cliquez sur le triangle vert une interface apparaitre choisir le coefficient que vous voulez puis cliquez sur "calculer"
+6- si vous voulez choisir un seuil de similarité cliquer sur "user form 2" puis cliquer sur le triangle vert.
+7- une interface apparaitre, vous entrez le seuil de similarité puis cliquer sur "calculer" 
+8- si vous voulez enregistrer les données dans un fichier CSV cliquer sur "enregistrer CSV"

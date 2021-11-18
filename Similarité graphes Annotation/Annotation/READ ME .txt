@@ -1,0 +1,5 @@
+Pour annoter les molécules il faut tout d'abord executer les étapes expliquer dans le dossier similarité sur l'un des fichiers.
+Puis choisir un coefficients de similarité. 
+En suite sur la colonne gauche du Visual VBA cliquer sur la feuille "Annotation" 
+puis exécuter le programme avec le triangle vert
+Les données vont être annoter par la suite 

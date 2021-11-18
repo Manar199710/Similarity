@@ -1,0 +1,7 @@
+les fichiers suivants sont l'entrée du logiciel "Neo4j". 
+Il  faut copier coller ces bases de données dans le fichier "import" du logiciel puis executez les lignes suivantes en changeant le nom de la abse de données. 
+LOAD CSV WITH HEADERS FROM "file:///ANTIOXIDANT-JaccardS.csv" AS row FIELDTERMINATOR ';' 
+MERGE (p:OxidMSJ {name: (row.Depart)}) 
+MERGE (p1:OxidMSJ {name: (row.Arriver)}) 
+MERGE (p)-[:RELATION {Cost: row.Cost}]->(p1)
+MATCH (n:OxidMSJ) RETURN n
